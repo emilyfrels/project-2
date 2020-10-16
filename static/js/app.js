@@ -21,11 +21,21 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 console.log("Added tile layer");
 
+var coordinates = []
+
 // read in course_subset.csv file
-d3.csv("/results/course_subset.csv").then(function(data) {
-  for (var i=0; i < data.length; i++) {
-    console.log(data);
+d3.csv("/results/course_subset.csv").then(function(addressData) {
+  for (var i=0; i < addressData.length; i++) {
+    var location = addressData[i];
+    // console.log(location.lat);
+    // console.log(location.lng);
+    coordinates.push([location.lat, location.lng]);
+    console.log(coordinates);
+    L.marker(coordinates[i])
+    .bindPopup("<h6>" + location.course + "</h6> <hr> <p><strong>Address: </strong></br>" + location.street + "<br>" + location.city + ", " + location.state + " " + location.zip_code + "</p>")
+    .addTo(myMap);
   }
 
 });
-console.log("reading in csv:");
+
+
