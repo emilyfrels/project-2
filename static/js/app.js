@@ -7,6 +7,7 @@ var myMap = L.map("map", {
   center: [39.8333333, -98.585522],
   zoom: 5
 });
+console.log("Created map object.");
 
 // Adding tile layer
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
@@ -17,3 +18,14 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   id: "mapbox/streets-v11",
   accessToken: API_KEY
 }).addTo(myMap);
+
+console.log("Added tile layer");
+
+// read in course_subset.csv file
+d3.csv("/results/course_subset.csv").then(function(data) {
+  for (var i=0; i < data.length; i++) {
+    console.log(data);
+  }
+
+});
+console.log("reading in csv:");
