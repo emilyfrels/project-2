@@ -1,31 +1,32 @@
 #import dependencies
-import numpy as np
+from flask import Flask
+from flask import render_template 
+from flask import jsonify
 
+
+# Import the functions we need from SQL Alchemy
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
-
-import datetime as dt
-
-
-#import flask and jsonify
-from flask import Flask, jsonify
+from sqlalchemy import create_engine
 
 #############################################################
 #                      DATABASE SETUP                       #
 #############################################################
 
-# engine TBD
-engine = create_engine("")
 
-#reflect an existing database into a new model
-Base = automap_base()
 
-#reflect tables
-Base.prepare(engine, reflect=True)
 
-#save references to tables
+connection_string = f'postgresql://{username}:{password}@localhost:5432/{database_name}'
+
+# Connect to the database
+engine = create_engine(connection_string)
+base = automap_base()
+base.prepare(engine, reflect=True)
+
+# Choose the table we wish to use
+# Need to update the database name once determine
+table = base.classes.{database_name}}
 
 #############################################################
 #                       FLASK SETUP                        #
@@ -34,27 +35,20 @@ Base.prepare(engine, reflect=True)
 #create an app
 app = Flask(__name__)
 
+# Effectively disables page caching
+app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0 
+
 #Define what to do when a user hits the index route
 @app.route("/")
 def home():
-    print("Server received request for 'Home' page. ")
-    """List all available api routes."""
-    return (
-        # routes TBD
-        f"Available Routes:<br/>"
-    )
+
+    webpage = render_template("index.html")
+    return webpage
 
 #Define route
 @app.route("")
 def to_be_named():
 
-    #create session link
-    session = Session(engine)
-
-    
-
-    #close session
-    session.close()
 
 
 
