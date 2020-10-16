@@ -1,560 +1,485 @@
-course_id,course,city,state,street,zip_code,lng,lat,hole
-7671,Heart of the Valley Golf Club,Ada,Minnesota,SE Corner of Ada,56510.0,-96.51534629999999,47.299689,9.0
-7672,Cedar River Country Club,Adams,Minnesota,Hwy 56 W,55909.0,-92.71934089999999,43.5653812,18.0
-7673,Adrian Golf Course,Adrian,Minnesota,Hwy 91 S,56110.0,-95.9331334,43.6349616,9.0
-7674,Albany Golf Club,Albany,Minnesota,500 Church St,56307.0,-94.57027599999999,45.62908300000001,18.0
-7675,Albert Lea Golf Club,Albert Lea,Minnesota,1701 Country Club Rd,56007.0,-93.390658,43.6705862,18.0
-7676,Green Lea Golf Course,Albert Lea,Minnesota,101 E Richway Dr,56007.0,-93.3681987,43.66433259999999,18.0
-7677,Alexandria Golf Club,Alexandria,Minnesota,County Rd 42 No,56308.0,-95.3672813,45.9071454,18.0
-7678,Arrowwood Golf Club,Alexandria,Minnesota,2100 Arrowwood Ln,56308.0,-95.4073842,45.9228191,18.0
-7679,Lake Miltona Golf Club,Alexandria,Minnesota,12710 State Hwy 29 No,56308.0,-95.3894782,45.7765829,9.0
-7680,Woodland Creek Golf Course,Andover,Minnesota,3200 S Coon Creek Dr,55304.0,-93.3471689,45.227269,9.0
-7681,Southbrook Golf & Country Club,Annandale,Minnesota,511 Morrison Ave,55302.0,-94.14596619999999,45.2560424,18.0
-7682,Albion Ridges Golf Course,Annandale,Minnesota,7771 20th St NW,55302.0,-94.048306,45.180102,18.0
-7683,Whispering Pines Golf Club,Annandale,Minnesota,County Rd 6,55302.0,-94.0723122,45.2136818,18.0
-7684,Greenhaven Golf Course,Anoka,Minnesota,2800 Greenhaven Rd,55303.0,-93.39888499999999,45.20907099999999,18.0
-7685,Appleton Golf Club,Appleton,Minnesota,331 E Wyman Ave,56208.0,-96.01181989999999,45.2065668,9.0
-7686,Apple Valley Golf Course,"Apple 
-                                Valley",Minnesota,8661 140th St W,55124.0,-93.2418115,44.7512113,9.0
-7687,Valleywood Golf Course,"Apple 
-                                Valley",Minnesota,4851 125th St W,55124.0,-93.16117,44.771603,18.0
-7688,Island Pine Golf Club,Atwater,Minnesota,1601 Wyoming Ave W,56209.0,-94.78798689999999,45.133447,18.0
-7689,Meadow Greens Golf Course,Austin,Minnesota,Mower County 25,55912.0,-92.9739702,43.6680289,18.0
-7690,Austin Country Club,Austin,Minnesota,28th St NE,55912.0,-92.92993539999999,43.6744018,18.0
-7691,Ramsey Golf Club,Austin,Minnesota,Rural Route 1,55912.0,-92.97463669999999,43.6666296,18.0
-7692,Babbitt Golf Course,Babbitt,Minnesota,2806 Hwy 21,55706.0,-91.9804108,47.7140659,9.0
-7693,Black Bear Golf Course,Backus,Minnesota,2898 16th St SW,56435.0,-94.48803629999999,46.7482404,9.0
-7694,Twin Pines Golf Course,Bagley,Minnesota,Route 1,56621.0,-95.3983573,47.5218054,9.0
-7695,Willow Creek Municipal Golf Course,Barnesville,Minnesota,Route 1,56514.0,-96.42001259999999,46.6533237,9.0
-7696,Balmoral Golf Course,"Battle 
-                                Lake",Minnesota,Route 3,56515.0,-95.7136582,46.2805162,18.0
-7697,Oak Harbor Golf Course,Baudette,Minnesota,Rural Route 1,56623.0,-94.59992989999999,48.7124736,9.0
-7698,Pine Meadows Golf Course,Baxter,Minnesota,500 Golf Course Dr,56425.0,-94.2393283,46.3589242,18.0
-7699,White/Blue at Pebble Creek Country Club,Becker,Minnesota,14000 Club House Dr,55308.0,-93.8649339,45.4040958,9.0
-7700,Blue/Red at Pebble Creek Country Club,Becker,Minnesota,14000 Club House Dr,55308.0,-93.8649339,45.4040958,9.0
-7701,Red/White at Pebble Creek Country Club,Becker,Minnesota,14000 Club House Dr,55308.0,-93.8649339,45.4040958,9.0
-7702,Valley View Golf Club,"Belle 
-                                Plaine",Minnesota,23795 Laredo Ave,56011.0,-93.75272299999999,44.602688,18.0
-7703,Greenwood Golf Course,Bemidji,Minnesota,1361 Swenson Rd NE,56601.0,-94.7030868,47.4768867,18.0
-7704,Maple Ridge Golf Course,Bemidji,Minnesota,Route 10,56601.0,-94.88692139999999,47.4776391,9.0
-7705,Bemidji Town & Country Club,Bemidji,Minnesota,Birchmont Beach Rd,56601.0,-94.6505674,47.5410511,18.0
-7706,Castle Highlands Golf Course,Bemidji,Minnesota,Route 5,56601.0,-94.8826861,47.471573,18.0
-7707,Benson Golf Club,Benson,Minnesota,2222 Atlantic Ave,56215.0,-95.61283759999999,45.3187515,18.0
-7708,Edge of the Wilderness Golf Course,Bigfork,Minnesota,1 mile E of Bigfork,56628.0,-93.6540847,47.7443867,9.0
-7709,Carefree Country Club,Big Lake,Minnesota,12055 185th Ave SE,55309.0,-93.7715231,45.3967235,18.0
-7710,Giants Ridge Golf & Ski Resort,Biwabik,Minnesota,County Rd 138,55708.0,-92.3005392,47.5701777,18.0
-7711,Blackduck Municipal Golf Course,Blackduck,Minnesota,Lake Rd,56630.0,-94.5617008,47.72958149999999,9.0
-7712,Blooming Prairie Country Club,"Blooming 
-                                Prairie",Minnesota,Hwy 218 No,55917.0,-93.0493156,43.8664567,9.0
-7713,The Short at Hyland Greens Golf Course,Bloomington,Minnesota,10100 Normandale Blvd,55437.0,-93.354404,44.820681,9.0
-7714,Dwan Golf Club,Bloomington,Minnesota,3301 W 110th St,55431.0,-93.3248145,44.8039166,18.0
-7715,The Long at Hyland Greens Golf Course,Bloomington,Minnesota,10100 Normandale Blvd,55437.0,-93.354404,44.820681,9.0
-7716,Minnesota Valley Country Club,Bloomington,Minnesota,6300 Auto Club Rd,55438.0,-93.363095,44.79310100000001,18.0
-7717,Pine Beach West at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401.0,-94.3758079,46.3963602,18.0
-7718,Social Nine at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401.0,-94.3758079,46.3963602,9.0
-7719,The Classic at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401.0,-94.3758079,46.3963602,18.0
-7720,"One/Two at Legacy Courses at Craguns, The",Brainerd,Minnesota,11000 Craguns Dr,56401.0,-94.3702781,46.38972099999999,18.0
-7721,"One/Three at Legacy Courses at Craguns, The",Brainerd,Minnesota,11000 Craguns Dr,56401.0,-94.3702781,46.38972099999999,18.0
-7722,"Two/Three at Legacy Courses at Craguns, The",Brainerd,Minnesota,11000 Craguns Dr,56401.0,-94.3702781,46.38972099999999,18.0
-7723,Pine Beach East at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401.0,-94.3758079,46.3963602,18.0
-7724,Traditional at Breezy Point Golf Course,"Breezy 
-                                Point",Minnesota,Hwy 11 Breezy Point Resort,56472.0,-94.208694,46.58978,18.0
-7725,Deacon's Lodge,"Breezy 
-                                Point",Minnesota,HC 83 Weavers Point Rd,56472.0,-94.20744069999999,46.60239199999999,18.0
-7726,White Birch at Breezy Point Golf Course,"Breezy 
-                                Point",Minnesota,Hwy 11 Breezy Point Resort,56472.0,-94.208694,46.58978,18.0
-7727,Centerbrook Golf Course,"Brooklyn 
-                                Center",Minnesota,5500 N Lilac Dr,55430.0,-93.3132828,45.0545865,9.0
-7728,Brookland Executive Nine Golf Course,"Brooklyn 
-                                Park",Minnesota,8232 Regent Ave No,55443.0,-93.34466499999999,45.105574,9.0
-7729,Edinburgh USA Golf Course,"Brooklyn 
-                                Park",Minnesota,8700 Edinbrook Crossing,55443.0,-93.3270204,45.1124567,18.0
-7730,Prairie View Community Golf,Brooten,Minnesota,1000 Crow Lake St,56316.0,-95.12169639999999,45.496833,9.0
-7731,Buffalo Heights Golf Course,Buffalo,Minnesota,905 Hwy 25 S,55313.0,-93.8707079,45.161144,9.0
-7732,Oakdale Country Club,"Buffalo 
-                                Lake",Minnesota,Route 2,55314.0,-94.6169333,44.7371841,18.0
-7733,Birnamwood Public Golf Course,Burnsville,Minnesota,12424 Parkwood Dr,55337.0,-93.25994730000001,44.7787519,9.0
-7734,Orchard Gardens Golf Course,Burnsville,Minnesota,1020 W 155th St,55306.0,-93.29361709999999,44.7226841,9.0
-7735,Macal Grove Country Club,Caledonia,Minnesota,Hwy 44,55921.0,-91.504526,43.6360673,9.0
-7736,Purple Hawk Country Club,Cambridge,Minnesota,Hwy 65,55008.0,-93.2167253,45.562622,18.0
-7737,Canby Golf Club,Canby,Minnesota,Rural Route 3,56220.0,-96.2764335,44.7088525,9.0
-7738,The Lynx at Elmdale Hills Golf Course,"Cannon 
-                                Falls",Minnesota,26161 Nicoali Ave,55009.0,-92.81249059999999,44.56947359999999,9.0
-7739,The Tiger at Elmdale Hills Golf Course,"Cannon 
-                                Falls",Minnesota,26161 Nicoali Ave,55009.0,-92.81249059999999,44.56947359999999,18.0
-7740,Cannon Golf Club,"Cannon 
-                                Falls",Minnesota,8606 295th St E,55009.0,-92.93248439999999,44.5182448,18.0
-7741,Pine Hill Golf Club,Carlton,Minnesota,1689 County Rd 61,55718.0,-92.4941042,46.6514906,9.0
-7742,Sandtrap Golf Course,Cass Lake,Minnesota,Route 3,56633.0,-94.6043207,47.3793942,9.0
-7743,Woods at Viking Meadows Golf Club,Cedar,Minnesota,1788 Viking Blvd NE,55011.0,-93.2296519,45.3163173,9.0
-7744,Hidden Haven Country Club,Cedar,Minnesota,20520 NE Polk St,55011.0,-93.2476882,45.341896,18.0
-7745,Meadows at Viking Meadows Golf Club,Cedar,Minnesota,1788 Viking Blvd NE,55011.0,-93.2296519,45.3163173,18.0
-7746,Chaska Town Course,Chaska,Minnesota,3000 Town Course Dr,55318.0,-93.6309474,44.8297774,18.0
-7747,Bluff Creek Golf Course,Chaska,Minnesota,1025 Creekwood St,55318.0,-93.5503279,44.82262799999999,18.0
-7748,Chaska Par da,Chaska,Minnesota,1207 Hazeltine Blvd,55318.0,-93.6001325,44.8360936,9.0
-7749,Dahlgreen Golf Club,Chaska,Minnesota,6940 Dahlgreen Rd,55318.0,-93.69937069999999,44.7697142,18.0
-7750,Hazeltine National Golf Club,Chaska,Minnesota,1900 Hazeltine Blvd,55318.0,-93.5908194,44.833729,18.0
-7751,Chosen Valley Country Club,Chatfield,Minnesota,1801 Main St S,55923.0,-92.1717723,43.8351206,9.0
-7752,KateHaven Golf Course,"Circle 
-                                Pines",Minnesota,8791 Lexington Ave NE,55014.0,-93.16108299999999,45.12967099999999,9.0
-7753,Chomonix Golf Course,"Circle 
-                                Pines",Minnesota,646 Sandpiper Dr,55014.0,-93.10392689999999,45.1606787,18.0
-7754,Clarks Grove Golf Course,"Clarks 
-                                Grove",Minnesota,Old Hwy 65,56016.0,-93.322453,43.7643441,9.0
-7755,Travelers Country Club on the Mississippi,Clear Lake,Minnesota,8013 County Rd 8,55319.0,-93.9945815,45.4105218,9.0
-7756,Eagle Trace Golfers Club,Clearwater,Minnesota,1100 Main St,55320.0,-94.04263279999999,45.40936199999999,18.0
-7757,Bentwood Municipal Golf Course,Climax,Minnesota,Hwy 75 No,56523.0,-96.8170222,47.6077515,9.0
-7758,Big Lake Golf Club,Cloquet,Minnesota,780 Cary Rd,55720.0,-92.6152228,46.7169128,9.0
-7759,Cloquet Country Club,Cloquet,Minnesota,400 Country Club Dr,55720.0,-92.4853236,46.7220861,9.0
-7760,Ruttger's Sugarbrooke Golf Club,Cohasset,Minnesota,1000 Otis Ln,55721.0,-93.654703,47.1644792,18.0
-7761,Cokato Town & Country Club,Cokato,Minnesota,Hwy 12 W,55321.0,-94.1900743,45.0799933,9.0
-7762,Rich Spring Golf Club,Cold Spring,Minnesota,17467 Fairway Circle,56320.0,-94.4707103,45.44602039999999,18.0
-7763,River Oaks Golf Course,Cold Spring,Minnesota,23742 County Rd 2,56320.0,-94.4203623,45.46867590000001,18.0
-7764,Eagle Ridge Golf Course,Coleraine,Minnesota,One Green Way,55722.0,-93.4332044,47.2777673,18.0
-7765,Vermilion Fairways Golf Club,Cook,Minnesota,2407 Vermilion Dr,55723.0,-92.6647089,47.8973295,9.0
-7766,East/West at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448.0,-121.8291052,44.2503233,18.0
-7767,North/West at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448.0,-121.8291052,44.2503233,18.0
-7768,North/East at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448.0,-121.8291052,44.2503233,18.0
-7769,Executive at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448.0,-121.8291052,44.2503233,9.0
-7770,Shamrock Golf Club,Corcoran,Minnesota,19625 Larkin Rd,55340.0,-93.533968,45.0837519,18.0
-7771,Mississippi Dunes Golf Links,"Cottage 
-                                Grove",Minnesota,10351 Grey Cloud Trl,55016.0,-92.9726669,44.7925191,18.0
-7772,River Oaks Municipal Golf Course,"Cottage 
-                                Grove",Minnesota,11099 Hwy 61 S,55016.0,-92.8873567,44.788359,18.0
-7773,Cottonwood Country Club,Cottonwood,Minnesota,233 Shoreview Dr,56229.0,-95.689917,44.610261,9.0
-7774,Minakwa Country Club,Crookston,Minnesota,Fisher Ave,56716.0,-96.59470019999999,47.7892951,9.0
-7775,Crosswoods Golf Course,Crosslake,Minnesota,County Rd 3,56442.0,-94.09052799999999,46.675954,18.0
-7776,Orono Golf Course,"Crystal 
-                                Bay",Minnesota,265 Orono Orchard Rd,55323.0,-93.5586161,44.9743557,9.0
-7777,Lakeway Golf Course,Dalton,Minnesota,Route 1,56324.0,-95.8472109,46.1401657,9.0
-7778,Dawson Golf Club,Dawson,Minnesota,15th St &amp; Locust Ave,56232.0,-95.9068406,36.1412662,9.0
-7779,Hayden Hills Executive Golf Course,Dayton,Minnesota,13150 Deerwood Ln No,55327.0,-93.4272615,45.1924888,18.0
-7780,French Lake Executive Course,Dayton,Minnesota,17500 County Rd 81,55369.0,-93.502924,45.1608589,9.0
-7781,Daytona Country Club,Dayton,Minnesota,14730 Lawndale Ln No,55327.0,-93.50041999999999,45.222988,18.0
-7782,Blueberry Hills Country Club,Deer River,Minnesota,Golf Course Rd,56636.0,-93.78984249999999,47.3608112,9.0
-7783,Lodge Nine at Ruttger's Bay Lake Lodge,Deerwood,Minnesota,Rural Route 2,56444.0,-93.89998059999999,46.4741399,9.0
-7784,Cuyuna Country Club,Deerwood,Minnesota,Hwy 210,56444.0,-93.89973239999999,46.4737026,18.0
-7785,The Lakes at Ruttger's Bay Lake Lodge,Deerwood,Minnesota,Rural Route 2,56444.0,-93.89998059999999,46.4741399,18.0
-7786,Dellwood Hills Golf Club,Dellwood,Minnesota,29 E Hwy 96,55110.0,-92.977249,45.0963843,18.0
-7787,White Bear Yacht Club,Dellwood,Minnesota,Dellwood Ave,55110.0,-92.97213269999999,45.0891096,18.0
-7788,Lakeview at Detroit Country Club,"Detroit 
-                                Lakes",Minnesota,Rural Route 5,56501.0,-95.8453253,46.8171808,18.0
-7789,Guest at Wildflower Golf Course at Fair Hills Resort,"Detroit 
-                                Lakes",Minnesota,Rural Route 1,56501.0,-95.8453253,46.8171808,9.0
-7790,Forest Hills RV & Golf Resort,"Detroit 
-                                Lakes",Minnesota,22931 185th St,56501.0,-95.9232507,46.8349917,18.0
-7791,Country Club at Detroit Country Club,"Detroit 
-                                Lakes",Minnesota,Rural Route 5,56501.0,-95.8453253,46.8171808,18.0
-7792,Ironman Golf Course,"Detroit 
-                                Lakes",Minnesota,Richwood Rd,56501.0,-95.8372866,46.8338454,18.0
-7793,Wildflower at Wildflower Golf Course at Fair Hills Resort,"Detroit 
-                                Lakes",Minnesota,Rural Route 1,56501.0,-95.8453253,46.8171808,18.0
-7794,Dodge Country Club,"Dodge 
-                                Center",Minnesota,US Hwy 14 W,55927.0,-92.8552042,44.0186804,9.0
-7795,Lake at Lester Park Golf Course,Duluth,Minnesota,1860 Lester River Rd,55804.0,-91.99819029999999,46.8502926,9.0
-7796,Pike Lake Country Club,Duluth,Minnesota,4895 E Pike Lake Rd,55811.0,-92.3228571,46.8692315,9.0
-7797,Middle Nine/Back Nine at Enger Park Golf Course,Duluth,Minnesota,1801 W Skyline Pkwy,55806.0,-92.1269935,46.7768907,18.0
-7798,Back Nine/Front Nine at Enger Park Golf Course,Duluth,Minnesota,1801 W Skyline Pkwy,55806.0,-92.1269935,46.7768907,18.0
-7799,Front Nine/Middle Nine at Enger Park Golf Course,Duluth,Minnesota,1801 W Skyline Pkwy,55806.0,-92.1269935,46.7768907,18.0
-7800,Grandview Golf Club,Duluth,Minnesota,5665 Grandview Rd,55810.0,-92.2773969,46.715152,9.0
-7801,Front & Back at Lester Park Golf Course,Duluth,Minnesota,1860 Lester River Rd,55804.0,-91.99819029999999,46.8502926,18.0
-7802,Northland Country Club,Duluth,Minnesota,3901 E Superior St,55804.0,-92.0483567,46.82555439999999,18.0
-7803,Ridgeview Country Club,Duluth,Minnesota,700 W Redwing St,55803.0,-92.103584,46.847214,18.0
-7804,Carriage Hills Country Club,Eagan,Minnesota,3535 Wescott Woodlands Dr,55123.0,-93.1366874,44.8287532,18.0
-7805,Parkview Golf Course,Eagan,Minnesota,1310 Cliff Rd,55123.0,-93.160471,44.789548,18.0
-7806,Green at Double Eagle Golf & Supper Club,Eagle Bend,Minnesota,3 County Rd,56446.0,-95.0366128,46.1540894,9.0
-7807,Gold at Double Eagle Golf & Supper Club,Eagle Bend,Minnesota,3 County Rd,56446.0,-95.0366128,46.1540894,9.0
-7808,Riverbend Golf Club,"East 
-                                Grand Forks",Minnesota,Hwy 2 E,56721.0,-96.97577650000001,47.91384619999999,9.0
-7809,Valley Country Club,"East 
-                                Grand Forks",Minnesota,1800 21St St NW,56721.0,-97.0461639,47.9462118,18.0
-7810,Bearpath Golf & Country Club,"Eden 
-                                Prairie",Minnesota,18100 Bearpath Trl,55347.0,-93.505847,44.8429913,18.0
-7811,Bent Creek Golf Club,"Eden 
-                                Prairie",Minnesota,14490 Valley View Rd,55344.0,-93.4615671,44.8712864,18.0
-7812,Cedar Hills Golf Course,"Eden 
-                                Prairie",Minnesota,9735 Eden Prairie Rd,55347.0,-93.4828239,44.826406,9.0
-7813,Olympic Hills Golf Club,"Eden 
-                                Prairie",Minnesota,10625 Mount Curve Rd,55347.0,-93.41283729999999,44.83147,18.0
-7814,Hays/Clunie at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439.0,-93.3844498,44.8673806,18.0
-7815,Frederick S. Richards Course,Edina,Minnesota,7640 Parklawn Ave,55435.0,-93.3394629,44.8650232,9.0
-7816,Clunie/Castle at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439.0,-93.3844498,44.8673806,18.0
-7817,Executive at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439.0,-93.3844498,44.8673806,9.0
-7818,Castle/Hays at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439.0,-93.3844498,44.8673806,18.0
-7819,Edina Country Club,Edina,Minnesota,5100 Wooddale Ave,55424.0,-93.3404597,44.9108284,18.0
-7820,Interlachen Country Club,Edina,Minnesota,6200 Interlachen Blvd,55436.0,-93.37732799999999,44.914084,18.0
-7821,Tipsinah Mounds Golf Course,Elbow Lake,Minnesota,118 Golf Course Rd,56531.0,-95.8735509,46.0069008,18.0
-7822,Elk River Country Club,Elk River,Minnesota,20015 Elk Lake Rd,55330.0,-93.5973575,45.3326127,18.0
-7823,Pinewood Golf Course,Elk River,Minnesota,14000 182nd Ave NW,55330.0,-93.6284446,45.3012336,9.0
-7824,Minniowa Golf Club,Elmore,Minnesota,N Hwy 169,56027.0,-94.08814319999999,43.5049463,9.0
-7825,Ely Golf Club,Ely,Minnesota,901 S Central Ave,55731.0,-91.8676976,47.8936043,9.0
-7826,Championship at Emily Greens Golf Course,Emily,Minnesota,Hist County Road 1 W,56447.0,-93.966442,46.7309066,9.0
-7827,Executive at Emily Greens Golf Course,Emily,Minnesota,Hist County Road 1 W,56447.0,-93.966442,46.7309066,9.0
-7828,Arrowhead Country Club,Emmons,Minnesota,Route 1 Arrowhead Rd,56029.0,-93.4756169,43.51393239999999,9.0
-7829,Oak Lake Golf Course,Erskine,Minnesota,Route 2,56535.0,-96.0091291,47.6688671,9.0
-7830,Eveleth Municipal Golf Course,Eveleth,Minnesota,Old Hwy 53 &amp; Golf Course Rd,55734.0,-122.630596,38.95373300000001,9.0
-7831,Minnetonka Country Club,Excelsior,Minnesota,24575 Smithtown Rd,55331.0,-93.5941948,44.89692650000001,18.0
-7832,Fort Ridgely State Park Golf Course,Fairfax,Minnesota,Route 1,55332.0,-94.71931750000002,44.5272559,9.0
-7833,Mayflower Country Club,Fairfax,Minnesota,Hwy 4 S,55332.0,-94.7106726,44.5271596,9.0
-7834,Rose Lake Golf Club,Fairmont,Minnesota,Rural Route 2,56031.0,-94.46108319999999,43.65217750000001,18.0
-7835,Interlaken Golf Club,Fairmont,Minnesota,277 Amber Lake Dr,56031.0,-94.4676392,43.60836399999999,18.0
-7836,Rolling Green Fairways,Fairmont,Minnesota,1422 Oak Beach Dr,56031.0,-94.4639443,43.6350345,9.0
-7837,University of Minnesota Les Bolstad Golf Course,"Falcon 
-                                Heights",Minnesota,2275 Larpenteur Ave W,55113.0,-93.1961405,44.9921744,18.0
-7838,Straight River Golf Course,Faribault,Minnesota,Cates Ave/County Rd 19,55021.0,-93.2335129,44.2490898,18.0
-7839,Faribault Golf & Country Club,Faribault,Minnesota,1700 NW 17th St,55021.0,-93.297797,44.3105819,18.0
-7840,Golf at the Legacy,Faribault,Minnesota,1515 Shumway Ave,55021.0,-93.255353,44.30899,18.0
-7841,Southern Hills Golf Course,Farmington,Minnesota,18950 Chippendale Ave,55024.0,-93.1365562,44.6767532,18.0
-7842,Fountain Valley Golf Club,Farmington,Minnesota,2830 220th St W,55024.0,-93.121551,44.626951,18.0
-7843,Pebble Lake Golf Club,"Fergus 
-                                Falls",Minnesota,County 82 S,56537.0,-95.73444930000001,46.0574018,18.0
-7844,Sandhill River Golf Club,Fertile,Minnesota,Hwy 32 S,56540.0,-96.28048129999999,47.536095,9.0
-7845,Fifty Fore Golf Bar & Grill,Fifty Lakes,Minnesota,County 1 and 3,56448.0,-94.0499954,46.7378273,9.0
-7846,Stone Creek Golf Club,Foley,Minnesota,13060 65th St NE,56329.0,-93.89293789999999,45.6624992,9.0
-7847,Castlewood Golf Course,"Forest 
-                                Lake",Minnesota,7050 Scandia Trl No,55025.0,-92.9621256,45.262003,9.0
-7848,Forest Hills Golf Club,"Forest 
-                                Lake",Minnesota,7530 210th St No,55025.0,-92.9537127,45.2542846,18.0
-7849,Fosston Golf Club,Fosston,Minnesota,Hwy 2 W,56542.0,-95.75167169999999,47.5761382,9.0
-7850,Frazee Golf Course,Frazee,Minnesota,Rural Route 1,56544.0,-95.71429769999999,46.7183386,9.0
-7851,Maple Hills Golf Club,Frazee,Minnesota,Route 4 Off Hwy 10,56544.0,-93.0287982,44.9345469,9.0
-7852,Oakview Golf Club,Freeborn,Minnesota,County Rd 8,56032.0,-93.5641078,43.76579,9.0
-7853,Mount Frontenac Golf Course,Frontenac,Minnesota,Hwy 61,55026.0,-92.356832,44.51101440000001,18.0
-7854,Town & Country Golf Course,Fulda,Minnesota,Hwy 59,56131.0,-95.5925113,43.8705009,9.0
-7855,Garrison Creek Golf Course,Garrison,Minnesota,Hwy 169,56450.0,-93.8246202,46.2942846,9.0
-7856,Mille Lacs Golf Resort,Garrison,Minnesota,18517 Captive Lake Rd,56450.0,-93.79421889999999,46.225483,18.0
-7857,Eshquaguma Country Club,Gilbert,Minnesota,6469 White Pine Ln,55741.0,-92.3648226,47.4618783,9.0
-7858,Glencoe Country Club,Glencoe,Minnesota,1325 E 1St St,55336.0,-94.1442544,44.7610467,18.0
-7859,Minnewaska Golf Course,Glenwood,Minnesota,Hwy 28/29 Golf Course Rd,56334.0,-95.4172652,45.6562221,18.0
-7860,Pezhekee National Golf Course,Glenwood,Minnesota,20000 S Lakeshore Dr,56334.0,-95.410866,45.6140649,18.0
-7861,Ponderosa Golf Club,Glyndon,Minnesota,Route 2,56547.0,-96.128053,47.6961065,11.0
-7862,Par d at Theodore Wirth Golf Course,"Golden 
-                                Valley",Minnesota,1301 Wirth Pkwy,55422.0,-93.3233133,44.9923964,9.0
-7863,Brookview Golf Course,"Golden 
-                                Valley",Minnesota,200 Brookview Pkwy,55426.0,-93.38565589999999,44.9759861,18.0
-7866,Graceville Golf Club,Graceville,Minnesota,Toqua Lake Rd Off Hwy 75,56240.0,-96.4469123,45.5633038,9.0
-7867,Gunflint Hills Municipal Golf Club,"Grand 
-                                Marais",Minnesota,Gunflint Trl,55604.0,-90.3318472,47.7669525,9.0
-7869,Pokegama Golf Course,"Grand 
-                                Rapids",Minnesota,3910 Golf Course Rd,55744.0,-93.57406879999999,47.204399,18.0
-7870,Granite Falls Golf Club,"Granite 
-                                Falls",Minnesota,Hwy 67 E,56241.0,-95.5458455,44.80576749999999,9.0
-7871,Two River Golf Course,Hallock,Minnesota,Two Rivers Golf Course Rd,56728.0,-96.9306462,48.76827060000001,9.0
-7872,Gold at Majestic Oaks Golf Club,Ham Lake,Minnesota,701 Bunker Lake Blvd,55304.0,-93.24983209999999,45.223958,18.0
-7873,The Executive at Majestic Oaks Golf Club,Ham Lake,Minnesota,701 Bunker Lake Blvd,55304.0,-93.24983209999999,45.223958,9.0
-7874,Platinum at Majestic Oaks Golf Club,Ham Lake,Minnesota,701 Bunker Lake Blvd,55304.0,-93.24983209999999,45.223958,18.0
-7875,Harmony Golf Club,Harmony,Minnesota,535 Fourth St NE,55939.0,-92.0040027,43.5583268,9.0
-7876,Afton Alps Golf Course,Hastings,Minnesota,6600 Peller Ave S,55033.0,-92.7907998,44.8544535,18.0
-7877,Hastings Country Club,Hastings,Minnesota,2015 Westview Dr,55033.0,-92.875205,44.7259839,18.0
-7878,Hidden Greens Golf Course,Hastings,Minnesota,12977 200th St E,55033.0,-92.84581879999999,44.6596828,18.0
-7879,Bellwood Oaks Golf Course,Hastings,Minnesota,13239 210th St E,55033.0,-92.83802179999999,44.6492963,18.0
-7880,Hawley Golf & Country Club,Hawley,Minnesota,Hwy 10,56549.0,-96.31658619999999,46.8772477,18.0
-7881,Holiday Park Golf Course,Hayward,Minnesota,Route 3,56043.0,-93.2440944,43.650514,9.0
-7882,Lake Hendricks Golf Club,Hendricks,Minnesota,W On Lincoln County Hwy 17,56136.0,-96.4520265,44.51859700000001,9.0
-7883,Hibbing Municipal Golf Course,Hibbing,Minnesota,16th St &amp; 7th Ave E,55746.0,-104.9904227,39.7438619,9.0
-7884,Mesaba Country Club,Hibbing,Minnesota,415 E 51 St,55746.0,-92.935656,47.378998,18.0
-7885,Quadna Golf Course,Hill City,Minnesota,100 Quadna Rd,55748.0,-93.5921147,46.975916,9.0
-7886,Grand National Golf Club,Hinckley,Minnesota,300 Lady Luck Dr,55037.0,-92.91695729999999,46.0071544,18.0
-7887,Red Rock Golf Course,Hoffman,Minnesota,County Rd 25,56339.0,-95.7386133,45.8607302,9.0
-7888,Meadowbrook Golf Club,Hopkins,Minnesota,201 Meadowbrook Rd,55343.0,-93.37370399999999,44.921011,18.0
-7889,Oak Ridge Country Club,Hopkins,Minnesota,700 Oak Ridge Rd,55305.0,-93.40615299999999,44.935211,18.0
-7890,Valley High Country Club,Houston,Minnesota,Route 2,55943.0,-91.5684764,43.7632995,18.0
-7891,"Greens at Howard Lake, The","Howard 
-                                Lake",Minnesota,5055 County Rd 7 SW,55349.0,-94.0553219,45.0755576,9.0
-7893,Crow River Country Club,Hutchinson,Minnesota,915 Colorado St NW,55350.0,-94.39635009999999,44.9050911,18.0
-7894,Falls Country Club,"International 
-                                Falls",Minnesota,Golf Course Rd,56649.0,-93.455953,48.57486,18.0
-7895,The Executive at Inver Wood Golf Course,"Inver 
-                                Grove Heights",Minnesota,1850 70th St E,55077.0,-93.0697103,44.8460293,9.0
-7896,Arbor Pointe Golf Club,"Inver 
-                                Grove Heights",Minnesota,8919 Cahill Ave E,55076.0,-93.04208159999999,44.8247057,9.0
-7897,Eighteen Hole at Inver Wood Golf Course,"Inver 
-                                Grove Heights",Minnesota,1850 70th St E,55077.0,-93.0697103,44.8460293,18.0
-7898,Fiddlestix Golf Course,Isle,Minnesota,1081 395th St,56342.0,-93.4341608,46.1179217,18.0
-7899,Jackson Golf Club,Jackson,Minnesota,N Hwy 71,56143.0,-94.9874609,43.6237585,9.0
-7900,Loon Lake Public Golf Course,Jackson,Minnesota,Route 3,56143.0,-94.9886022,43.6207915,9.0
-7901,Prairie Ridge Golf Course,Janesville,Minnesota,2000 N Main St,56048.0,-93.70928280000001,44.1276579,9.0
-7902,Zumbro Valley Golf Club,Kasson,Minnesota,County Rd 15,55944.0,-92.71875820000001,44.0569638,9.0
-7903,Kenyon Country Club,Kenyon,Minnesota,Hwy 56 No,55946.0,-92.98533160000001,44.2721714,9.0
-7904,Kimball Golf Club,Kimball,Minnesota,11823 County Rd 150,55353.0,-94.2967896,45.2953554,18.0
-7905,Pine Creek Golf Course,La Crescent,Minnesota,3815 N Pine Creek Rd,55947.0,-91.36384149999999,43.8326416,9.0
-7906,Lake Pepin Golf Course,Lake City,Minnesota,Rural Route 4,55041.0,-92.2666914,44.4492982,9.0
-7907,Lake City Country Club,Lake City,Minnesota,Route 2,55041.0,-93.3456707,47.1614656,9.0
-7908,Blue/White at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042.0,-92.8696966,44.9779394,18.0
-7909,White/Red at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042.0,-92.8696966,44.9779394,18.0
-7910,Cimarron Golf Course,Lake Elmo,Minnesota,901 Lake Elmo Ave No,55042.0,-92.8815364,44.96204110000001,9.0
-7911,Red/Blue at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042.0,-92.8696966,44.9779394,18.0
-7912,Vallebrook Golf Club,Lakefield,Minnesota,101 Vallebrook Rd,56150.0,-95.163912,43.6871107,9.0
-7913,Green Valley Golf Course,Lake Park,Minnesota,Rural Route 2,56554.0,-96.0945002,46.8863481,9.0
-7914,Crystal Lakes Golf Club,Lakeville,Minnesota,16725 Innisbrook Dr,55044.0,-93.2530982,44.7047654,18.0
-7915,Heritage Links Golf Club,Lakeville,Minnesota,8075 Lucerne Blvd,55044.0,-93.35468399999999,44.633333,18.0
-7916,Brackett's Crossing Country Club,Lakeville,Minnesota,17976 Judicial Rd,55044.0,-93.3139089,44.6861741,18.0
-7917,Lancaster Riverside Golf Course,Lancaster,Minnesota,US Hwy 59 No,56735.0,-96.7992321,48.8582602,9.0
-7918,Lanesboro Golf Club,Lanesboro,Minnesota,Parkway Ave,55949.0,-91.97696069999999,43.7152393,9.0
-7919,ShadowBrooke Golf Course,"Lester 
-                                Prairie",Minnesota,3192 State Hwy 7,55354.0,-94.0568278,44.9069212,18.0
-7920,Le Sueur Country Club,Le Sueur,Minnesota,Rural Route 1,56058.0,-93.9113634,44.4598517,18.0
-7921,Par d at Lewiston Country Club,Lewiston,Minnesota,Route 2 Hwy 14,55952.0,-89.74977729999999,43.1433245,9.0
-7922,Regulation at Lewiston Country Club,Lewiston,Minnesota,Route 2 Hwy 14,55952.0,-89.74977729999999,43.1433245,9.0
-7923,Chisago Lakes Golf Course,Lindstrom,Minnesota,12975 192nd St,55045.0,-92.8479921,45.3894083,18.0
-7924,Litchfield Golf Club,Litchfield,Minnesota,W Pleasure Dr,55355.0,-94.5387985,45.11426460000001,9.0
-7925,Little Falls Country Club,"Little 
-                                Falls",Minnesota,1 Edgewater Dr,56345.0,-94.3776727,45.9612547,18.0
-7926,Long Prairie Country Club,"Long 
-                                Prairie",Minnesota,405 6th St SE,56347.0,-94.85548419999999,45.9689275,18.0
-7927,Chippewa National Golf Course,Longville,Minnesota,Rural Route 1,56655.0,-94.2113636,46.9863443,9.0
-7928,Executive at Ridgewood Golf Course,Longville,Minnesota,Hwy 7,56655.0,-95.01676540000001,44.9354593,9.0
-7929,Regulation Eighteen at Ridgewood Golf Course,Longville,Minnesota,Hwy 7,56655.0,-95.01676540000001,44.9354593,18.0
-7930,Luverne Country Club,Luverne,Minnesota,Rural Route 3,56156.0,-96.2025289,43.6555249,9.0
-7931,Meadowbrook Country Club,Mabel,Minnesota,Rural Route 2,55954.0,-91.7660525,43.5206612,9.0
-7932,Madelia Golf Course,Madelia,Minnesota,116 W Main St,56062.0,-94.4188921,44.0506194,9.0
-7933,Madison Country Club,Madison,Minnesota,W Hwy 40,56256.0,-96.19353079999999,45.0096617,9.0
-7934,Mahnomen Country Club,Mahnomen,Minnesota,Route 2,56557.0,-95.9623601,47.3082305,9.0
-7935,Twenty Nine Pines Golf Course,Mahtowa,Minnesota,2871 Sundberg,55707.0,-92.6383166,46.565002,9.0
-7936,Par d Executive at Terrace View Golf Course,Mankato,Minnesota,Hwy 22 S,56001.0,-93.94919999999999,44.1635237,9.0
-7937,Mankato Golf Club,Mankato,Minnesota,Golf Club Rd,56002.0,-93.9776687,44.1920623,18.0
-7938,Minneopa Golf Club,Mankato,Minnesota,Route 9 S 169 &amp; 160,56001.0,,,9.0
-7939,Regulation at Terrace View Golf Course,Mankato,Minnesota,Hwy 22 S,56001.0,-93.94919999999999,44.1635237,9.0
-7940,Rush Creek Golf Club,Maple Grove,Minnesota,7801 County Rd 101,55311.0,-93.51447569999999,45.0968334,18.0
-7941,Sundance Golf Club,Maple Grove,Minnesota,15240 113th Ave No,55369.0,-93.4743795,45.1594309,18.0
-7942,Back Nine at Country View Golf Course,Maplewood,Minnesota,2926 N Hwy 61,55109.0,-93.0461639,45.0289435,9.0
-7943,Maple Hills Par d,Maplewood,Minnesota,907 Parkway Dr,55106.0,-93.0672237,44.9934866,9.0
-7944,Front Nine at Country View Golf Course,Maplewood,Minnesota,2926 N Hwy 61,55109.0,-93.0461639,45.0289435,9.0
-7945,Goodrich Golf Course,Maplewood,Minnesota,1820 N Van Dyke St,55109.0,-93.02129080000002,44.9959011,18.0
-7946,Marshall Golf Club,Marshall,Minnesota,800 Country Club Dr,56258.0,-95.80315999999999,44.437906,18.0
-7947,Savanna Golf & Supper Club,McGregor,Minnesota,Hist County Road 4,55760.0,-93.30868699999999,46.60682629999999,9.0
-7948,Nine Hole at Rolling Green Country Club,Medina,Minnesota,400 Evergreen Ln,55340.0,-93.534518,45.049185,9.0
-7949,The Nine Hole at Baker National Golf Course,Medina,Minnesota,2935 Parkview Dr,55340.0,-93.6044604,45.0319768,9.0
-7950,Eighteen Hole at Rolling Green Country Club,Medina,Minnesota,400 Evergreen Ln,55340.0,-93.534518,45.049185,18.0
-7951,The Eighteen Hole at Baker National Golf Course,Medina,Minnesota,2935 Parkview Dr,55340.0,-93.6044604,45.0319768,18.0
-7952,Meadowlark Country Club,Melrose,Minnesota,837 Country Club Dr,56352.0,-94.8215374,45.6628645,9.0
-7953,Blueberry Pines Golf Club,Menahga,Minnesota,Hwy 71 No,56464.0,-95.09574549999999,46.7498494,18.0
-7954,Mendota Heights Par d Golf Course,"Mendota 
-                                Heights",Minnesota,1695 Dodd Rd,55118.0,-93.122642,44.895019,9.0
-7955,Mendakota Country Club,"Mendota 
-                                Heights",Minnesota,2075 Mendakota Dr,55120.0,-93.13497079999999,44.8799192,18.0
-7956,Somerset Country Club,"Mendota 
-                                Heights",Minnesota,1416 Dodd Rd,55118.0,-93.110356,44.901471,18.0
-7957,Milaca Golf Club,Milaca,Minnesota,Central Ave No,56353.0,-93.65281689999999,45.76113660000001,9.0
-7958,Columbia Golf Course,Minneapolis,Minnesota,3300 Central Ave NE,55418.0,-93.2484121,45.028132,18.0
-7959,Francis A. Gross Golf Course,Minneapolis,Minnesota,2201 Saint Anthony Blvd,55418.0,-93.2125738,45.00977169999999,18.0
-7960,Hiawatha Golf Course,Minneapolis,Minnesota,4553 Longfellow Ave S,55407.0,-93.24601620000001,44.9204559,18.0
-7961,"Minikahda Club, The",Minneapolis,Minnesota,3205 Excelsior Blvd,55416.0,-93.321196,44.94333229999999,18.0
-7962,Minneapolis Golf Club,Minneapolis,Minnesota,2001 Flag Ave S,55426.0,-93.39527609999999,44.96414360000001,18.0
-7963,Countryside Golf Club,Minneota,Minnesota,E Lyon St,56264.0,-95.98068160000001,44.5578886,9.0
-7964,Glen Lake Golf Course,Minnetonka,Minnesota,14350 County Rd 62,55345.0,-93.4617167,44.8921693,9.0
-7965,Meadowwoods Golf Course,Minnetonka,Minnesota,18300 Ridgewood Rd,55345.0,-93.5126976,44.9239262,9.0
-7966,Lafayette Club,"Minnetonka 
-                                Beach",Minnesota,2800 Northview Rd,55391.0,-93.59345010000001,44.94339129999999,9.0
-7967,Montevideo Country Club,Montevideo,Minnesota,W Hwy 212,56265.0,-95.7268555,44.937026,18.0
-7968,Montgomery Golf Club,Montgomery,Minnesota,900 Rogers Dr,56069.0,-93.576607,44.449988,18.0
-7969,Gold at Silver Springs Golf Course,Monticello,Minnesota,1855 County Rd 39 NE,55362.0,-93.851812,45.3071964,18.0
-7970,Monticello Country Club,Monticello,Minnesota,1201 Golf Course Rd,55362.0,-93.8170449,45.307336,18.0
-7971,Silver at Silver Springs Golf Course,Monticello,Minnesota,1855 County Rd 39 NE,55362.0,-93.851812,45.3071964,18.0
-7972,Town & Country Golf Course,Moorhead,Minnesota,Rural Route 2,56560.0,-96.76780389999999,46.8737648,9.0
-7973,"Meadows Public Golf Course, The",Moorhead,Minnesota,401 34th St S,56560.0,-96.72819199999999,46.8717425,18.0
-7974,Moorhead Country Club,Moorhead,Minnesota,N River Dr,56560.0,-96.7687438,46.9007612,18.0
-7975,Village Green Public Golf Course,Moorhead,Minnesota,3420 Village Green Blvd,56560.0,-96.72302099999999,46.840152,18.0
-7976,Moose Lake Golf Club,Moose Lake,Minnesota,Hwy 61 S,55767.0,-92.783378,46.4368259,9.0
-7977,Spring Brook Golf Course,Mora,Minnesota,Route 1 County Rd 69,55051.0,-93.225485,45.875333,18.0
-7978,Pomme de Terre Golf Club,Morris,Minnesota,Hwy 9 S,56267.0,-95.9195939,45.5916196,9.0
-7979,Pine Ridge Golf Club,Motley,Minnesota,100 Hillcrest Rd,56466.0,-94.64016690000001,46.2604654,18.0
-7980,Burl Oaks Golf Club,Mound,Minnesota,5400 N Arm Dr,55364.0,-93.66358,44.97513499999999,18.0
-7981,Red Oak Golf Club,Mound,Minnesota,855 Red Oak Ln,55364.0,-93.647994,44.960732,9.0
-7982,"Bridges of Mounds View, The","Mounds 
-                                View",Minnesota,8290 Coral Sea Sr,55449.0,-93.1987978,45.1219851,9.0
-7983,Mountain Lake Golf Course,"Mountain 
-                                Lake",Minnesota,Lakeshore Dr,56159.0,-94.940123,43.9461134,9.0
-7984,Brightwood Hills Golf Course,New Brighton,Minnesota,1975 Silver Lake Rd NW,55112.0,-93.2182615,45.0814262,9.0
-7985,New Hope Village Golf Course,New Hope,Minnesota,8130 Bass Lake Rd,55428.0,-93.3844755,45.0572471,9.0
-7986,Creek's Bend Golf Course,New Prague,Minnesota,26826 Langford Ave,56071.0,-93.50618899999999,44.5610717,18.0
-7987,New Prague Golf Club,New Prague,Minnesota,400 Lexington Ave S,56071.0,-93.567965,44.5403499,18.0
-7988,Riverview Golf Course,New Richland,Minnesota,Route 2,56072.0,-93.4918842,43.8944047,9.0
-7989,New Ulm Country Club,New Ulm,Minnesota,1 Golf Dr,56073.0,-94.4587665,44.289183,18.0
-7990,"Woods/Marsh at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468.0,-94.3136016,46.495504,18.0
-7991,"Marsh/Lakes at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468.0,-94.3136016,46.495504,18.0
-7992,"Preserve at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468.0,-94.3136016,46.495504,18.0
-7993,"The Garden at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468.0,-94.3136016,46.495504,9.0
-7994,"Deacon's Lodge at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468.0,-94.3136016,46.495504,18.0
-7995,Birch Bay Resort & Golf Course,Nisswa,Minnesota,1771 Birch Dr W,56468.0,-94.368209,46.4515627,9.0
-7996,Fritiz's Resort & Golf Course,Nisswa,Minnesota,942 Hwy 371 No,56468.0,-94.2983079,46.4847376,9.0
-7997,"Lakes/Woods at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468.0,-94.3136016,46.495504,18.0
-7998,North Branch Golf Course,"North 
-                                Branch",Minnesota,1256 County Rd 30,55056.0,-93.0178507,45.5080663,9.0
-8000,Willinger's Golf Club,Northfield,Minnesota,6900 Canby Trl,55057.0,-93.3143769,44.49263,18.0
-8001,North Links Golf Course,"North 
-                                Mankato",Minnesota,RFD 2,56003.0,-94.033845,44.1732996,18.0
-8002,North Oaks Golf Club,North Oaks,Minnesota,54 E Oaks Rd,55127.0,-93.0946086,45.08448019999999,18.0
-8003,Oak Marsh Golf Course,Oakdale,Minnesota,526 Inwood Ave No,55128.0,-92.9371249,44.9552574,18.0
-8004,Oakdale Par d,Oakdale,Minnesota,5585 Golfview Ave No,55128.0,-92.97951499999999,45.028783,9.0
-8005,Olivia Golf Club,Olivia,Minnesota,512 S 6th St,56277.0,-94.9843021,44.77276759999999,9.0
-8006,Black Brook at Izatys Golf & Yacht Club,Onamia,Minnesota,40005 85th Ave,56359.0,-93.5875291,46.1262046,18.0
-8007,Sanctuary at Izatys Golf & Yacht Club,Onamia,Minnesota,40005 85th Ave,56359.0,-93.5875291,46.1262046,18.0
-8008,Lakeview Golf Course,Orono,Minnesota,409 N Arm Dr,55364.0,-93.6399853,44.9708358,18.0
-8009,Ortonville Golf Club,Ortonville,Minnesota,Golf Course Rd,56278.0,-96.45526249999999,45.325983,18.0
-8010,Osakis Country Club,Osakis,Minnesota,Hwy 27 E,56360.0,-95.1450773,45.8617387,9.0
-8011,Havana Hills Par d Golf,Owatonna,Minnesota,Rural Route 4,55060.0,-93.2259349,44.0855572,9.0
-8012,Hidden Creek Golf Course,Owatonna,Minnesota,4989 E Rose St,55060.0,-93.19118689999999,44.0878241,18.0
-8013,Brooktree Golf Course,Owatonna,Minnesota,1369 Cherry St,55060.0,-93.19957389999999,44.0943146,18.0
-8014,Owatonna Country Club,Owatonna,Minnesota,Lemond Rd,55060.0,-93.24416869999999,44.0748112,18.0
-8015,Brookside Resort,Park Rapids,Minnesota,Hwy 50,56470.0,-95.18935719999999,47.03270759999999,9.0
-8016,Eagle View Golf Course,Park Rapids,Minnesota,Hwy 71 No,56470.0,-95.058445,46.9221964,18.0
-8017,Headwaters Golf & Country Club,Park Rapids,Minnesota,County Rd 1,56470.0,-95.1665337,47.1751862,18.0
-8018,Koronis Hills Golf Club,Paynesville,Minnesota,Hwy 23 W,56362.0,-94.73300309999999,45.373756,18.0
-8019,Birchwood Golf Course,"Pelican 
-                                Rapids",Minnesota,Golf Course Rd,56572.0,-96.07971359999999,46.58581340000001,9.0
-8020,Lida Greens Golf Course,"Pelican 
-                                Rapids",Minnesota,Hwy 108 E,56572.0,-96.0835492,46.5708111,9.0
-8021,Rolling Hills Golf Course,"Pelican 
-                                Rapids",Minnesota,County Rd 9 Route 2,56572.0,-96.08311239999999,46.57079239999999,9.0
-8022,Swan Lake Country Club,Pengilly,Minnesota,Old Hwy 65,55775.0,-93.19638239999999,47.3326805,9.0
-8023,Lakes Area Golf Learning Center,"Pequot 
-                                Lakes",Minnesota,County Rd 16,56472.0,-94.30940249999999,46.6313326,9.0
-8024,"Preserve, The","Pequot 
-                                Lakes",Minnesota,H C 2 40613,56472.0,-94.3094399,46.6030198,18.0
-8025,Whitefish Golf Club,"Pequot 
-                                Lakes",Minnesota,Route 1 County Rd 16,56472.0,-94.30940249999999,46.6313326,18.0
-8026,Perham Lakeside Country Club,Perham,Minnesota,County Rd 51,56573.0,-95.5740345,46.6654771,18.0
-8027,Pierz Municipal Golf Course,Pierz,Minnesota,603 Park Ave,56364.0,-94.0898682,45.9756605,9.0
-8028,Pine City Country Club,Pine City,Minnesota,Route 4,55063.0,-92.9560137,45.8453661,9.0
-8029,Pine Island Golf Course,Pine Island,Minnesota,2000 8th St SE,55963.0,-92.61801899999999,44.1956429,9.0
-8030,Driftwood Resort,Pine River,Minnesota,County Rd 15,56474.0,-94.3037056,46.6822922,9.0
-8031,Irish Hills Golf Course,Pine River,Minnesota,Route 1,56474.0,-94.403143,46.71369869999999,18.0
-8032,Pine River Country Club,Pine River,Minnesota,County Rd 2,56474.0,-94.4122948,46.7191731,9.0
-8033,Pipestone Country Club,Pipestone,Minnesota,8th Ave SE,56164.0,-96.307474,43.986448,9.0
-8034,Piper Hills Golf Course,Plainview,Minnesota,S Hwy 42,55964.0,-92.1656939,44.16494369999999,9.0
-8035,Elm Creek Golf Links of Plymouth,Plymouth,Minnesota,18940 Hwy 55,55446.0,-93.5210868,45.0417555,18.0
-8036,Hampton Hills Golf Club,Plymouth,Minnesota,5313 Juneau Ln,55446.0,-93.4693719,45.0514034,18.0
-8037,Hollydale Golf Club,Plymouth,Minnesota,4710 Holly Ln No,55446.0,-93.496635,45.0400332,18.0
-8038,Preston Golf Club,Preston,Minnesota,Hwy 16 W,55965.0,-92.08338529999999,43.6754607,9.0
-8039,Princeton Golf Club,Princeton,Minnesota,Golf Course Rd,55372.0,-93.5777319,45.5635021,18.0
-8040,"Wilds Golf Club, The",Prior Lake,Minnesota,3151 Wilds Ridge,55372.0,-93.4571682,44.7373875,18.0
-8041,Cleary Lake Park Golf Course,Prior Lake,Minnesota,18106 Texas Ave,55372.0,-93.383427,44.69123099999999,9.0
-8042,Scottdale Golf Club,Prior Lake,Minnesota,19400 Natchez Rd,55372.0,-93.3396071,44.6691553,9.0
-8043,Lone Pine Country Club,Prior Lake,Minnesota,County Rd 82 W,55377.0,-93.4589747,44.7248351,18.0
-8044,Proctor Golf Course,Proctor,Minnesota,Hwy 2,55810.0,-92.23018429999999,46.7527835,9.0
-8045,Links at Northfork,Ramsey,Minnesota,9333 153rd St NW,55303.0,-93.4394852,45.249221,18.0
-8046,Rum River Hills Golf Club,Ramsey,Minnesota,16659 Saint Francis Blvd,55303.0,-93.41577099999999,45.273155,18.0
-8047,Hawk Creek Country Club,Raymond,Minnesota,100 Spicer Ave NE,56282.0,-95.23833789999999,45.0173506,9.0
-8048,Oak Knolls Golf Club,"Red 
-                                Lake Falls",Minnesota,Hwy 32 S,56750.0,-96.2740853,47.8821769,9.0
-8049,Highlands at Mississippi National Golf Links,Red Wing,Minnesota,409 Golf Links Dr,55066.0,-92.4936859,44.5539711,18.0
-8050,Lowlands at Mississippi National Golf Links,Red Wing,Minnesota,409 Golf Links Dr,55066.0,-92.4936859,44.5539711,18.0
-8051,Red Wing Country Club,Red Wing,Minnesota,1311 W 6th St,55066.0,-92.54741399999999,44.5583675,18.0
-8052,Redwood Falls Golf Club,"Redwood 
-                                Falls",Minnesota,101 E Oak St,56283.0,-95.1217918,44.5498787,9.0
-8053,Stoney Creek Golf Course,Renville,Minnesota,820th Ave,56284.0,-95.2195105,44.7745752,9.0
-8054,Oak Hill Golf Club,Rice,Minnesota,9000 Hwy 10 NW,56367.0,-94.187658,45.7040823,18.0
-8055,Oak Summit Golf Course,Rochester,Minnesota,2751 County Rd 16 SW,55902.0,-92.501921,43.920616,18.0
-8056,Meadow Lakes Golf Club,Rochester,Minnesota,70 45th Ave SW,55902.0,-92.52605199999999,44.018787,18.0
-8057,Eastwood Golf Club,Rochester,Minnesota,3505 Eastwood Rd SE,55904.0,-92.4092542,44.0077981,18.0
-8058,Maple Valley Golf & Country Club,Rochester,Minnesota,8600 Maple Valley Rd SE,55904.0,-92.37577999999999,43.895938,18.0
-8059,Northern Hills Golf Club,Rochester,Minnesota,4805 41St Ave NW,55901.0,-92.52341039999999,44.03583159999999,18.0
-8060,Rochester Golf & Country Club,Rochester,Minnesota,3100 Country Club Rd SW,55902.0,-92.5120712,44.0222811,18.0
-8061,Soldiers Memorial Field Golf Course,Rochester,Minnesota,244 Soldiers Field SW,55901.0,-92.4665962,44.01122600000001,18.0
-8062,Willow Creek Golf Course,Rochester,Minnesota,1700 SW 48th St,55902.0,-92.48619,43.9512399,18.0
-8063,Fox Hollow Golf Club,Rogers,Minnesota,4780 Palmgren Ln NE,55374.0,-93.57309099999999,45.22137,18.0
-8064,Pheasant Run Golf Club,Rogers,Minnesota,10705 County Rd 116,55374.0,-93.5427074,45.1491072,18.0
-8065,Oak Crest Golf Club,Roseau,Minnesota,5th St SE,56751.0,-95.74635769999999,48.8425081,18.0
-8066,Blue/White at Rich Valley Golf Club,Rosemount,Minnesota,3855 145th St E,55068.0,-93.02270999999999,44.742511,18.0
-8067,White/Red at Rich Valley Golf Club,Rosemount,Minnesota,3855 145th St E,55068.0,-93.02270999999999,44.742511,18.0
-8068,Brockway Golf Course,Rosemount,Minnesota,13500 S Robert Trl,55068.0,-93.1242973,44.751194,9.0
-8069,Red/Blue at Rich Valley Golf Club,Rosemount,Minnesota,3855 145th St E,55068.0,-93.02270999999999,44.742511,18.0
-8070,Roseville Cedarholm Golf Course,Roseville,Minnesota,2323 N Hamline Ave,55113.0,-93.15926619999999,45.0120685,9.0
-8071,Ferndale Country Club,Rushford,Minnesota,Route 2 Hwy 16,55971.0,-91.7532195,43.80545009999999,9.0
-8072,Saint Charles Golf Course,"Saint 
-                                Charles",Minnesota,1920 Park Rd,55972.0,-92.04782499999999,43.958829,18.0
-8073,Par d at Angushire Golf Course,Saint Cloud,Minnesota,224 Waite Ave S,56301.0,-94.21314149999999,45.5474743,9.0
-8074,Veterans Golf Club,Saint Cloud,Minnesota,5001 8th St No,56303.0,-94.2196352,45.5679412,9.0
-8075,Regulation at Angushire Golf Course,Saint Cloud,Minnesota,224 Waite Ave S,56301.0,-94.21314149999999,45.5474743,9.0
-8076,St. Cloud Country Club,Saint Cloud,Minnesota,301 Montrose Rd,56301.0,-94.146791,45.5204134,18.0
-8077,St. James Country Club,Saint James,Minnesota,Hwy 60 E,56081.0,-94.62038969999999,43.9681735,18.0
-8078,Lost Spur Country Club,Saint Paul,Minnesota,2750 Sibley Memorial Hwy,55121.0,-93.1748673,44.8583029,9.0
-8079,Como Golf Course,Saint Paul,Minnesota,1431 Lexington Pkwy No,55103.0,-93.1497941,44.9858402,18.0
-8080,Highland Park Eighteen Golf Course,Saint Paul,Minnesota,1403 Montreal Ave,55116.0,-93.1594387,44.91270859999999,18.0
-8081,Hillcrest Country Club,Saint Paul,Minnesota,2200 Larpenteur Ave E,55109.0,-93.00835149999999,44.9908161,18.0
-8082,Keller Golf Course,Saint Paul,Minnesota,2166 Maplewood Dr,55109.0,-93.0558831,45.0076356,18.0
-8083,Midland Hills Country Club,Saint Paul,Minnesota,2001 Fulham St,55113.0,-93.1968648,45.0013189,18.0
-8084,Phalen Park Golf Course,Saint Paul,Minnesota,1615 Phalen Dr,55106.0,-93.0627434,44.98911349999999,18.0
-8085,Town & Country Club,Saint Paul,Minnesota,300 Mississippi River Blvd No,55104.0,-93.199598,44.9491365,18.0
-8086,Fort Snelling Golf Course,Saint Paul,Minnesota,Building 175,55111.0,-93.1073795,44.9579475,9.0
-8087,Highland Nine Golf Course,Saint Paul,Minnesota,1797 Edgecumbe Rd,55116.0,-93.15751499999999,44.9120311,9.0
-8088,Shoreland Country Club,Saint Peter,Minnesota,Lake Emily County Rd 21,56082.0,-93.93255119999999,44.3104662,18.0
-8089,Farmers Golf & Health Club,Sanborn,Minnesota,County Rd 15,56083.0,-95.1350003,44.2096903,9.0
-8090,Sandstone Area Country Club,Sandstone,Minnesota,343 Lark St,55072.0,-92.8709173,46.135811,9.0
-8091,Wapicada Golf Club,Sank Rapids,Minnesota,4448 15th St Ne,56379.0,-94.06972239999999,45.5888692,18.0
-8092,Sartell Golf Club,Sartell,Minnesota,35103 Pinecone Rd,56377.0,-94.22217239999999,45.6423533,18.0
-8093,"Lynx National Golf Course, The",Sauk Centre,Minnesota,40204 Primrose Ln,56378.0,-94.94756369999999,45.6944765,18.0
-8094,Sauk Centre Country Club,Sauk Centre,Minnesota,Lakeshore Dr,56378.0,-94.9513139,45.7543914,9.0
-8095,Stonebrooke Golf Club,Shakopee,Minnesota,2693 S County Rd 79,55379.0,-93.51607249999999,44.7543495,18.0
-8096,Fox Lake Golf Club,Sherburn,Minnesota,Fox Lake Park,56171.0,-94.72113139999999,43.6584363,9.0
-8097,Island Lake Golf & Training Center,Shoreview,Minnesota,1000 Red Fox Rd,55126.0,-93.1424138,45.0566031,9.0
-8098,Silver Bay Country Club,Silver Bay,Minnesota,Edison Blvd,55614.0,-91.28359929999999,47.29208260000001,9.0
-8099,Slayton Country Club,Slayton,Minnesota,Route 2,56172.0,-95.7558464,43.9877419,9.0
-8100,Sleepy Eye Golf Club,Sleepy Eye,Minnesota,Hwy 14 W,56085.0,-94.7263889,44.2980556,9.0
-8101,Little Crow Country Club,Spicer,Minnesota,Hwy 23,56288.0,-94.93974999999999,45.23302959999999,18.0
-8102,Springfield Golf Club,Springfield,Minnesota,S O'Connell Ave,56087.0,-94.9776504,44.2379296,9.0
-8103,Root River Country Club,"Spring 
-                                Valley",Minnesota,Rural Route 1,55975.0,-92.389029,43.6960105,9.0
-8104,Regulation Eighteen at Falcon Ridge Golf Course,Stacy,Minnesota,33942 Falcon Ave,55079.0,-93.00521900000001,45.43732199999999,18.0
-8105,Executive Nine at Falcon Ridge Golf Course,Stacy,Minnesota,33942 Falcon Ave,55079.0,-93.00521900000001,45.43732199999999,9.0
-8106,Grandy Nine Golf Club,Stanchfield,Minnesota,1118 361St Ave NE,55080.0,-93.2405678,45.6230827,9.0
-8107,Terrace National Golf Club,Staples,Minnesota,County Rd 30,56479.0,-94.8164001,46.3903005,18.0
-8108,Riverside Golf Club,Stephen,Minnesota,613 Golf Terrace,56757.0,-96.87918429999999,48.4491556,9.0
-8109,Riverview Greens,Stewartville,Minnesota,1801 FirSt Ave NE,55976.0,-92.4860934,43.8673544,18.0
-8110,Maplebrook Golf Course,Stewartville,Minnesota,701 E 1St St,55976.0,-92.47705119999999,43.8555149,9.0
-8111,Nine Hole at Oak Glen Country Club,Stillwater,Minnesota,1599 McKusick Rd,55082.0,-92.83040160000002,45.07072400000001,9.0
-8112,Applewood Hills Golf Course,Stillwater,Minnesota,11840 60th St No,55082.0,-92.86748999999999,45.037065,18.0
-8113,Indian Hills Golf Course,Stillwater,Minnesota,6667 Keats Ave No,55082.0,-92.899366,45.044386,18.0
-8114,Eighteen at Oak Glen Country Club,Stillwater,Minnesota,1599 McKusick Rd,55082.0,-92.83040160000002,45.07072400000001,18.0
-8115,Sawmill Golf Club,Stillwater,Minnesota,11177 N McKusick Rd,55082.0,-92.8821945,45.0784452,18.0
-8116,Stillwater Country Club,Stillwater,Minnesota,1421 N 4th St,55082.0,-92.8112845,45.0685252,18.0
-8117,"Thief River Falls Golf Club, The","Thief 
-                                River Falls",Minnesota,Hwy 32 No,56701.0,-96.1815379,48.1191192,18.0
-8118,Tracy Country Club,Tracy,Minnesota,Hwy 14 E,56175.0,-95.6228429,44.2387884,9.0
-8119,Lakeview Municipal Golf Course,Two Harbors,Minnesota,Hwy 61 E,55616.0,-91.67075349999999,47.0256148,18.0
-8120,Tyler Community Golf Club,Tyler,Minnesota,County Rd 7,56178.0,-96.13528559999999,44.27591650000001,9.0
-8121,Deer Run Golf Club,Victoria,Minnesota,8661 Deer Run Dr,55386.0,-93.65845,44.846133,18.0
-8122,Virginia Golf Course,Virginia,Minnesota,9th St No,55792.0,-92.54883319999999,47.5307006,18.0
-8123,Coffee Mill Golf & Country Club,Wabasha,Minnesota,215 Skyline Dr,55981.0,-92.0343778,44.354739,9.0
-8124,Island View Golf Club,Waconia,Minnesota,9150 Island View Rd,55387.0,-93.75164989999999,44.8624152,18.0
-8125,Wadena Golf Club,Wadena,Minnesota,Hwy 71,56482.0,-95.09574549999999,46.7498494,18.0
-8126,Wedgewood Golf Course,Walker,Minnesota,Hist County Road 73,56484.0,-94.5872162,47.10134619999999,9.0
-8127,Tianna Country Club,Walker,Minnesota,S Hwy 34,56484.0,-94.5868852,47.1013428,18.0
-8128,Riverside Golf Club,Warren,Minnesota,S Main St,56762.0,-96.76675279999999,48.187189,9.0
-8129,Warroad Estates Golf Course,Warroad,Minnesota,201 Birch Dr No,56763.0,-95.3322419,48.9404704,18.0
-8130,Waseca Lakeside Golf Club,Waseca,Minnesota,37160 Clear Lake Dr,56093.0,-93.4814648,44.09894999999999,18.0
-8131,River's Edge Country Club,Watertown,Minnesota,1455 County Rd 27,55388.0,-93.8302513,44.9751881,9.0
-8132,Timber Creek Golf Course,Watertown,Minnesota,9750 County Rd 24,55388.0,-93.77125799999999,44.952806,18.0
-8133,Wayzata Country Club,Wayzata,Minnesota,200 W Wayzata Blvd,55391.0,-93.5304855,44.9775198,18.0
-8134,Woodhill Country Club,Wayzata,Minnesota,200 Woodhill Rd,55391.0,-93.5456758,44.9752348,18.0
-8135,Wells Golf Club,Wells,Minnesota,1St Ave SW,56097.0,-93.7268886,43.7410101,9.0
-8136,Rolling Hills Golf Club,Westbrook,Minnesota,Route 2,56183.0,-95.43611279999999,44.0421825,9.0
-8137,Thompson Oaks Golf Course,"West 
-                                Saint Paul",Minnesota,1555 Oakdale Ave,55118.0,-93.07201289999999,44.8993802,9.0
-8138,Southview Country Club,"West 
-                                Saint Paul",Minnesota,239 E Mendota Rd,55118.0,-93.07395269999999,44.8846272,18.0
-8139,Wheaton Country Club,Wheaton,Minnesota,Hwy 27 W,56296.0,-96.4992381,45.804393,9.0
-8140,Oneka Ridge Golf Course,"White 
-                                Bear Lake",Minnesota,5610 120th St No,55110.0,-92.98671499999999,45.127362,18.0
-8141,Gem Lake Hills Golf Course,"White 
-                                Bear Lake",Minnesota,4039 Scheuneman Rd,55110.0,-93.03161229999999,45.0633016,18.0
-8142,Manitou Ridge Golf Club,"White 
-                                Bear Lake",Minnesota,3200 N McKnight Rd,55110.0,-92.99991,45.039723,18.0
-8143,Valley Golf Course,Willmar,Minnesota,1900 E Becker Ave,56201.0,-95.0178273,45.1211876,9.0
-8144,Eagle Creek Golf Club,Willmar,Minnesota,1000 26th Ave NE,56201.0,-95.03336759999999,45.1517588,18.0
-8145,Windom Country Club,Windom,Minnesota,County Rd 13,56101.0,-95.1379705,43.8779693,9.0
-8146,Riverside Town & Country Club,Winnebago,Minnesota,36259 150th St,56098.0,-94.1432955,43.7085915,9.0
-8147,Executive at Cedar Valley Golf Course,Winona,Minnesota,County Rd 9,55987.0,-91.5492124,43.9675428,9.0
-8148,Westfield Golf Club,Winona,Minnesota,1460 W 5th St,55987.0,-91.6762969,44.0545769,9.0
-8149,Winona Country Club,Winona,Minnesota,Pleasant Valley Rd,55987.0,-91.6027276,43.9996513,18.0
-8150,Regulation Eighteen at Cedar Valley Golf Course,Winona,Minnesota,County Rd 9,55987.0,-91.5492124,43.9675428,18.0
-8151,Winthrop Golf Club,Winthrop,Minnesota,Hwy 15,55396.0,-94.3758604,44.5428726,9.0
-8152,Eagle Valley Golf Course,Woodbury,Minnesota,2600 Double Eagle Ln,55129.0,-92.89864020000002,44.9113441,18.0
-8153,Prestwick Golf Club at Wedgewood,Woodbury,Minnesota,9555 Wedgewood Dr,55125.0,-92.9125242,44.8975732,18.0
-8154,Woodbury Par d,Woodbury,Minnesota,3351 Woodlane Dr,55125.0,-92.96435919999999,44.9013075,9.0
-8155,Prairie View Golf Links,Worthington,Minnesota,Hwy 266 No,56187.0,-95.7136513,43.7011592,18.0
-8156,Worthington Country Club,Worthington,Minnesota,1414 Liberty Dr,56187.0,-95.6228003,43.6255466,18.0
-8157,"Greenwood Golf Links, Inc.",Wyoming,Minnesota,4520 E Viking Blvd,55092.0,-93.0146932,45.3405918,18.0
-8158,Fairway Shores Golf Course,Zimmerman,Minnesota,28340 131St St,55398.0,-93.6015999,45.4847829,9.0
-8159,Zumbrota Golf Club,Zumbrota,Minnesota,Sugarloaf Pkwy,55992.0,-92.6779112,44.3079665,9.0
+course_id,course,city,state,street,zip_code,lng,lat,hole,public_private
+7671,Heart of the Valley Golf Club,Ada,Minnesota,SE Corner of Ada,56510,-96.51534629999999,47.299689,9,Semi-Private
+7672,Cedar River Country Club,Adams,Minnesota,Hwy 56 W,55909,-92.71934089999999,43.5653812,18,Semi-Private
+7673,Adrian Golf Course,Adrian,Minnesota,Hwy 91 S,56110,-95.9331334,43.6349616,9,Semi-Private
+7674,Albany Golf Club,Albany,Minnesota,500 Church St,56307,-94.57027599999999,45.62908300000001,18,Public
+7675,Albert Lea Golf Club,Albert Lea,Minnesota,1701 Country Club Rd,56007,-93.390658,43.6705862,18,Semi-Private
+7676,Green Lea Golf Course,Albert Lea,Minnesota,101 E Richway Dr,56007,-93.3681987,43.66433259999999,18,Public
+7677,Alexandria Golf Club,Alexandria,Minnesota,County Rd 42 No,56308,-95.3672813,45.9071454,18,Semi-Private
+7678,Arrowwood Golf Club,Alexandria,Minnesota,2100 Arrowwood Ln,56308,-95.4073842,45.9228191,18,Public
+7679,Lake Miltona Golf Club,Alexandria,Minnesota,12710 State Hwy 29 No,56308,-95.3894782,45.7765829,9,Public
+7680,Woodland Creek Golf Course,Andover,Minnesota,3200 S Coon Creek Dr,55304,-93.3471689,45.227269,9,Public
+7681,Southbrook Golf & Country Club,Annandale,Minnesota,511 Morrison Ave,55302,-94.14596619999999,45.2560424,18,Semi-Private
+7682,Albion Ridges Golf Course,Annandale,Minnesota,7771 20th St NW,55302,-94.048306,45.180102,18,Public
+7683,Whispering Pines Golf Club,Annandale,Minnesota,County Rd 6,55302,-94.0723122,45.2136818,18,Public
+7684,Greenhaven Golf Course,Anoka,Minnesota,2800 Greenhaven Rd,55303,-93.39888499999999,45.20907099999999,18,Public
+7685,Appleton Golf Club,Appleton,Minnesota,331 E Wyman Ave,56208,-96.01181989999999,45.2065668,9,Public
+7686,Apple Valley Golf Course,Apple Valley,Minnesota,8661 140th St W,55124,-93.2418115,44.7512113,9,Public
+7687,Valleywood Golf Course,Apple Valley,Minnesota,4851 125th St W,55124,-93.16117,44.771603,18,Public
+7688,Island Pine Golf Club,Atwater,Minnesota,1601 Wyoming Ave W,56209,-94.78798689999999,45.133447,18,Public
+7689,Meadow Greens Golf Course,Austin,Minnesota,Mower County 25,55912,-92.9700052,43.6687828,18,Public
+7690,Austin Country Club,Austin,Minnesota,28th St NE,55912,-92.92993539999999,43.6744018,18,Private
+7691,Ramsey Golf Club,Austin,Minnesota,Rural Route 1,55912,-92.97463669999999,43.6666296,18,Public
+7692,Babbitt Golf Course,Babbitt,Minnesota,2806 Hwy 21,55706,-91.9804108,47.7140659,9,Semi-Private
+7693,Black Bear Golf Course,Backus,Minnesota,2898 16th St SW,56435,-94.48803629999999,46.7482404,9,Public
+7694,Twin Pines Golf Course,Bagley,Minnesota,Route 1,56621,-95.3983573,47.5218054,9,Public
+7695,Willow Creek Municipal Golf Course,Barnesville,Minnesota,Route 1,56514,-96.42001259999999,46.6533237,9,Public
+7696,Balmoral Golf Course,Battle Lake,Minnesota,Route 3,56515,-95.7136582,46.2805162,18,Public
+7697,Oak Harbor Golf Course,Baudette,Minnesota,Rural Route 1,56623,-94.59992989999999,48.7124736,9,Semi-Private
+7698,Pine Meadows Golf Course,Baxter,Minnesota,500 Golf Course Dr,56425,-94.2393283,46.3589242,18,Semi-Private
+7699,White/Blue at Pebble Creek Country Club,Becker,Minnesota,14000 Club House Dr,55308,-93.8649339,45.4040958,9,Public
+7700,Blue/Red at Pebble Creek Country Club,Becker,Minnesota,14000 Club House Dr,55308,-93.8649339,45.4040958,9,Public
+7701,Red/White at Pebble Creek Country Club,Becker,Minnesota,14000 Club House Dr,55308,-93.8649339,45.4040958,9,Public
+7702,Valley View Golf Club,Belle Plaine,Minnesota,23795 Laredo Ave,56011,-93.75272299999999,44.602688,18,Semi-Private
+7703,Greenwood Golf Course,Bemidji,Minnesota,1361 Swenson Rd NE,56601,-94.7030868,47.4768867,18,Public
+7704,Maple Ridge Golf Course,Bemidji,Minnesota,Route 10,56601,-94.88692139999999,47.4776391,9,Public
+7705,Bemidji Town & Country Club,Bemidji,Minnesota,Birchmont Beach Rd,56601,-94.6505674,47.5410511,18,Semi-Private
+7706,Castle Highlands Golf Course,Bemidji,Minnesota,Route 5,56601,-94.8826861,47.471573,18,Semi-Private
+7707,Benson Golf Club,Benson,Minnesota,2222 Atlantic Ave,56215,-95.61283759999999,45.3187515,18,Public
+7708,Edge of the Wilderness Golf Course,Bigfork,Minnesota,1 mile E of Bigfork,56628,-93.6540847,47.7443867,9,Semi-Private
+7709,Carefree Country Club,Big Lake,Minnesota,12055 185th Ave SE,55309,-93.7715231,45.3967235,18,Private
+7710,Giants Ridge Golf & Ski Resort,Biwabik,Minnesota,County Rd 138,55708,-92.3005392,47.5701777,18,Resort
+7711,Blackduck Municipal Golf Course,Blackduck,Minnesota,Lake Rd,56630,-94.5617008,47.72958149999999,9,Public
+7712,Blooming Prairie Country Club,Blooming Prairie,Minnesota,Hwy 218 No,55917,-93.0493156,43.8664567,9,Semi-Private
+7713,The Short at Hyland Greens Golf Course,Bloomington,Minnesota,10100 Normandale Blvd,55437,-93.354404,44.820681,9,Public
+7714,Dwan Golf Club,Bloomington,Minnesota,3301 W 110th St,55431,-93.3248145,44.8039166,18,Public
+7715,The Long at Hyland Greens Golf Course,Bloomington,Minnesota,10100 Normandale Blvd,55437,-93.354404,44.820681,9,Public
+7716,Minnesota Valley Country Club,Bloomington,Minnesota,6300 Auto Club Rd,55438,-93.363095,44.79310100000001,18,Private
+7717,Pine Beach West at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401,-94.3758079,46.3963602,18,Resort
+7718,Social Nine at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401,-94.3758079,46.3963602,9,Resort
+7719,The Classic at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401,-94.3758079,46.3963602,18,Resort
+7720,"One/Two at Legacy Courses at Craguns, The",Brainerd,Minnesota,11000 Craguns Dr,56401,-94.3702781,46.38972099999999,18,Resort
+7721,"One/Three at Legacy Courses at Craguns, The",Brainerd,Minnesota,11000 Craguns Dr,56401,-94.3702781,46.38972099999999,18,Resort
+7722,"Two/Three at Legacy Courses at Craguns, The",Brainerd,Minnesota,11000 Craguns Dr,56401,-94.3702781,46.38972099999999,18,Resort
+7723,Pine Beach East at Madden's on Gull Lake,Brainerd,Minnesota,11266 Pine Beach Peninsula,56401,-94.3758079,46.3963602,18,Resort
+7724,Traditional at Breezy Point Golf Course,Breezy Point,Minnesota,Hwy 11 Breezy Point Resort,56472,-94.208694,46.58978,18,Resort
+7725,Deacon's Lodge,Breezy Point,Minnesota,HC 83 Weavers Point Rd,56472,-94.20744069999999,46.60239199999999,18,Public
+7726,White Birch at Breezy Point Golf Course,Breezy Point,Minnesota,Hwy 11 Breezy Point Resort,56472,-94.208694,46.58978,18,Resort
+7727,Centerbrook Golf Course,Brooklyn Center,Minnesota,5500 N Lilac Dr,55430,-93.3132828,45.0545865,9,Public
+7728,Brookland Executive Nine Golf Course,Brooklyn Park,Minnesota,8232 Regent Ave No,55443,-93.34466499999999,45.105574,9,Public
+7729,Edinburgh USA Golf Course,Brooklyn Park,Minnesota,8700 Edinbrook Crossing,55443,-93.3270204,45.1124567,18,Public
+7730,Prairie View Community Golf,Brooten,Minnesota,1000 Crow Lake St,56316,-95.12169639999999,45.496833,9,Semi-Private
+7731,Buffalo Heights Golf Course,Buffalo,Minnesota,905 Hwy 25 S,55313,-93.8707079,45.161144,9,Semi-Private
+7732,Oakdale Country Club,Buffalo Lake,Minnesota,Route 2,55314,-94.6169333,44.7371841,18,Semi-Private
+7733,Birnamwood Public Golf Course,Burnsville,Minnesota,12424 Parkwood Dr,55337,-93.25994730000001,44.7787519,9,Public
+7734,Orchard Gardens Golf Course,Burnsville,Minnesota,1020 W 155th St,55306,-93.29361709999999,44.7226841,9,Semi-Private
+7735,Macal Grove Country Club,Caledonia,Minnesota,Hwy 44,55921,-91.504526,43.6360673,9,Semi-Private
+7736,Purple Hawk Country Club,Cambridge,Minnesota,Hwy 65,55008,-93.2167253,45.562622,18,Semi-Private
+7737,Canby Golf Club,Canby,Minnesota,Rural Route 3,56220,-96.2764335,44.7088525,9,Semi-Private
+7738,The Lynx at Elmdale Hills Golf Course,Cannon Falls,Minnesota,26161 Nicoali Ave,55009,-92.81249059999999,44.56947359999999,9,Public
+7739,The Tiger at Elmdale Hills Golf Course,Cannon Falls,Minnesota,26161 Nicoali Ave,55009,-92.81249059999999,44.56947359999999,18,Public
+7740,Cannon Golf Club,Cannon Falls,Minnesota,8606 295th St E,55009,-92.93248439999999,44.5182448,18,Semi-Private
+7741,Pine Hill Golf Club,Carlton,Minnesota,1689 County Rd 61,55718,-92.4941042,46.6514906,9,Public
+7742,Sandtrap Golf Course,Cass Lake,Minnesota,Route 3,56633,-94.6043207,47.3793942,9,Public
+7743,Woods at Viking Meadows Golf Club,Cedar,Minnesota,1788 Viking Blvd NE,55011,-93.2296519,45.3163173,9,Public
+7744,Hidden Haven Country Club,Cedar,Minnesota,20520 NE Polk St,55011,-93.2476882,45.341896,18,Semi-Private
+7745,Meadows at Viking Meadows Golf Club,Cedar,Minnesota,1788 Viking Blvd NE,55011,-93.2296519,45.3163173,18,Public
+7746,Chaska Town Course,Chaska,Minnesota,3000 Town Course Dr,55318,-93.6309474,44.8297774,18,Public
+7747,Bluff Creek Golf Course,Chaska,Minnesota,1025 Creekwood St,55318,-93.5503279,44.82262799999999,18,Public
+7748,Chaska Par da,Chaska,Minnesota,1207 Hazeltine Blvd,55318,-93.6001325,44.8360936,9,Public
+7749,Dahlgreen Golf Club,Chaska,Minnesota,6940 Dahlgreen Rd,55318,-93.69937069999999,44.7697142,18,Semi-Private
+7750,Hazeltine National Golf Club,Chaska,Minnesota,1900 Hazeltine Blvd,55318,-93.5908194,44.833729,18,Private
+7751,Chosen Valley Country Club,Chatfield,Minnesota,1801 Main St S,55923,-92.1717723,43.8351206,9,Semi-Private
+7752,KateHaven Golf Course,Circle Pines,Minnesota,8791 Lexington Ave NE,55014,-93.16108299999999,45.12967099999999,9,Public
+7753,Chomonix Golf Course,Circle Pines,Minnesota,646 Sandpiper Dr,55014,-93.10392689999999,45.1606787,18,Public
+7754,Clarks Grove Golf Course,Clarks Grove,Minnesota,Old Hwy 65,56016,-93.322453,43.7643441,9,Semi-Private
+7755,Travelers Country Club on the Mississippi,Clear Lake,Minnesota,8013 County Rd 8,55319,-93.9945815,45.4105218,9,Private
+7756,Eagle Trace Golfers Club,Clearwater,Minnesota,1100 Main St,55320,-94.04263279999999,45.40936199999999,18,Semi-Private
+7757,Bentwood Municipal Golf Course,Climax,Minnesota,Hwy 75 No,56523,-96.8170222,47.6077515,9,Semi-Private
+7758,Big Lake Golf Club,Cloquet,Minnesota,780 Cary Rd,55720,-92.6152228,46.7169128,9,Public
+7759,Cloquet Country Club,Cloquet,Minnesota,400 Country Club Dr,55720,-92.4853236,46.7220861,9,Private
+7760,Ruttger's Sugarbrooke Golf Club,Cohasset,Minnesota,1000 Otis Ln,55721,-93.654703,47.1644792,18,Resort
+7761,Cokato Town & Country Club,Cokato,Minnesota,Hwy 12 W,55321,-94.1900743,45.0799933,9,Semi-Private
+7762,Rich Spring Golf Club,Cold Spring,Minnesota,17467 Fairway Circle,56320,-94.4707103,45.44602039999999,18,Public
+7763,River Oaks Golf Course,Cold Spring,Minnesota,23742 County Rd 2,56320,-94.4203623,45.46867590000001,18,Public
+7764,Eagle Ridge Golf Course,Coleraine,Minnesota,One Green Way,55722,-93.4332044,47.2777673,18,Public
+7765,Vermilion Fairways Golf Club,Cook,Minnesota,2407 Vermilion Dr,55723,-92.6647089,47.8973295,9,Semi-Private
+7766,East/West at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448,-121.8291052,44.2503233,18,Public
+7767,North/West at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448,-121.8291052,44.2503233,18,Public
+7768,North/East at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448,-121.8291052,44.2503233,18,Public
+7769,Executive at Bunker Hills Golf Course,Coon Rapids,Minnesota,Hwy 242 &amp; Foley Blvd,55448,-121.8291052,44.2503233,9,Public
+7770,Shamrock Golf Club,Corcoran,Minnesota,19625 Larkin Rd,55340,-93.533968,45.0837519,18,Semi-Private
+7771,Mississippi Dunes Golf Links,Cottage Grove,Minnesota,10351 Grey Cloud Trl,55016,-92.9726669,44.7925191,18,Semi-Private
+7772,River Oaks Municipal Golf Course,Cottage Grove,Minnesota,11099 Hwy 61 S,55016,-92.8873567,44.788359,18,Public
+7773,Cottonwood Country Club,Cottonwood,Minnesota,233 Shoreview Dr,56229,-95.689917,44.610261,9,Semi-Private
+7774,Minakwa Country Club,Crookston,Minnesota,Fisher Ave,56716,-96.59470019999999,47.7892951,9,Semi-Private
+7775,Crosswoods Golf Course,Crosslake,Minnesota,County Rd 3,56442,-94.09052799999999,46.675954,18,Public
+7776,Orono Golf Course,Crystal Bay,Minnesota,265 Orono Orchard Rd,55323,-93.5586161,44.9743557,9,Public
+7777,Lakeway Golf Course,Dalton,Minnesota,Route 1,56324,-95.8472109,46.1401657,9,Semi-Private
+7778,Dawson Golf Club,Dawson,Minnesota,15th St &amp; Locust Ave,56232,-95.9068406,36.1412662,9,Semi-Private
+7779,Hayden Hills Executive Golf Course,Dayton,Minnesota,13150 Deerwood Ln No,55327,-93.4272615,45.1924888,18,Public
+7780,French Lake Executive Course,Dayton,Minnesota,17500 County Rd 81,55369,-93.502924,45.1608589,9,Public
+7781,Daytona Country Club,Dayton,Minnesota,14730 Lawndale Ln No,55327,-93.50041999999999,45.222988,18,Public
+7782,Blueberry Hills Country Club,Deer River,Minnesota,Golf Course Rd,56636,-93.78984249999999,47.3608112,9,Public
+7783,Lodge Nine at Ruttger's Bay Lake Lodge,Deerwood,Minnesota,Rural Route 2,56444,-93.89998059999999,46.4741399,9,Resort
+7784,Cuyuna Country Club,Deerwood,Minnesota,Hwy 210,56444,-93.89973239999999,46.4737026,18,Semi-Private
+7785,The Lakes at Ruttger's Bay Lake Lodge,Deerwood,Minnesota,Rural Route 2,56444,-93.89998059999999,46.4741399,18,Resort
+7786,Dellwood Hills Golf Club,Dellwood,Minnesota,29 E Hwy 96,55110,-92.977249,45.0963843,18,Private
+7787,White Bear Yacht Club,Dellwood,Minnesota,Dellwood Ave,55110,-92.97213269999999,45.0891096,18,Private
+7788,Lakeview at Detroit Country Club,Detroit Lakes,Minnesota,Rural Route 5,56501,-95.8453253,46.8171808,18,Semi-Private
+7789,Guest at Wildflower Golf Course at Fair Hills Resort,Detroit Lakes,Minnesota,Rural Route 1,56501,-95.8453253,46.8171808,9,Resort
+7790,Forest Hills RV & Golf Resort,Detroit Lakes,Minnesota,22931 185th St,56501,-95.9232507,46.8349917,18,Resort
+7791,Country Club at Detroit Country Club,Detroit Lakes,Minnesota,Rural Route 5,56501,-95.8453253,46.8171808,18,Semi-Private
+7792,Ironman Golf Course,Detroit Lakes,Minnesota,Richwood Rd,56501,-95.8372866,46.8338454,18,Public
+7793,Wildflower at Wildflower Golf Course at Fair Hills Resort,Detroit Lakes,Minnesota,Rural Route 1,56501,-95.8453253,46.8171808,18,Resort
+7794,Dodge Country Club,Dodge Center,Minnesota,US Hwy 14 W,55927,-92.8552042,44.0186804,9,Semi-Private
+7795,Lake at Lester Park Golf Course,Duluth,Minnesota,1860 Lester River Rd,55804,-91.99819029999999,46.8502926,9,Public
+7796,Pike Lake Country Club,Duluth,Minnesota,4895 E Pike Lake Rd,55811,-92.3228571,46.8692315,9,Semi-Private
+7797,Middle Nine/Back Nine at Enger Park Golf Course,Duluth,Minnesota,1801 W Skyline Pkwy,55806,-92.1269935,46.7768907,18,Public
+7798,Back Nine/Front Nine at Enger Park Golf Course,Duluth,Minnesota,1801 W Skyline Pkwy,55806,-92.1269935,46.7768907,18,Public
+7799,Front Nine/Middle Nine at Enger Park Golf Course,Duluth,Minnesota,1801 W Skyline Pkwy,55806,-92.1269935,46.7768907,18,Public
+7800,Grandview Golf Club,Duluth,Minnesota,5665 Grandview Rd,55810,-92.2773969,46.715152,9,Public
+7801,Front & Back at Lester Park Golf Course,Duluth,Minnesota,1860 Lester River Rd,55804,-91.99819029999999,46.8502926,18,Public
+7802,Northland Country Club,Duluth,Minnesota,3901 E Superior St,55804,-92.0483567,46.82555439999999,18,Private
+7803,Ridgeview Country Club,Duluth,Minnesota,700 W Redwing St,55803,-92.103584,46.847214,18,Private
+7804,Carriage Hills Country Club,Eagan,Minnesota,3535 Wescott Woodlands Dr,55123,-93.1366874,44.8287532,18,Public
+7805,Parkview Golf Course,Eagan,Minnesota,1310 Cliff Rd,55123,-93.160471,44.789548,18,Public
+7806,Green at Double Eagle Golf & Supper Club,Eagle Bend,Minnesota,3 County Rd,56446,-95.0366128,46.1540894,9,Semi-Private
+7807,Gold at Double Eagle Golf & Supper Club,Eagle Bend,Minnesota,3 County Rd,56446,-95.0366128,46.1540894,9,Semi-Private
+7808,Riverbend Golf Club,East Grand Forks,Minnesota,Hwy 2 E,56721,-96.97577650000001,47.91384619999999,9,Public
+7809,Valley Country Club,East Grand Forks,Minnesota,1800 21St St NW,56721,-97.0461639,47.9462118,18,Semi-Private
+7810,Bearpath Golf & Country Club,Eden Prairie,Minnesota,18100 Bearpath Trl,55347,-93.505847,44.8429913,18,Private
+7811,Bent Creek Golf Club,Eden Prairie,Minnesota,14490 Valley View Rd,55344,-93.4615671,44.8712864,18,Private
+7812,Cedar Hills Golf Course,Eden Prairie,Minnesota,9735 Eden Prairie Rd,55347,-93.4828239,44.826406,9,Public
+7813,Olympic Hills Golf Club,Eden Prairie,Minnesota,10625 Mount Curve Rd,55347,-93.41283729999999,44.83147,18,Private
+7814,Hays/Clunie at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439,-93.3844498,44.8673806,18,Public
+7815,Frederick S. Richards Course,Edina,Minnesota,7640 Parklawn Ave,55435,-93.3394629,44.8650232,9,Public
+7816,Clunie/Castle at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439,-93.3844498,44.8673806,18,Public
+7817,Executive at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439,-93.3844498,44.8673806,9,Public
+7818,Castle/Hays at Braemer Golf Course,Edina,Minnesota,6364 John Harris Dr,55439,-93.3844498,44.8673806,18,Public
+7819,Edina Country Club,Edina,Minnesota,5100 Wooddale Ave,55424,-93.3404597,44.9108284,18,Private
+7820,Interlachen Country Club,Edina,Minnesota,6200 Interlachen Blvd,55436,-93.37732799999999,44.914084,18,Private
+7821,Tipsinah Mounds Golf Course,Elbow Lake,Minnesota,118 Golf Course Rd,56531,-95.8735509,46.0069008,18,Semi-Private
+7822,Elk River Country Club,Elk River,Minnesota,20015 Elk Lake Rd,55330,-93.5973575,45.3326127,18,Semi-Private
+7823,Pinewood Golf Course,Elk River,Minnesota,14000 182nd Ave NW,55330,-93.6284446,45.3012336,9,Public
+7824,Minniowa Golf Club,Elmore,Minnesota,N Hwy 169,56027,-94.08814319999999,43.5049463,9,Semi-Private
+7825,Ely Golf Club,Ely,Minnesota,901 S Central Ave,55731,-91.8676976,47.8936043,9,Semi-Private
+7826,Championship at Emily Greens Golf Course,Emily,Minnesota,Hist County Road 1 W,56447,-93.966442,46.7309066,9,Public
+7827,Executive at Emily Greens Golf Course,Emily,Minnesota,Hist County Road 1 W,56447,-93.966442,46.7309066,9,Public
+7828,Arrowhead Country Club,Emmons,Minnesota,Route 1 Arrowhead Rd,56029,-93.4756169,43.51393239999999,9,Public
+7829,Oak Lake Golf Course,Erskine,Minnesota,Route 2,56535,-96.0091291,47.6688671,9,Semi-Private
+7830,Eveleth Municipal Golf Course,Eveleth,Minnesota,Old Hwy 53 &amp; Golf Course Rd,55734,-122.630596,38.95373300000001,9,Public
+7831,Minnetonka Country Club,Excelsior,Minnesota,24575 Smithtown Rd,55331,-93.5941948,44.89692650000001,18,Private
+7832,Fort Ridgely State Park Golf Course,Fairfax,Minnesota,Route 1,55332,-94.71931750000002,44.5272559,9,Public
+7833,Mayflower Country Club,Fairfax,Minnesota,Hwy 4 S,55332,-94.7106726,44.5271596,9,Semi-Private
+7834,Rose Lake Golf Club,Fairmont,Minnesota,Rural Route 2,56031,-94.46108319999999,43.65217750000001,18,Semi-Private
+7835,Interlaken Golf Club,Fairmont,Minnesota,277 Amber Lake Dr,56031,-94.4676392,43.60836399999999,18,Semi-Private
+7836,Rolling Green Fairways,Fairmont,Minnesota,1422 Oak Beach Dr,56031,-94.4639443,43.6350345,9,Public
+7837,University of Minnesota Les Bolstad Golf Course,Falcon Heights,Minnesota,2275 Larpenteur Ave W,55113,-93.1961405,44.9921744,18,Public
+7838,Straight River Golf Course,Faribault,Minnesota,Cates Ave/County Rd 19,55021,-93.2335129,44.2490898,18,Public
+7839,Faribault Golf & Country Club,Faribault,Minnesota,1700 NW 17th St,55021,-93.297797,44.3105819,18,Semi-Private
+7840,Golf at the Legacy,Faribault,Minnesota,1515 Shumway Ave,55021,-93.255353,44.30899,18,Public
+7841,Southern Hills Golf Course,Farmington,Minnesota,18950 Chippendale Ave,55024,-93.1365562,44.6767532,18,Public
+7842,Fountain Valley Golf Club,Farmington,Minnesota,2830 220th St W,55024,-93.121551,44.626951,18,Public
+7843,Pebble Lake Golf Club,Fergus Falls,Minnesota,County 82 S,56537,-95.73444930000001,46.0574018,18,Public
+7844,Sandhill River Golf Club,Fertile,Minnesota,Hwy 32 S,56540,-96.28048129999999,47.536095,9,Semi-Private
+7845,Fifty Fore Golf Bar & Grill,Fifty Lakes,Minnesota,County 1 and 3,56448,-94.0500793,46.7378273,9,Public
+7846,Stone Creek Golf Club,Foley,Minnesota,13060 65th St NE,56329,-93.89293789999999,45.6624992,9,Public
+7847,Castlewood Golf Course,Forest Lake,Minnesota,7050 Scandia Trl No,55025,-92.9621256,45.262003,9,Public
+7848,Forest Hills Golf Club,Forest Lake,Minnesota,7530 210th St No,55025,-92.9537127,45.2542846,18,Private
+7849,Fosston Golf Club,Fosston,Minnesota,Hwy 2 W,56542,-95.75167169999999,47.5761382,9,Public
+7850,Frazee Golf Course,Frazee,Minnesota,Rural Route 1,56544,-95.7008776,46.72801459999999,9,Public
+7851,Maple Hills Golf Club,Frazee,Minnesota,Route 4 Off Hwy 10,56544,-93.0287982,44.9345469,9,Public
+7852,Oakview Golf Club,Freeborn,Minnesota,County Rd 8,56032,-93.5641078,43.76579,9,Semi-Private
+7853,Mount Frontenac Golf Course,Frontenac,Minnesota,Hwy 61,55026,-92.356832,44.51101440000001,18,Public
+7854,Town & Country Golf Course,Fulda,Minnesota,Hwy 59,56131,-95.5925113,43.8705009,9,Public
+7855,Garrison Creek Golf Course,Garrison,Minnesota,Hwy 169,56450,-93.8246202,46.2942846,9,Public
+7856,Mille Lacs Golf Resort,Garrison,Minnesota,18517 Captive Lake Rd,56450,-93.79421889999999,46.225483,18,Resort
+7857,Eshquaguma Country Club,Gilbert,Minnesota,6469 White Pine Ln,55741,-92.3648226,47.4618783,9,Private
+7858,Glencoe Country Club,Glencoe,Minnesota,1325 E 1St St,55336,-94.1442544,44.7610467,18,Semi-Private
+7859,Minnewaska Golf Course,Glenwood,Minnesota,Hwy 28/29 Golf Course Rd,56334,-95.4172652,45.6562221,18,Semi-Private
+7860,Pezhekee National Golf Course,Glenwood,Minnesota,20000 S Lakeshore Dr,56334,-95.410866,45.6140649,18,Resort
+7861,Ponderosa Golf Club,Glyndon,Minnesota,Route 2,56547,-96.128053,47.6961065,11,Public
+7862,Par d at Theodore Wirth Golf Course,Golden Valley,Minnesota,1301 Wirth Pkwy,55422,-93.3233133,44.9923964,9,Public
+7863,Brookview Golf Course,Golden Valley,Minnesota,200 Brookview Pkwy,55426,-93.38565589999999,44.9759861,18,Public
+7866,Graceville Golf Club,Graceville,Minnesota,Toqua Lake Rd Off Hwy 75,56240,-96.4469123,45.5633038,9,Semi-Private
+7867,Gunflint Hills Municipal Golf Club,Grand Marais,Minnesota,Gunflint Trl,55604,-90.3318472,47.7669525,9,Public
+7869,Pokegama Golf Course,Grand Rapids,Minnesota,3910 Golf Course Rd,55744,-93.57406879999999,47.204399,18,Public
+7870,Granite Falls Golf Club,Granite Falls,Minnesota,Hwy 67 E,56241,-95.5458455,44.80576749999999,9,Semi-Private
+7871,Two River Golf Course,Hallock,Minnesota,Two Rivers Golf Course Rd,56728,-96.9306462,48.76827060000001,9,Semi-Private
+7872,Gold at Majestic Oaks Golf Club,Ham Lake,Minnesota,701 Bunker Lake Blvd,55304,-93.24983209999999,45.223958,18,Public
+7873,The Executive at Majestic Oaks Golf Club,Ham Lake,Minnesota,701 Bunker Lake Blvd,55304,-93.24983209999999,45.223958,9,Public
+7874,Platinum at Majestic Oaks Golf Club,Ham Lake,Minnesota,701 Bunker Lake Blvd,55304,-93.24983209999999,45.223958,18,Public
+7875,Harmony Golf Club,Harmony,Minnesota,535 Fourth St NE,55939,-92.0040027,43.5583268,9,Semi-Private
+7876,Afton Alps Golf Course,Hastings,Minnesota,6600 Peller Ave S,55033,-92.7907998,44.8544535,18,Semi-Private
+7877,Hastings Country Club,Hastings,Minnesota,2015 Westview Dr,55033,-92.875205,44.7259839,18,Private
+7878,Hidden Greens Golf Course,Hastings,Minnesota,12977 200th St E,55033,-92.84581879999999,44.6596828,18,Public
+7879,Bellwood Oaks Golf Course,Hastings,Minnesota,13239 210th St E,55033,-92.83802179999999,44.6492963,18,Public
+7880,Hawley Golf & Country Club,Hawley,Minnesota,Hwy 10,56549,-96.31658619999999,46.8772477,18,Public
+7881,Holiday Park Golf Course,Hayward,Minnesota,Route 3,56043,-93.2440944,43.650514,9,Public
+7882,Lake Hendricks Golf Club,Hendricks,Minnesota,W On Lincoln County Hwy 17,56136,-96.4520265,44.51859700000001,9,Semi-Private
+7883,Hibbing Municipal Golf Course,Hibbing,Minnesota,16th St &amp; 7th Ave E,55746,-104.9904227,39.7438619,9,Public
+7884,Mesaba Country Club,Hibbing,Minnesota,415 E 51 St,55746,-92.935656,47.378998,18,Semi-Private
+7885,Quadna Golf Course,Hill City,Minnesota,100 Quadna Rd,55748,-93.5921147,46.975916,9,Public
+7886,Grand National Golf Club,Hinckley,Minnesota,300 Lady Luck Dr,55037,-92.91695729999999,46.0071544,18,Public
+7887,Red Rock Golf Course,Hoffman,Minnesota,County Rd 25,56339,-95.7386133,45.8607302,9,Public
+7888,Meadowbrook Golf Club,Hopkins,Minnesota,201 Meadowbrook Rd,55343,-93.37370399999999,44.921011,18,Public
+7889,Oak Ridge Country Club,Hopkins,Minnesota,700 Oak Ridge Rd,55305,-93.40615299999999,44.935211,18,Private
+7890,Valley High Country Club,Houston,Minnesota,Route 2,55943,-91.5684764,43.7632995,18,Public
+7891,"Greens at Howard Lake, The",Howard Lake,Minnesota,5055 County Rd 7 SW,55349,-94.0553219,45.0755576,9,Public
+7893,Crow River Country Club,Hutchinson,Minnesota,915 Colorado St NW,55350,-94.39635009999999,44.9050911,18,Private
+7894,Falls Country Club,International Falls,Minnesota,Golf Course Rd,56649,-93.455953,48.57486,18,Semi-Private
+7895,The Executive at Inver Wood Golf Course,Inver Grove Heights,Minnesota,1850 70th St E,55077,-93.0697103,44.8460293,9,Public
+7896,Arbor Pointe Golf Club,Inver Grove Heights,Minnesota,8919 Cahill Ave E,55076,-93.04208159999999,44.8247057,9,Public
+7897,Eighteen Hole at Inver Wood Golf Course,Inver Grove Heights,Minnesota,1850 70th St E,55077,-93.0697103,44.8460293,18,Public
+7898,Fiddlestix Golf Course,Isle,Minnesota,1081 395th St,56342,-93.4341608,46.1179217,18,Public
+7899,Jackson Golf Club,Jackson,Minnesota,N Hwy 71,56143,-94.9874609,43.6237585,9,Semi-Private
+7900,Loon Lake Public Golf Course,Jackson,Minnesota,Route 3,56143,-94.9886022,43.6207915,9,Public
+7901,Prairie Ridge Golf Course,Janesville,Minnesota,2000 N Main St,56048,-93.70928280000001,44.1276579,9,Public
+7902,Zumbro Valley Golf Club,Kasson,Minnesota,County Rd 15,55944,-92.71875820000001,44.0569638,9,Semi-Private
+7903,Kenyon Country Club,Kenyon,Minnesota,Hwy 56 No,55946,-92.98533160000001,44.2721714,9,Semi-Private
+7904,Kimball Golf Club,Kimball,Minnesota,11823 County Rd 150,55353,-94.2967896,45.2953554,18,Semi-Private
+7905,Pine Creek Golf Course,La Crescent,Minnesota,3815 N Pine Creek Rd,55947,-91.36384149999999,43.8326416,9,Public
+7906,Lake Pepin Golf Course,Lake City,Minnesota,Rural Route 4,55041,-92.2666914,44.4492982,9,Semi-Private
+7907,Lake City Country Club,Lake City,Minnesota,Route 2,55041,-93.3456707,47.1614656,9,Semi-Private
+7908,Blue/White at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042,-92.8696966,44.9779394,18,Private
+7909,White/Red at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042,-92.8696966,44.9779394,18,Private
+7910,Cimarron Golf Course,Lake Elmo,Minnesota,901 Lake Elmo Ave No,55042,-92.8815364,44.96204110000001,9,Public
+7911,Red/Blue at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042,-92.8696966,44.9779394,18,Private
+7912,Vallebrook Golf Club,Lakefield,Minnesota,101 Vallebrook Rd,56150,-95.163912,43.6871107,9,Public
+7913,Green Valley Golf Course,Lake Park,Minnesota,Rural Route 2,56554,-96.0945002,46.8863481,9,Public
+7914,Crystal Lakes Golf Club,Lakeville,Minnesota,16725 Innisbrook Dr,55044,-93.2530982,44.7047654,18,Public
+7915,Heritage Links Golf Club,Lakeville,Minnesota,8075 Lucerne Blvd,55044,-93.35468399999999,44.633333,18,Public
+7916,Brackett's Crossing Country Club,Lakeville,Minnesota,17976 Judicial Rd,55044,-93.3139089,44.6861741,18,Private
+7917,Lancaster Riverside Golf Course,Lancaster,Minnesota,US Hwy 59 No,56735,-96.7992321,48.8582602,9,Public
+7918,Lanesboro Golf Club,Lanesboro,Minnesota,Parkway Ave,55949,-91.97696069999999,43.7152393,9,Semi-Private
+7919,ShadowBrooke Golf Course,Lester Prairie,Minnesota,3192 State Hwy 7,55354,-94.0568278,44.9069212,18,Public
+7920,Le Sueur Country Club,Le Sueur,Minnesota,Rural Route 1,56058,-93.9113634,44.4598517,18,Semi-Private
+7921,Par d at Lewiston Country Club,Lewiston,Minnesota,Route 2 Hwy 14,55952,-89.74977729999999,43.1433245,9,Public
+7922,Regulation at Lewiston Country Club,Lewiston,Minnesota,Route 2 Hwy 14,55952,-89.74977729999999,43.1433245,9,Public
+7923,Chisago Lakes Golf Course,Lindstrom,Minnesota,12975 192nd St,55045,-92.8479921,45.3894083,18,Semi-Private
+7924,Litchfield Golf Club,Litchfield,Minnesota,W Pleasure Dr,55355,-94.5387985,45.11426460000001,9,Public
+7925,Little Falls Country Club,Little Falls,Minnesota,1 Edgewater Dr,56345,-94.3776727,45.9612547,18,Public
+7926,Long Prairie Country Club,Long Prairie,Minnesota,405 6th St SE,56347,-94.85548419999999,45.9689275,18,Semi-Private
+7927,Chippewa National Golf Course,Longville,Minnesota,Rural Route 1,56655,-94.2113636,46.9863443,9,Public
+7928,Executive at Ridgewood Golf Course,Longville,Minnesota,Hwy 7,56655,-95.01676540000001,44.9354593,9,Public
+7929,Regulation Eighteen at Ridgewood Golf Course,Longville,Minnesota,Hwy 7,56655,-95.01676540000001,44.9354593,18,Public
+7930,Luverne Country Club,Luverne,Minnesota,Rural Route 3,56156,-96.2025289,43.6555249,9,Semi-Private
+7931,Meadowbrook Country Club,Mabel,Minnesota,Rural Route 2,55954,-91.7660525,43.5206612,9,Public
+7932,Madelia Golf Course,Madelia,Minnesota,116 W Main St,56062,-94.4188921,44.0506194,9,Public
+7933,Madison Country Club,Madison,Minnesota,W Hwy 40,56256,-96.19353079999999,45.0096617,9,Semi-Private
+7934,Mahnomen Country Club,Mahnomen,Minnesota,Route 2,56557,-95.9623601,47.3082305,9,Semi-Private
+7935,Twenty Nine Pines Golf Course,Mahtowa,Minnesota,2871 Sundberg,55707,-92.6383166,46.565002,9,Public
+7936,Par d Executive at Terrace View Golf Course,Mankato,Minnesota,Hwy 22 S,56001,-93.94919999999999,44.1635237,9,Public
+7937,Mankato Golf Club,Mankato,Minnesota,Golf Club Rd,56002,-93.9776687,44.1920623,18,Private
+7938,Minneopa Golf Club,Mankato,Minnesota,Route 9 S 169 &amp; 160,56001,-93.9674371,44.1223003,9,Public
+7939,Regulation at Terrace View Golf Course,Mankato,Minnesota,Hwy 22 S,56001,-93.94919999999999,44.1635237,9,Public
+7940,Rush Creek Golf Club,Maple Grove,Minnesota,7801 County Rd 101,55311,-93.51447569999999,45.0968334,18,Public
+7941,Sundance Golf Club,Maple Grove,Minnesota,15240 113th Ave No,55369,-93.4743795,45.1594309,18,Public
+7942,Back Nine at Country View Golf Course,Maplewood,Minnesota,2926 N Hwy 61,55109,-93.0461639,45.0289435,9,Public
+7943,Maple Hills Par d,Maplewood,Minnesota,907 Parkway Dr,55106,-93.0672237,44.9934866,9,Public
+7944,Front Nine at Country View Golf Course,Maplewood,Minnesota,2926 N Hwy 61,55109,-93.0461639,45.0289435,9,Public
+7945,Goodrich Golf Course,Maplewood,Minnesota,1820 N Van Dyke St,55109,-93.02129080000002,44.9959011,18,Public
+7946,Marshall Golf Club,Marshall,Minnesota,800 Country Club Dr,56258,-95.80315999999999,44.437906,18,Semi-Private
+7947,Savanna Golf & Supper Club,McGregor,Minnesota,Hist County Road 4,55760,-93.30868699999999,46.60682629999999,9,Semi-Private
+7948,Nine Hole at Rolling Green Country Club,Medina,Minnesota,400 Evergreen Ln,55340,-93.534518,45.049185,9,Private
+7949,The Nine Hole at Baker National Golf Course,Medina,Minnesota,2935 Parkview Dr,55340,-93.6044604,45.0319768,9,Public
+7950,Eighteen Hole at Rolling Green Country Club,Medina,Minnesota,400 Evergreen Ln,55340,-93.534518,45.049185,18,Private
+7951,The Eighteen Hole at Baker National Golf Course,Medina,Minnesota,2935 Parkview Dr,55340,-93.6044604,45.0319768,18,Public
+7952,Meadowlark Country Club,Melrose,Minnesota,837 Country Club Dr,56352,-94.8215374,45.6628645,9,Semi-Private
+7953,Blueberry Pines Golf Club,Menahga,Minnesota,Hwy 71 No,56464,-95.09574549999999,46.7498494,18,Public
+7954,Mendota Heights Par d Golf Course,Mendota Heights,Minnesota,1695 Dodd Rd,55118,-93.122642,44.895019,9,Public
+7955,Mendakota Country Club,Mendota Heights,Minnesota,2075 Mendakota Dr,55120,-93.13497079999999,44.8799192,18,Private
+7956,Somerset Country Club,Mendota Heights,Minnesota,1416 Dodd Rd,55118,-93.110356,44.901471,18,Private
+7957,Milaca Golf Club,Milaca,Minnesota,Central Ave No,56353,-93.65281689999999,45.76113660000001,9,Semi-Private
+7958,Columbia Golf Course,Minneapolis,Minnesota,3300 Central Ave NE,55418,-93.2484121,45.028132,18,Public
+7959,Francis A. Gross Golf Course,Minneapolis,Minnesota,2201 Saint Anthony Blvd,55418,-93.2125738,45.00977169999999,18,Public
+7960,Hiawatha Golf Course,Minneapolis,Minnesota,4553 Longfellow Ave S,55407,-93.24601620000001,44.9204559,18,Public
+7961,"Minikahda Club, The",Minneapolis,Minnesota,3205 Excelsior Blvd,55416,-93.321196,44.94333229999999,18,Private
+7962,Minneapolis Golf Club,Minneapolis,Minnesota,2001 Flag Ave S,55426,-93.39527609999999,44.96414360000001,18,Private
+7963,Countryside Golf Club,Minneota,Minnesota,E Lyon St,56264,-95.98068160000001,44.5578886,9,Semi-Private
+7964,Glen Lake Golf Course,Minnetonka,Minnesota,14350 County Rd 62,55345,-93.4617167,44.8921693,9,Public
+7965,Meadowwoods Golf Course,Minnetonka,Minnesota,18300 Ridgewood Rd,55345,-93.5126976,44.9239262,9,Public
+7966,Lafayette Club,Minnetonka Beach,Minnesota,2800 Northview Rd,55391,-93.59345010000001,44.94339129999999,9,Private
+7967,Montevideo Country Club,Montevideo,Minnesota,W Hwy 212,56265,-95.7268555,44.937026,18,Semi-Private
+7968,Montgomery Golf Club,Montgomery,Minnesota,900 Rogers Dr,56069,-93.576607,44.449988,18,Semi-Private
+7969,Gold at Silver Springs Golf Course,Monticello,Minnesota,1855 County Rd 39 NE,55362,-93.851812,45.3071964,18,Public
+7970,Monticello Country Club,Monticello,Minnesota,1201 Golf Course Rd,55362,-93.8170449,45.307336,18,Semi-Private
+7971,Silver at Silver Springs Golf Course,Monticello,Minnesota,1855 County Rd 39 NE,55362,-93.851812,45.3071964,18,Public
+7972,Town & Country Golf Course,Moorhead,Minnesota,Rural Route 2,56560,-96.76780389999999,46.8737648,9,Public
+7973,"Meadows Public Golf Course, The",Moorhead,Minnesota,401 34th St S,56560,-96.72819199999999,46.8717425,18,Public
+7974,Moorhead Country Club,Moorhead,Minnesota,N River Dr,56560,-96.7687438,46.9007612,18,Private
+7975,Village Green Public Golf Course,Moorhead,Minnesota,3420 Village Green Blvd,56560,-96.72302099999999,46.840152,18,Public
+7976,Moose Lake Golf Club,Moose Lake,Minnesota,Hwy 61 S,55767,-92.783378,46.4368259,9,Semi-Private
+7977,Spring Brook Golf Course,Mora,Minnesota,Route 1 County Rd 69,55051,-93.225485,45.875333,18,Semi-Private
+7978,Pomme de Terre Golf Club,Morris,Minnesota,Hwy 9 S,56267,-95.9195939,45.5916196,9,Semi-Private
+7979,Pine Ridge Golf Club,Motley,Minnesota,100 Hillcrest Rd,56466,-94.64016690000001,46.2604654,18,Public
+7980,Burl Oaks Golf Club,Mound,Minnesota,5400 N Arm Dr,55364,-93.66358,44.97513499999999,18,Private
+7981,Red Oak Golf Club,Mound,Minnesota,855 Red Oak Ln,55364,-93.647994,44.960732,9,Public
+7982,"Bridges of Mounds View, The",Mounds View,Minnesota,8290 Coral Sea Sr,55449,-93.1987978,45.1219851,9,Public
+7983,Mountain Lake Golf Course,Mountain Lake,Minnesota,Lakeshore Dr,56159,-94.940123,43.9461134,9,Semi-Private
+7984,Brightwood Hills Golf Course,New Brighton,Minnesota,1975 Silver Lake Rd NW,55112,-93.2182615,45.0814262,9,Public
+7985,New Hope Village Golf Course,New Hope,Minnesota,8130 Bass Lake Rd,55428,-93.3844755,45.0572471,9,Public
+7986,Creek's Bend Golf Course,New Prague,Minnesota,26826 Langford Ave,56071,-93.50618899999999,44.5610717,18,Public
+7987,New Prague Golf Club,New Prague,Minnesota,400 Lexington Ave S,56071,-93.567965,44.5403499,18,Public
+7988,Riverview Golf Course,New Richland,Minnesota,Route 2,56072,-93.4918842,43.8944047,9,Public
+7989,New Ulm Country Club,New Ulm,Minnesota,1 Golf Dr,56073,-94.4587665,44.289183,18,Semi-Private
+7990,"Woods/Marsh at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468,-94.3136016,46.495504,18,Resort
+7991,"Marsh/Lakes at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468,-94.3136016,46.495504,18,Resort
+7992,"Preserve at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468,-94.3136016,46.495504,18,Resort
+7993,"The Garden at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468,-94.3136016,46.495504,9,Resort
+7994,"Deacon's Lodge at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468,-94.3136016,46.495504,18,Resort
+7995,Birch Bay Resort & Golf Course,Nisswa,Minnesota,1771 Birch Dr W,56468,-94.368209,46.4515627,9,Public
+7996,Fritiz's Resort & Golf Course,Nisswa,Minnesota,942 Hwy 371 No,56468,-94.2983079,46.4847376,9,Resort
+7997,"Lakes/Woods at Pines at Grand View Lodge, The",Nisswa,Minnesota,134 S Nokomis Ave,56468,-94.3136016,46.495504,18,Resort
+7998,North Branch Golf Course,North Branch,Minnesota,1256 County Rd 30,55056,-93.0178507,45.5080663,9,Public
+8000,Willinger's Golf Club,Northfield,Minnesota,6900 Canby Trl,55057,-93.3143769,44.49263,18,Public
+8001,North Links Golf Course,North Mankato,Minnesota,RFD 2,56003,-94.033845,44.1732996,18,Public
+8002,North Oaks Golf Club,North Oaks,Minnesota,54 E Oaks Rd,55127,-93.0946086,45.08448019999999,18,Private
+8003,Oak Marsh Golf Course,Oakdale,Minnesota,526 Inwood Ave No,55128,-92.9371249,44.9552574,18,Public
+8004,Oakdale Par d,Oakdale,Minnesota,5585 Golfview Ave No,55128,-92.97951499999999,45.028783,9,Public
+8005,Olivia Golf Club,Olivia,Minnesota,512 S 6th St,56277,-94.9843021,44.77276759999999,9,Semi-Private
+8006,Black Brook at Izatys Golf & Yacht Club,Onamia,Minnesota,40005 85th Ave,56359,-93.5875291,46.1262046,18,Resort
+8007,Sanctuary at Izatys Golf & Yacht Club,Onamia,Minnesota,40005 85th Ave,56359,-93.5875291,46.1262046,18,Resort
+8008,Lakeview Golf Course,Orono,Minnesota,409 N Arm Dr,55364,-93.6399853,44.9708358,18,Public
+8009,Ortonville Golf Club,Ortonville,Minnesota,Golf Course Rd,56278,-96.45526249999999,45.325983,18,Public
+8010,Osakis Country Club,Osakis,Minnesota,Hwy 27 E,56360,-95.1450773,45.8617387,9,Semi-Private
+8011,Havana Hills Par d Golf,Owatonna,Minnesota,Rural Route 4,55060,-93.2259349,44.0855572,9,Public
+8012,Hidden Creek Golf Course,Owatonna,Minnesota,4989 E Rose St,55060,-93.19118689999999,44.0878241,18,Public
+8013,Brooktree Golf Course,Owatonna,Minnesota,1369 Cherry St,55060,-93.19957389999999,44.0943146,18,Public
+8014,Owatonna Country Club,Owatonna,Minnesota,Lemond Rd,55060,-93.24416869999999,44.0748112,18,Semi-Private
+8015,Brookside Resort,Park Rapids,Minnesota,Hwy 50,56470,-95.18935719999999,47.03270759999999,9,Resort
+8016,Eagle View Golf Course,Park Rapids,Minnesota,Hwy 71 No,56470,-95.058445,46.9221964,18,Public
+8017,Headwaters Golf & Country Club,Park Rapids,Minnesota,County Rd 1,56470,-95.1665337,47.1751862,18,Semi-Private
+8018,Koronis Hills Golf Club,Paynesville,Minnesota,Hwy 23 W,56362,-94.73300309999999,45.373756,18,Semi-Private
+8019,Birchwood Golf Course,Pelican Rapids,Minnesota,Golf Course Rd,56572,-96.07971359999999,46.58581340000001,9,Semi-Private
+8020,Lida Greens Golf Course,Pelican Rapids,Minnesota,Hwy 108 E,56572,-96.0835492,46.5708111,9,Public
+8021,Rolling Hills Golf Course,Pelican Rapids,Minnesota,County Rd 9 Route 2,56572,-96.08311239999999,46.57079239999999,9,Public
+8022,Swan Lake Country Club,Pengilly,Minnesota,Old Hwy 65,55775,-93.19638239999999,47.3326805,9,Semi-Private
+8023,Lakes Area Golf Learning Center,Pequot Lakes,Minnesota,County Rd 16,56472,-94.30940249999999,46.6313326,9,Public
+8024,"Preserve, The",Pequot Lakes,Minnesota,H C 2 40613,56472,-94.3094399,46.6030198,18,Public
+8025,Whitefish Golf Club,Pequot Lakes,Minnesota,Route 1 County Rd 16,56472,-94.30940249999999,46.6313326,18,Public
+8026,Perham Lakeside Country Club,Perham,Minnesota,County Rd 51,56573,-95.5740345,46.6654771,18,Public
+8027,Pierz Municipal Golf Course,Pierz,Minnesota,603 Park Ave,56364,-94.0898682,45.9756605,9,Public
+8028,Pine City Country Club,Pine City,Minnesota,Route 4,55063,-92.9560137,45.8453661,9,Semi-Private
+8029,Pine Island Golf Course,Pine Island,Minnesota,2000 8th St SE,55963,-92.61801899999999,44.1956429,9,Public
+8030,Driftwood Resort,Pine River,Minnesota,County Rd 15,56474,-94.3037056,46.6822922,9,Resort
+8031,Irish Hills Golf Course,Pine River,Minnesota,Route 1,56474,-94.403143,46.71369869999999,18,Public
+8032,Pine River Country Club,Pine River,Minnesota,County Rd 2,56474,-94.4122948,46.7191731,9,Semi-Private
+8033,Pipestone Country Club,Pipestone,Minnesota,8th Ave SE,56164,-96.307474,43.986448,9,Semi-Private
+8034,Piper Hills Golf Course,Plainview,Minnesota,S Hwy 42,55964,-92.1656939,44.16494369999999,9,Public
+8035,Elm Creek Golf Links of Plymouth,Plymouth,Minnesota,18940 Hwy 55,55446,-93.5210868,45.0417555,18,Public
+8036,Hampton Hills Golf Club,Plymouth,Minnesota,5313 Juneau Ln,55446,-93.4693719,45.0514034,18,Public
+8037,Hollydale Golf Club,Plymouth,Minnesota,4710 Holly Ln No,55446,-93.496635,45.0400332,18,Public
+8038,Preston Golf Club,Preston,Minnesota,Hwy 16 W,55965,-92.08338529999999,43.6754607,9,Public
+8039,Princeton Golf Club,Princeton,Minnesota,Golf Course Rd,55372,-93.5777319,45.5635021,18,Semi-Private
+8040,"Wilds Golf Club, The",Prior Lake,Minnesota,3151 Wilds Ridge,55372,-93.4571682,44.7373875,18,Public
+8041,Cleary Lake Park Golf Course,Prior Lake,Minnesota,18106 Texas Ave,55372,-93.383427,44.69123099999999,9,Public
+8042,Scottdale Golf Club,Prior Lake,Minnesota,19400 Natchez Rd,55372,-93.3396071,44.6691553,9,Public
+8043,Lone Pine Country Club,Prior Lake,Minnesota,County Rd 82 W,55377,-93.4589747,44.7248351,18,Public
+8044,Proctor Golf Course,Proctor,Minnesota,Hwy 2,55810,-92.23018429999999,46.7527835,9,Public
+8045,Links at Northfork,Ramsey,Minnesota,9333 153rd St NW,55303,-93.4394852,45.249221,18,Public
+8046,Rum River Hills Golf Club,Ramsey,Minnesota,16659 Saint Francis Blvd,55303,-93.41577099999999,45.273155,18,Public
+8047,Hawk Creek Country Club,Raymond,Minnesota,100 Spicer Ave NE,56282,-95.23833789999999,45.0173506,9,Public
+8048,Oak Knolls Golf Club,Red Lake Falls,Minnesota,Hwy 32 S,56750,-96.2740853,47.8821769,9,Semi-Private
+8049,Highlands at Mississippi National Golf Links,Red Wing,Minnesota,409 Golf Links Dr,55066,-92.4936859,44.5539711,18,Public
+8050,Lowlands at Mississippi National Golf Links,Red Wing,Minnesota,409 Golf Links Dr,55066,-92.4936859,44.5539711,18,Public
+8051,Red Wing Country Club,Red Wing,Minnesota,1311 W 6th St,55066,-92.54741399999999,44.5583675,18,Semi-Private
+8052,Redwood Falls Golf Club,Redwood Falls,Minnesota,101 E Oak St,56283,-95.1217918,44.5498787,9,Semi-Private
+8053,Stoney Creek Golf Course,Renville,Minnesota,820th Ave,56284,-95.2195105,44.7745752,9,Public
+8054,Oak Hill Golf Club,Rice,Minnesota,9000 Hwy 10 NW,56367,-94.187658,45.7040823,18,Public
+8055,Oak Summit Golf Course,Rochester,Minnesota,2751 County Rd 16 SW,55902,-92.501921,43.920616,18,Public
+8056,Meadow Lakes Golf Club,Rochester,Minnesota,70 45th Ave SW,55902,-92.52605199999999,44.018787,18,Public
+8057,Eastwood Golf Club,Rochester,Minnesota,3505 Eastwood Rd SE,55904,-92.4092542,44.0077981,18,Public
+8058,Maple Valley Golf & Country Club,Rochester,Minnesota,8600 Maple Valley Rd SE,55904,-92.37577999999999,43.895938,18,Public
+8059,Northern Hills Golf Club,Rochester,Minnesota,4805 41St Ave NW,55901,-92.52341039999999,44.03583159999999,18,Public
+8060,Rochester Golf & Country Club,Rochester,Minnesota,3100 Country Club Rd SW,55902,-92.5120712,44.0222811,18,Private
+8061,Soldiers Memorial Field Golf Course,Rochester,Minnesota,244 Soldiers Field SW,55901,-92.4665962,44.01122600000001,18,Public
+8062,Willow Creek Golf Course,Rochester,Minnesota,1700 SW 48th St,55902,-92.48619,43.9512399,18,Semi-Private
+8063,Fox Hollow Golf Club,Rogers,Minnesota,4780 Palmgren Ln NE,55374,-93.57309099999999,45.22137,18,Public
+8064,Pheasant Run Golf Club,Rogers,Minnesota,10705 County Rd 116,55374,-93.5427074,45.1491072,18,Public
+8065,Oak Crest Golf Club,Roseau,Minnesota,5th St SE,56751,-95.74635769999999,48.8425081,18,Public
+8066,Blue/White at Rich Valley Golf Club,Rosemount,Minnesota,3855 145th St E,55068,-93.02270999999999,44.742511,18,Public
+8067,White/Red at Rich Valley Golf Club,Rosemount,Minnesota,3855 145th St E,55068,-93.02270999999999,44.742511,18,Public
+8068,Brockway Golf Course,Rosemount,Minnesota,13500 S Robert Trl,55068,-93.1242973,44.751194,9,Public
+8069,Red/Blue at Rich Valley Golf Club,Rosemount,Minnesota,3855 145th St E,55068,-93.02270999999999,44.742511,18,Public
+8070,Roseville Cedarholm Golf Course,Roseville,Minnesota,2323 N Hamline Ave,55113,-93.15926619999999,45.0120685,9,Public
+8071,Ferndale Country Club,Rushford,Minnesota,Route 2 Hwy 16,55971,-91.7532195,43.80545009999999,9,Public
+8072,Saint Charles Golf Course,Saint Charles,Minnesota,1920 Park Rd,55972,-92.04782499999999,43.958829,18,Public
+8073,Par d at Angushire Golf Course,Saint Cloud,Minnesota,224 Waite Ave S,56301,-94.21314149999999,45.5474743,9,Public
+8074,Veterans Golf Club,Saint Cloud,Minnesota,5001 8th St No,56303,-94.2196352,45.5679412,9,Public
+8075,Regulation at Angushire Golf Course,Saint Cloud,Minnesota,224 Waite Ave S,56301,-94.21314149999999,45.5474743,9,Public
+8076,St. Cloud Country Club,Saint Cloud,Minnesota,301 Montrose Rd,56301,-94.146791,45.5204134,18,Private
+8077,St. James Country Club,Saint James,Minnesota,Hwy 60 E,56081,-94.62038969999999,43.9681735,18,Semi-Private
+8078,Lost Spur Country Club,Saint Paul,Minnesota,2750 Sibley Memorial Hwy,55121,-93.1748673,44.8583029,9,Private
+8079,Como Golf Course,Saint Paul,Minnesota,1431 Lexington Pkwy No,55103,-93.1497941,44.9858402,18,Public
+8080,Highland Park Eighteen Golf Course,Saint Paul,Minnesota,1403 Montreal Ave,55116,-93.1594387,44.91270859999999,18,Public
+8081,Hillcrest Country Club,Saint Paul,Minnesota,2200 Larpenteur Ave E,55109,-93.00835149999999,44.9908161,18,Private
+8082,Keller Golf Course,Saint Paul,Minnesota,2166 Maplewood Dr,55109,-93.0558831,45.0076356,18,Public
+8083,Midland Hills Country Club,Saint Paul,Minnesota,2001 Fulham St,55113,-93.1968648,45.0013189,18,Private
+8084,Phalen Park Golf Course,Saint Paul,Minnesota,1615 Phalen Dr,55106,-93.0627434,44.98911349999999,18,Public
+8085,Town & Country Club,Saint Paul,Minnesota,300 Mississippi River Blvd No,55104,-93.199598,44.9491365,18,Private
+8086,Fort Snelling Golf Course,Saint Paul,Minnesota,Building 175,55111,-93.1073795,44.9579475,9,Public
+8087,Highland Nine Golf Course,Saint Paul,Minnesota,1797 Edgecumbe Rd,55116,-93.15751499999999,44.9120311,9,Public
+8088,Shoreland Country Club,Saint Peter,Minnesota,Lake Emily County Rd 21,56082,-93.93255119999999,44.3104662,18,Semi-Private
+8089,Farmers Golf & Health Club,Sanborn,Minnesota,County Rd 15,56083,-95.1350003,44.2096903,9,Public
+8090,Sandstone Area Country Club,Sandstone,Minnesota,343 Lark St,55072,-92.8709173,46.135811,9,Public
+8091,Wapicada Golf Club,Sank Rapids,Minnesota,4448 15th St Ne,56379,-94.06972239999999,45.5888692,18,Semi-Private
+8092,Sartell Golf Club,Sartell,Minnesota,35103 Pinecone Rd,56377,-94.22217239999999,45.6423533,18,Public
+8093,"Lynx National Golf Course, The",Sauk Centre,Minnesota,40204 Primrose Ln,56378,-94.94756369999999,45.6944765,18,Public
+8094,Sauk Centre Country Club,Sauk Centre,Minnesota,Lakeshore Dr,56378,-94.9513139,45.7543914,9,Semi-Private
+8095,Stonebrooke Golf Club,Shakopee,Minnesota,2693 S County Rd 79,55379,-93.51607249999999,44.7543495,18,Public
+8096,Fox Lake Golf Club,Sherburn,Minnesota,Fox Lake Park,56171,-94.72113139999999,43.6584363,9,Semi-Private
+8097,Island Lake Golf & Training Center,Shoreview,Minnesota,1000 Red Fox Rd,55126,-93.1424138,45.0566031,9,Public
+8098,Silver Bay Country Club,Silver Bay,Minnesota,Edison Blvd,55614,-91.28359929999999,47.29208260000001,9,Public
+8099,Slayton Country Club,Slayton,Minnesota,Route 2,56172,-95.7558464,43.9877419,9,Semi-Private
+8100,Sleepy Eye Golf Club,Sleepy Eye,Minnesota,Hwy 14 W,56085,-94.7263889,44.2980556,9,Semi-Private
+8101,Little Crow Country Club,Spicer,Minnesota,Hwy 23,56288,-94.93974999999999,45.23302959999999,18,Semi-Private
+8102,Springfield Golf Club,Springfield,Minnesota,S O'Connell Ave,56087,-94.9776504,44.2379296,9,Semi-Private
+8103,Root River Country Club,Spring Valley,Minnesota,Rural Route 1,55975,-92.389029,43.6960105,9,Semi-Private
+8104,Regulation Eighteen at Falcon Ridge Golf Course,Stacy,Minnesota,33942 Falcon Ave,55079,-93.00521900000001,45.43732199999999,18,Public
+8105,Executive Nine at Falcon Ridge Golf Course,Stacy,Minnesota,33942 Falcon Ave,55079,-93.00521900000001,45.43732199999999,9,Public
+8106,Grandy Nine Golf Club,Stanchfield,Minnesota,1118 361St Ave NE,55080,-93.2405678,45.6230827,9,Public
+8107,Terrace National Golf Club,Staples,Minnesota,County Rd 30,56479,-94.8164001,46.3903005,18,Public
+8108,Riverside Golf Club,Stephen,Minnesota,613 Golf Terrace,56757,-96.87918429999999,48.4491556,9,Public
+8109,Riverview Greens,Stewartville,Minnesota,1801 FirSt Ave NE,55976,-92.4860934,43.8673544,18,Public
+8110,Maplebrook Golf Course,Stewartville,Minnesota,701 E 1St St,55976,-92.47705119999999,43.8555149,9,Semi-Private
+8111,Nine Hole at Oak Glen Country Club,Stillwater,Minnesota,1599 McKusick Rd,55082,-92.83040160000002,45.07072400000001,9,Public
+8112,Applewood Hills Golf Course,Stillwater,Minnesota,11840 60th St No,55082,-92.86748999999999,45.037065,18,Public
+8113,Indian Hills Golf Course,Stillwater,Minnesota,6667 Keats Ave No,55082,-92.899366,45.044386,18,Private
+8114,Eighteen at Oak Glen Country Club,Stillwater,Minnesota,1599 McKusick Rd,55082,-92.83040160000002,45.07072400000001,18,Public
+8115,Sawmill Golf Club,Stillwater,Minnesota,11177 N McKusick Rd,55082,-92.8821945,45.0784452,18,Semi-Private
+8116,Stillwater Country Club,Stillwater,Minnesota,1421 N 4th St,55082,-92.8112845,45.0685252,18,Private
+8117,"Thief River Falls Golf Club, The",Thief River Falls,Minnesota,Hwy 32 No,56701,-96.1815379,48.1191192,18,Semi-Private
+8118,Tracy Country Club,Tracy,Minnesota,Hwy 14 E,56175,-95.6228429,44.2387884,9,Semi-Private
+8119,Lakeview Municipal Golf Course,Two Harbors,Minnesota,Hwy 61 E,55616,-91.67075349999999,47.0256148,18,Public
+8120,Tyler Community Golf Club,Tyler,Minnesota,County Rd 7,56178,-96.13528559999999,44.27591650000001,9,Semi-Private
+8121,Deer Run Golf Club,Victoria,Minnesota,8661 Deer Run Dr,55386,-93.65845,44.846133,18,Public
+8122,Virginia Golf Course,Virginia,Minnesota,9th St No,55792,-92.54883319999999,47.5307006,18,Public
+8123,Coffee Mill Golf & Country Club,Wabasha,Minnesota,215 Skyline Dr,55981,-92.0343778,44.354739,9,Semi-Private
+8124,Island View Golf Club,Waconia,Minnesota,9150 Island View Rd,55387,-93.75164989999999,44.8624152,18,Semi-Private
+8125,Wadena Golf Club,Wadena,Minnesota,Hwy 71,56482,-95.09574549999999,46.7498494,18,Semi-Private
+8126,Wedgewood Golf Course,Walker,Minnesota,Hist County Road 73,56484,-94.5872162,47.10134619999999,9,Public
+8127,Tianna Country Club,Walker,Minnesota,S Hwy 34,56484,-94.5868852,47.1013428,18,Semi-Private
+8128,Riverside Golf Club,Warren,Minnesota,S Main St,56762,-96.76675279999999,48.187189,9,Semi-Private
+8129,Warroad Estates Golf Course,Warroad,Minnesota,201 Birch Dr No,56763,-95.3322419,48.9404704,18,Semi-Private
+8130,Waseca Lakeside Golf Club,Waseca,Minnesota,37160 Clear Lake Dr,56093,-93.4814648,44.09894999999999,18,Semi-Private
+8131,River's Edge Country Club,Watertown,Minnesota,1455 County Rd 27,55388,-93.8302513,44.9751881,9,Public
+8132,Timber Creek Golf Course,Watertown,Minnesota,9750 County Rd 24,55388,-93.77125799999999,44.952806,18,Public
+8133,Wayzata Country Club,Wayzata,Minnesota,200 W Wayzata Blvd,55391,-93.5304855,44.9775198,18,Private
+8134,Woodhill Country Club,Wayzata,Minnesota,200 Woodhill Rd,55391,-93.5456758,44.9752348,18,Private
+8135,Wells Golf Club,Wells,Minnesota,1St Ave SW,56097,-93.7268886,43.7410101,9,Public
+8136,Rolling Hills Golf Club,Westbrook,Minnesota,Route 2,56183,-95.43611279999999,44.0421825,9,Semi-Private
+8137,Thompson Oaks Golf Course,West Saint Paul,Minnesota,1555 Oakdale Ave,55118,-93.07201289999999,44.8993802,9,Public
+8138,Southview Country Club,West Saint Paul,Minnesota,239 E Mendota Rd,55118,-93.07395269999999,44.8846272,18,Private
+8139,Wheaton Country Club,Wheaton,Minnesota,Hwy 27 W,56296,-96.4992381,45.804393,9,Semi-Private
+8140,Oneka Ridge Golf Course,White Bear Lake,Minnesota,5610 120th St No,55110,-92.98671499999999,45.127362,18,Public
+8141,Gem Lake Hills Golf Course,White Bear Lake,Minnesota,4039 Scheuneman Rd,55110,-93.03161229999999,45.0633016,18,Public
+8142,Manitou Ridge Golf Club,White Bear Lake,Minnesota,3200 N McKnight Rd,55110,-92.99991,45.039723,18,Public
+8143,Valley Golf Course,Willmar,Minnesota,1900 E Becker Ave,56201,-95.0178273,45.1211876,9,Public
+8144,Eagle Creek Golf Club,Willmar,Minnesota,1000 26th Ave NE,56201,-95.03336759999999,45.1517588,18,Semi-Private
+8145,Windom Country Club,Windom,Minnesota,County Rd 13,56101,-95.1379705,43.8779693,9,Semi-Private
+8146,Riverside Town & Country Club,Winnebago,Minnesota,36259 150th St,56098,-94.1432955,43.7085915,9,Semi-Private
+8147,Executive at Cedar Valley Golf Course,Winona,Minnesota,County Rd 9,55987,-91.5492124,43.9675428,9,Semi-Private
+8148,Westfield Golf Club,Winona,Minnesota,1460 W 5th St,55987,-91.6762969,44.0545769,9,Public
+8149,Winona Country Club,Winona,Minnesota,Pleasant Valley Rd,55987,-91.6027276,43.9996513,18,Private
+8150,Regulation Eighteen at Cedar Valley Golf Course,Winona,Minnesota,County Rd 9,55987,-91.5492124,43.9675428,18,Semi-Private
+8151,Winthrop Golf Club,Winthrop,Minnesota,Hwy 15,55396,-94.3758604,44.5428726,9,Semi-Private
+8152,Eagle Valley Golf Course,Woodbury,Minnesota,2600 Double Eagle Ln,55129,-92.89864020000002,44.9113441,18,Public
+8153,Prestwick Golf Club at Wedgewood,Woodbury,Minnesota,9555 Wedgewood Dr,55125,-92.9125242,44.8975732,18,Semi-Private
+8154,Woodbury Par d,Woodbury,Minnesota,3351 Woodlane Dr,55125,-92.96435919999999,44.9013075,9,Public
+8155,Prairie View Golf Links,Worthington,Minnesota,Hwy 266 No,56187,-95.7136513,43.7011592,18,Public
+8156,Worthington Country Club,Worthington,Minnesota,1414 Liberty Dr,56187,-95.6228003,43.6255466,18,Semi-Private
+8157,"Greenwood Golf Links, Inc.",Wyoming,Minnesota,4520 E Viking Blvd,55092,-93.0146932,45.3405918,18,Public
+8158,Fairway Shores Golf Course,Zimmerman,Minnesota,28340 131St St,55398,-93.6015999,45.4847829,9,Public
+8159,Zumbrota Golf Club,Zumbrota,Minnesota,Sugarloaf Pkwy,55992,-92.6779112,44.3079665,9,Public
