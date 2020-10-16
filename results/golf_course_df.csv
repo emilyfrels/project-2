@@ -1,0 +1,245 @@
+course_id,course,city,state,street,zip_code,lng,lat,hole,public_private
+6389,Forest Park Country Club,Adams,Massachusetts,Forest Park Ave,01220,-73.12509659999999,42.62107109999999,9,Public
+6390,Crestview Country Club,Agawam,Massachusetts,Shoemaker Ln,01001,-72.6584404,42.0508369,18,Private
+6391,Amesbury Golf & Country Club,Amesbury,Massachusetts,50 Monroe St,01913,-70.9113012,42.8573828,9,Semi-Private
+6392,Amherst Golf Club,Amherst,Massachusetts,365 S Pleasant St,01002,-72.52649199999999,42.36304699999999,9,Semi-Private
+6393,Hickory Ridge Country Club,Amherst,Massachusetts,191 W Pomeroy Ln,01002,-72.528673,42.343113,18,Semi-Private
+6394,Andover Country Club,Andover,Massachusetts,60 Canterbury St,01810,-71.16687209999999,42.6726857,18,Private
+6395,Rolling Green Golf Course,Andover,Massachusetts,311 Lowell St,01810,-71.1856971,42.6494979,9,Public
+6396,Indian Ridge Country Club,Andover,Massachusetts,Lovejoy Rd,01810,-71.1765271,42.6401435,18,Private
+6397,Edge Hill Golf Course,Ashfield,Massachusetts,Barnes Rd,01330,-72.7830662,42.5545648,9,Public
+6398,Ellinwood Country Club,Athol,Massachusetts,1928 Pleasant St,01331,-72.21860149999999,42.56273849999999,18,Semi-Private
+6402,Pakachoag Golf Course,Auburn,Massachusetts,15 Upland St,01501,-71.8140516,42.2207618,9,Public
+6404,Patriot Golf Course,Bedford,Massachusetts,200 Springs Rd,01730,-71.27558859999999,42.5071946,9,Military
+6405,Mill Valley Country Club,Belchertown,Massachusetts,380 Mill Valley Rd,01007,-72.3729189,42.2578216,9,Semi-Private
+6409,Berlin Country Club,Berlin,Massachusetts,25 Carr Rd,01503,-71.6289326,42.4068457,9,Public
+6410,Crumpin-Fox Club,Bernardston,Massachusetts,Parmenter Rd,01337,-72.5315318,42.6729688,18,Semi-Private
+6411,Beverly Golf & Tennis Club,Beverly,Massachusetts,134 McKay St,01915,-70.897938,42.562106,18,Semi-Private
+6412,Country Club of Billerica,Billerica,Massachusetts,51 Baldwin Rd,01821,-71.233941,42.5519256,18,Public
+6413,"Blandford Club, The",Blandford,Massachusetts,N St,01008,-72.93387010000001,42.191909,9,Private
+6414,"International Golf Club, The",Bolton,Massachusetts,159 Ballville Rd,01740,-71.6472184,42.4316082,18,Private
+6415,Twin Springs Golf Course,Bolton,Massachusetts,295 Wilder Rd,01740,-71.6449701,42.438832,9,Public
+6417,Mt. Pleasant Country Club,Boylston,Massachusetts,369 Cross St,01505,-71.71062680000001,42.3509003,18,Private
+6418,Championship at Cyprian Keyes Golf Club,Boylston,Massachusetts,284 E Temple St,01505,-71.720959,42.3382348,18,Public
+6419,Par d at Cyprian Keyes Golf Club,Boylston,Massachusetts,284 E Temple St,01505,-71.720959,42.3382348,9,Public
+6420,Bradford Country Club,Bradford,Massachusetts,201 Chadwick Rd,01835,-71.0791834,42.7714977,18,Public
+6441,Heritage Country Club,Charlton,Massachusetts,Sampson Rd,01507,-72.02077349999999,42.1325741,18,Semi-Private
+6444,Chelmsford Country Club,Chelmsford,Massachusetts,66 Park Rd,01824,-71.368822,42.57474850000001,9,Public
+6445,Chicopee Country Club,Chicopee,Massachusetts,1290 Burnett Rd,01020,-72.519452,42.182502,18,Public
+6446,North Adams Country Club,Clarksburg,Massachusetts,641 River Rd,01247,-73.0759688,42.7204658,9,Semi-Private
+6448,Concord Country Club,Concord,Massachusetts,246 Old Nine Acre Corner Rd,01742,-71.37617139999999,42.4292609,18,Private
+6449,Nashawtuc Country Club,Concord,Massachusetts,1861 Sudbury Rd,01742,-71.36826529999999,42.4141634,18,Private
+6451,Wahconah Country Club,Dalton,Massachusetts,15 Orchard Rd,01226,-73.14565019999999,42.47449470000001,18,Semi-Private
+6452,Executive at Ferncroft Country Club,Danvers,Massachusetts,50 Ferncroft Rd,01923,-70.9696392,42.5970562,9,Resort
+6453,Championship at Ferncroft Country Club,Danvers,Massachusetts,50 Ferncroft Rd,01923,-70.9696392,42.5970562,18,Resort
+6458,Nichols College Golf Club,Dudley,Massachusetts,80 Airport Rd,01571,-71.9244676,42.0434698,9,Semi-Private
+6462,Bay Path Golf Course,East Brookfield,Massachusetts,193 N Brookfield Rd,01515,-72.0632901,42.22765,9,Public
+6466,Elmcrest Country Club,East Longmeadow,Massachusetts,105 Somersville Rd,01028,-72.47500939999999,42.0364835,18,Private
+6467,Pine Knoll Executive Golf Course,East Longmeadow,Massachusetts,380 Porter Rd,01028,-72.48084,42.0870038,18,Public
+6470,Cape Ann Golf Course,Essex,Massachusetts,99 John Wise Ave,01929,-70.7829714,42.6480295,9,Public
+6474,Oak Ridge Golf Club,Feeding Hills,Massachusetts,850 S Westfield St,01030,-72.67516719999999,42.0398023,18,Semi-Private
+6475,Agawam Country Club,Feeding Hills,Massachusetts,128 S. Wick St,01030,-72.6843566,42.0723533,18,Public
+6476,St. Anne Country Club,Feeding Hills,Massachusetts,781 Shoemaker Ln,01030,-72.664205,42.05488099999999,18,Public
+6477,Hemlock Ridge Golf Course,Fiskdale,Massachusetts,220 Holland Rd,01518,-72.130393,42.09582899999999,9,Public
+6478,Oak Hill Country Club,Fitchburg,Massachusetts,840 Oak Hill Rd,01420,-71.832549,42.5606,18,Private
+6480,Framingham Country Club,Framingham,Massachusetts,Gates St,01701,-71.4680395,42.292824,18,Private
+6481,Millwood Farms Golf Course,Framingham,Massachusetts,175 Millwood St,01701,-71.459199,42.3206909,14,Public
+6483,Gardner Municipal Golf Course,Gardner,Massachusetts,152 Eaton Rd,01440,-71.993484,42.5985187,18,Public
+6484,"Georgetown Club, The",Georgetown,Massachusetts,258 Andover St,01833,-71.0096604,42.714497,18,Private
+6485,Dunroamin Country Club,Gilbertville,Massachusetts,262 Lower Rd,01031,-72.18957999999999,42.308391,9,Semi-Private
+6486,Bass Rocks Golf Club,Gloucester,Massachusetts,27 Beach Rd,01930,-70.64054709999999,42.6151329,18,Private
+6487,Westover Golf Club,Granby,Massachusetts,S St,01033,-72.52762,42.22972499999999,18,Public
+6488,Egremont Country Club,Great Barrington,Massachusetts,Route 23,01230,-73.3613087,42.1957236,18,Semi-Private
+6489,Wyantenuck Country Club,Great Barrington,Massachusetts,West Sheffield Rd,01230,-73.37915679999999,42.1689265,18,Private
+6490,"Country Club of Greenfield, The",Greenfield,Massachusetts,244 Country Club Rd,01301,-72.595336,42.61871,18,Semi-Private
+6491,"Meadows Golf Course, The",Greenfield,Massachusetts,Deerfield St,01301,-72.5983622,42.5782692,9,Public
+6492,Groton Country Club,Groton,Massachusetts,94 Lovers Ln,01450,-71.55753899999999,42.601415,9,Public
+6494,Hampden Country Club,Hampden,Massachusetts,128 Wilbraham Rd,01036,-72.43736489999999,42.0651169,18,Public
+6495,Shaker Hills Golf Club,Harvard,Massachusetts,146 Shaker Rd,01451,-71.55215299999999,42.545919,18,Public
+6498,Crystal Springs Golf Club,Haverhill,Massachusetts,940 N Broadway,01832,-71.1396078,42.8080804,18,Semi-Private
+6499,Haverhill Country Club,Haverhill,Massachusetts,Brickett Ln,01831,-71.0804483,42.8058998,18,Private
+6500,Beaver Brook Golf Club,Haydenville,Massachusetts,101 Main St,01039,-72.7100581,42.3814394,9,Public
+6502,Bas-Ridge Golf Course,Hinsdale,Massachusetts,Plunkett St,01235,-73.12155779999999,42.44111480000001,18,Public
+6503,Holden Hills Country Club,Holden,Massachusetts,1800 Main St,01522,-71.88920999999999,42.3690096,18,Public
+6504,Pinecrest Golf Club,Holliston,Massachusetts,212 Prentice St,01746,-71.4546575,42.2033328,18,Public
+6505,Holyoke Country Club,Holyoke,Massachusetts,Route 5 Smiths Ferry Rd,01040,-72.60393549999999,42.2711706,9,Semi-Private
+6506,Wyckoff Country Club,Holyoke,Massachusetts,233 E Hampton Rd,01040,-72.6413518,42.2260332,18,Private
+6507,Hopedale Country Club,Hopedale,Massachusetts,Off Mill St,01747,-71.5258313,42.1152454,9,Semi-Private
+6508,Saddle Hill Country Club,Hopkinton,Massachusetts,204 Saddle Hill Rd,01748,-71.555725,42.260575,18,Public
+6513,Ipswich Country Club,Ipswich,Massachusetts,148 Country Club Way,01938,-70.8978197,42.6946593,18,Private
+6514,Candlewood Golf Club,Ipswich,Massachusetts,75 Essex Rd,01938,-70.82053119999999,42.6568626,9,Public
+6518,Skyline Country Club,Lanesboro,Massachusetts,405 S Main St,01237,-73.2351338,42.5056586,18,Public
+6519,Greenock Country Club,Lee,Massachusetts,W Park St,01238,-73.2545667,42.302678,9,Semi-Private
+6520,Northampton Country Club,Leeds,Massachusetts,135 Main St,01053,-72.69972369999999,42.3470495,9,Semi-Private
+6521,Hillcrest Country Club,Leicester,Massachusetts,325 Pleasant St,01524,-71.9017987,42.2329212,9,Semi-Private
+6522,Strawberry Hills Country Club,Leicester,Massachusetts,1430 Main St,01524,-71.856988,42.240209,18,Public
+6523,"Cranwell Resort, Spa & Golf Club",Lenox,Massachusetts,"55 Lee Rd Lenox,",01240,-73.2627692,42.3417067,18,Public
+6524,Grand View Country Club,Leominster,Massachusetts,454 Wachusett St,01453,-71.8075215,42.5001744,18,Semi-Private
+6525,Monoosnock Country Club,Leominster,Massachusetts,Monoosnock Ave,01453,-71.73825169999999,42.5471121,9,Semi-Private
+6528,Kimball Farm Golf Club,Littleton,Massachusetts,400 Littleton Rd,01886,-71.4591099,42.5503899,9,Public
+6529,Longmeadow Country Club,Longmeadow,Massachusetts,400 Shaker Rd,01106,-72.5702069,42.0402874,18,Private
+6530,Twin Hills Country Club,Longmeadow,Massachusetts,700 Wolf Swamp Rd,01106,-72.53678479999999,42.0406529,18,Private
+6531,Mt. Pleasant Golf Club,Lowell,Massachusetts,141 Staples,01851,-71.3447133,42.6273023,9,Private
+6532,Ludlow Country Club,Ludlow,Massachusetts,Tony Lema Dr,01056,-72.4613796,42.1613746,18,Private
+6533,Maplewood Golf Course,Lunenburg,Massachusetts,994 N. Field Rd,01462,-71.761194,42.6072,9,Public
+6534,Larry Gannon Municipal Golf Course,Lynn,Massachusetts,60 Great Woods Rd,01904,-70.9753558,42.4875429,18,Semi-Private
+6535,Lynnfield Center Golf Club,Lynnfield,Massachusetts,195 Summer St,01940,-71.0442745,42.5345252,9,Public
+6536,Sagamore Spring Golf Club,Lynnfield,Massachusetts,1287 Main St,01940,-71.04036719999999,42.5591183,18,Public
+6537,Essex County Club,Manchester-by-the-Sea,Massachusetts,School St,01944,-70.7687875,42.5855028,18,Private
+6539,Tedesco Country Club,Marblehead,Massachusetts,154 Tedesco St,01945,-70.89392,42.48442499999999,18,Private
+6542,Marlborough Country Club,Marlboro,Massachusetts,200 Concord Rd,01752,-71.5232729,42.356673,18,Private
+6549,Maynard Country Club,Maynard,Massachusetts,Brown St,01754,-71.4524754,42.4418191,9,Semi-Private
+6552,Merrimack Golf Course,Methuen,Massachusetts,210 Howe St,01844,-71.1726815,42.7551627,18,Semi-Private
+6553,Hickory Hills Golf Course,Methuen,Massachusetts,200 N Lowell St,01844,-71.2352779,42.69526399999999,18,Public
+6554,Middleton Golf Course,Middleton,Massachusetts,105 S Main St,01949,-71.014991,42.587022,18,Public
+6555,Milford Country Club,Milford,Massachusetts,3A Country Club Ln,01757,-71.54442999999999,42.1453083,9,Private
+6556,Clearview Country Club,Millbury,Massachusetts,66 Park Hill Ave,01527,-71.7741264,42.2099516,9,Public
+6559,Quaboag Country Club,Monson,Massachusetts,Palmer Rd,01057,-72.3066218,42.1264597,9,Semi-Private
+6560,Kelley Greens Golf Course,Nahant,Massachusetts,1 Willow Rd,01908,-70.92891399999999,42.423357,9,Public
+6564,Old Newbury Golf Club,Newbury,Massachusetts,Route 1,01952,-70.88772949999999,42.7689086,9,Semi-Private
+6565,Evergreen Valley Golf Course,Newburyport,Massachusetts,18 Boyd Dr,01950,-70.9112571,42.8233621,9,Public
+6572,Cherry Hill Golf Course,North Amherst,Massachusetts,323 Montague Rd,01002,-72.5262987,42.42034,9,Public
+6573,Pine Grove Golf Course,Northampton,Massachusetts,254 Wilson Rd,01062,-72.664931,42.29610900000001,18,Semi-Private
+6574,North Andover Country Club,North Andover,Massachusetts,500 Great Pond Rd,01845,-71.0926715,42.6923653,9,Private
+6576,Lakeside at Juniper Hill Golf Course,Northborough,Massachusetts,202 Brigham St,01532,-71.6283519,42.31057029999999,18,Public
+6577,Riverside at Juniper Hill Golf Course,Northborough,Massachusetts,202 Brigham St,01532,-71.6283519,42.31057029999999,18,Public
+6583,Northfield Golf Club,Northfield,Massachusetts,31 Holton St,01360,-72.44812809999999,42.7024573,9,Semi-Private
+6584,Pine Ridge Country Club,North Oxford,Massachusetts,28 Pleasant St,01537,-71.904995,42.188633,18,Semi-Private
+6586,Hillview Golf Course,North Reading,Massachusetts,149 N St,01864,-71.10792219999999,42.5908366,18,Public
+6587,Thomson Country Club,North Reading,Massachusetts,2 Midiron Dr,01864,-71.0350196,42.5749405,18,Private
+6596,Quail Hollow Country Club,Oakham,Massachusetts,1822 Turnpike Rd,01068,-72.08924859999999,42.3616256,9,Semi-Private
+6600,Salem Country Club,Peabody,Massachusetts,133 Forest St,01960,-70.9704228,42.5304485,18,Private
+6602,Petersham Country Club,Petersham,Massachusetts,240 N Main St,01366,-72.1826013,42.5190901,9,Semi-Private
+6603,Berkshire Hills Country Club,Pittsfield,Massachusetts,Benedict Rd,01201,-73.2293728,42.4652769,18,Private
+6604,General Electric Athletic Club,Pittsfield,Massachusetts,303 Crane Ave,01201,-73.23069699999999,42.4755891,9,Semi-Private
+6605,Country Club of Pittsfield,Pittsfield,Massachusetts,639 S St,01201,-73.2589346,42.4265953,18,Private
+6618,Meadow Brook Golf Club,Reading,Massachusetts,292 Grove St,01867,-71.12744459999999,42.5436743,9,Private
+6628,Rockport Golf Club,Rockport,Massachusetts,Country Club Rd,01966,-70.605454,42.65219769999999,9,Semi-Private
+6629,Rowley Country Club,Rowley,Massachusetts,235 Dodge Rd,01969,-70.9337078,42.7165734,9,Semi-Private
+6630,Bedrock Golf Club,Rutland,Massachusetts,87 Barre-Paxton Rd,01543,-71.9736873,42.3303624,9,Public
+6631,Kernwood Country Club,Salem,Massachusetts,1 Kernwood Ave,01970,-70.8921525,42.5501416,18,Private
+6632,Salem Municipal Golf Course,Salem,Massachusetts,Wilson St,01970,-70.9069887,42.5065716,9,Public
+6634,Cedar Glen Golf Club,Saugus,Massachusetts,60 Water St,01906,-71.0254685,42.4956003,9,Public
+6644,Southampton Country Club,Southampton,Massachusetts,329 College Hwy,01073,-72.7258033,42.2091653,18,Public
+6645,St. Mark's Golf Club at St Mark's School,Southboro,Massachusetts,Latisquanma Rd,01772,-71.5229246,42.301468,9,Semi-Private
+6646,Cohasse Country Club,Southbridge,Massachusetts,426 East Ford Rd,01550,-72.0460677,42.0625691,9,Private
+6649,The Orchards,South Hadley,Massachusetts,Silverwood Terrace,01075,-72.5678564,42.2639031,18,Semi-Private
+6651,Myopia Hunt Club,South Hamilton,Massachusetts,Off Bay Rd,01982,-70.8542144,42.6220737,18,Private
+6653,Edgewood Golf Club,Southwick,Massachusetts,161 Sheep Pasture Rd,01077,-72.76773760000002,42.0406566,18,Semi-Private
+6654,Southwick Country Club,Southwick,Massachusetts,739 College Hwy,01077,-72.76838049999999,42.0797094,18,Public
+6657,Franconia Golf Course,Springfield,Massachusetts,619 Dwight Rd,01108,-72.5382843,42.0632286,18,Public
+6658,Veterans Memorial Golf Course,Springfield,Massachusetts,1059 S Branch Pkwy,01118,-72.50504819999999,42.1029871,18,Public
+6659,Sterling Country Club,Sterling,Massachusetts,33 Albright Rd,01564,-71.7258691,42.4529945,18,Private
+6660,Stockbridge Golf Club,Stockbridge,Massachusetts,Main St,01262,-73.3145752,42.282833,18,Private
+6665,Stow South at Stow Acres Country Club,Stow,Massachusetts,58 Randall Rd,01775,-71.5280956,42.4160016,18,Public
+6666,Stow North at Stow Acres Country Club,Stow,Massachusetts,58 Randall Rd,01775,-71.5280956,42.4160016,18,Public
+6667,Butternut Farm Golf Club,Stow,Massachusetts,115 Wheeler Rd,01775,-71.515097,42.428694,18,Public
+6668,Wedgewood Pines Country Club,Stow,Massachusetts,215 Harvard Rd,01775,-71.535983,42.444151,18,Semi-Private
+6669,Stowaway Golf Course,Stow,Massachusetts,121 White Pond Rd,01775,-71.483473,42.4214023,9,Public
+6670,Pleasant Valley Country Club,Sutton,Massachusetts,95 Armsby Rd,01590,-71.73695430000001,42.1512143,18,Private
+6671,Blackstone National Golf Club,Sutton,Massachusetts,227 Putnam Hill Rd,01590,-71.7608735,42.11938860000001,18,Public
+6676,Tewksbury Country Club,Tewksbury,Massachusetts,85 Livingston St,01876,-71.2060951,42.5919707,9,Public
+6677,Trull Brook Golf Course,Tewksbury,Massachusetts,170 River Rd,01876,-71.2603434,42.6531435,18,Public
+6678,New Meadows Golf Club,Topsfield,Massachusetts,30 Wildes Rd,01983,-70.9248269,42.6629041,9,Public
+6679,Townsend Ridge Country Club,Townsend,Massachusetts,40 Scales Ln,01469,-71.72257789999999,42.6689455,18,Public
+6680,Thomas Memorial Golf & Country Club,Turners Falls,Massachusetts,Country Club Ln,01376,-72.55850690000001,42.5942895,9,Semi-Private
+6681,Tyngsboro Country Club,Tyngsboro,Massachusetts,Pawtuckett Blvd,01879,-71.3952942,42.6567565,9,Public
+6682,Vesper Country Club,Tyngsboro,Massachusetts,185 Pawtucket Blvd,01879,-71.39844409999999,42.65702330000001,18,Private
+6683,Blissful Meadows Golf Club,Uxbridge,Massachusetts,801 Chocolog Rd,01569,-71.6799888,42.0326332,18,Semi-Private
+6684,Edgewood Golf Club,Uxbridge,Massachusetts,757 W Hartford Ave,01569,-71.6934942,42.075282,9,Public
+6686,Colonial Golf Club,Wakefield,Massachusetts,1 Audubon Rd,01880,-71.0398307,42.5141693,18,Public
+6691,New Sandy Burr Country Club,Wayland,Massachusetts,103 Cochituate Rd,01778,-71.3586067,42.3546518,18,Public
+6692,Wayland Country Club,Wayland,Massachusetts,121 Old Sudbury Rd,01778,-71.37831190000001,42.379194,18,Public
+6695,Wenham Country Club,Wenham,Massachusetts,94 Main St,01984,-70.8842209,42.5988202,18,Semi-Private
+6696,Lakeview Golf Club,Wenham,Massachusetts,Route 1A Main St,01984,-70.88594379999999,42.590825,9,Public
+6697,Indian Meadows Golf Club,Westborough,Massachusetts,275 Turnpike Rd,01581,-71.645875,42.28646990000001,9,Semi-Private
+6698,Westborough Country Club,Westborough,Massachusetts,121 W Main St,01581,-71.62390169999999,42.2640244,9,Semi-Private
+6699,Third Nine at Far Corner Golf Course,West Boxford,Massachusetts,Main St &amp; Barker Rd,01885,-95.70603559999999,37.2230876,9,Public
+6700,Eighteen Hole at Far Corner Golf Course,West Boxford,Massachusetts,Main St &amp; Barker Rd,01885,-95.70603559999999,37.2230876,18,Public
+6701,Wachusett Country Club,West Boylston,Massachusetts,187 Prospect St,01583,-71.7922413,42.3587829,18,Public
+6702,East Mountain Country Club,Westfield,Massachusetts,1458 E Mountain Rd,01085,-72.6973483,42.15758090000001,18,Public
+6703,Shaker Farms Country Club,Westfield,Massachusetts,Shaker Rd,01086,-72.74218119999999,42.0907708,18,Semi-Private
+6704,Tekoa Country Club,Westfield,Massachusetts,459 Russell Rd,01085,-72.7813259,42.13294760000001,18,Public
+6705,Nabnasset Lake Country Club,Westford,Massachusetts,47 Oak Hill Rd,01886,-71.4140609,42.6186006,9,Semi-Private
+6706,"Woods of Westminster, The",Westminster,Massachusetts,90 Bean Porridge Hill Rd,01473,-71.87534699999999,42.582728,18,Public
+6707,Westminster Country Club,Westminster,Massachusetts,51 Ellis Rd,01473,-71.9285604,42.5413424,18,Semi-Private
+6712,Springfield Country Club,West Springfield,Massachusetts,1375 Elm St,01089,-72.630089,42.123449,18,Private
+6715,Whitinsville Golf Club,Whitinsville,Massachusetts,179 Fletcher St,01588,-71.658992,42.1064816,9,Private
+6716,Country Club of Wilbraham,Wilbraham,Massachusetts,859 Stoney Hill Rd,01095,-72.4570233,42.1124849,9,Semi-Private
+6717,Taconic Golf Club,Williamstown,Massachusetts,Meacham St,01267,-73.2022004,42.7078923,18,Semi-Private
+6718,Waubeeka Golf Links,Williamstown,Massachusetts,137 New Ashford Rd,01267,-73.245154,42.6555208,18,Public
+6719,Winchendon Country Club,Winchendon,Massachusetts,172 Ash St,01475,-72.03672139999999,42.67522779999999,18,Public
+6720,Winchester Country Club,Winchester,Massachusetts,468 MyStic St,01890,-71.1555867,42.4347309,18,Private
+6722,Woburn Country Club,Woburn,Massachusetts,1 Country Club Rd,01801,-71.16694249999999,42.4624591,9,Public
+6723,Worcester Green Hill Municipal Golf Club,Worcester,Massachusetts,Marsh Ave,01605,-71.7786163,42.2900953,18,Public
+6724,Tatnuck Country Club,Worcester,Massachusetts,1222 Pleasant St,01602,-71.8633588,42.27892809999999,9,Private
+6725,Worcester Country Club,Worcester,Massachusetts,2 Rice St,01606,-71.7803654,42.32361059999999,18,Private
+6726,Worthington Golf Club,Worthington,Massachusetts,113 Ridge Rd,01098,-72.94236339999999,42.4085546,9,Semi-Private
+14855,Touchet Valley Golf Course,Dayton,Washington,209 N Pine St,99328,-117.9910156,46.3171527,9,Public
+14857,Desert Aire Golf Course,Desert Aire,Washington,505 Clubhouse Way W,99349,-119.9297422,46.6866323,18,Public
+14895,Canyon Lakes Golf Course,Kennewick,Washington,3700 W Canyon Lakes Dr,99337,-119.1712293,46.1805113,18,Public
+14896,Columbia Park Golf Course,Kennewick,Washington,7422 W Clearwater,99336,-119.2210613,46.2104591,18,Public
+14897,Tri-City Country Club,Kennewick,Washington,314 N Underwood St,99336,-119.1474345,46.2129124,18,Semi-Private
+14955,Potholes Golf Course,Othello,Washington,7037 Hwy 262 E,99344,-119.348775,46.96810600000001,9,Public
+14956,Othello Golf Club,Othello,Washington,2269 W Bench Rd,99344,-119.2129193,46.7967616,9,Public
+14958,Sun Willows Golf Course,Pasco,Washington,2035 N 20th Ave,99301,-119.1170524,46.2479483,18,Public
+14960,Pomeroy Golf Course,Pomeroy,Washington,1611 Arlington St,99347,-117.5915375,46.4709413,9,Public
+14990,Horn Rapids Golf Club,Richland,Washington,2800 Clubhouse Ln,99352,-119.319817,46.3239155,18,Semi-Private
+14991,Meadow Springs Country Club,Richland,Washington,700 Country Club Pl,99352,-119.2539615,46.2229438,18,Private
+14992,Columbia Point Golf Course,Richland,Washington,225 Columbia Point Dr,99352,-119.2581521,46.2613399,18,Public
+14993,West Richland Municipal Golf,Richland,Washington,4000 Fallon Dr,99353,-119.3389978,46.3008172,18,Public
+14994,Buckskin Golf Ranch,Richland,Washington,1790 Bronco Ln,99352,-119.3075503,46.2953277,9,Public
+14998,Royal City Public Golf Course,Royal City,Washington,13702 Dodson Rd S,99357,-119.562544,46.8860839,18,Public
+15068,Veteran's Memorial Golf Club,Walla Walla,Washington,201 E Rees,99362,-118.338582,46.0775924,18,Public
+15069,Walla Walla Country Club,Walla Walla,Washington,1390 Country Club Rd,99362,-118.351591,46.041815,18,Private
+6298,"Wetlands Golf Club, The",Aberdeen,Maryland,740 Gilbert Rd,21001,-76.1789224,39.5443369,18,Public
+6299,Beechtree Golf Club,Aberdeen,Maryland,811 S Stepney Rd,21001,-76.208439,39.50026700000001,18,Public
+6300,Plumb Point at Ruggles Golf Course,Aberdeen Proving Ground,Maryland,Building 5600,21005,-76.13465,39.48038,9,Military
+6301,Edgewood at Ruggles Golf Course,Aberdeen Proving Ground,Maryland,Building 5600,21005,-76.13465,39.48038,9,Military
+6302,Ruggles at Ruggles Golf Course,Aberdeen Proving Ground,Maryland,Building 5600,21005,-76.13465,39.48038,18,Military
+6309,Severna Park Golf Center,Arnold,Maryland,1257 Ritchie Hwy,21012,-76.515222,39.046076,9,Public
+6310,Bay Hills Golf Club,Arnold,Maryland,545 Bay Hills Dr,21012,-76.4752828,39.0440913,18,Semi-Private
+6320,Maryland Golf & Country Clubs,Bel Air,Maryland,1335 E Mac Phail Rd,21015,-76.30532749999999,39.5250496,18,Private
+6321,Winters Run Golf Club,Bel Air,Maryland,1000 N Tollgate Rd,21014,-76.3807279,39.5283854,18,Private
+6343,Gunpowder Falls GC,Bradshaw,Maryland,11101 Raphel Rd,21021,-76.403177,39.425809,18,Semi-Private
+6355,Fairway Hills Golf Club,Columbia,Maryland,5100 Columbia Rd,21044,-76.8441899,39.2362555,18,Private
+6356,Hobbit's Glenn Golf Club,Columbia,Maryland,11130 Willow Bottom Dr,21044,-76.9008478,39.2270911,18,Private
+6359,Eisenhower Golf Course,Crownsville,Maryland,1576 Generals Hwy,21032,-76.584333,39.0150549,18,Public
+6369,South River Golf Links,Edgewater,Maryland,3451 Soloman's Island Rd,21037,-76.5723026,38.9176168,18,Public
+6370,"Timbers at Troy, The",Elkridge,Maryland,6100 Marshalee Dr,21075,-76.7710073,39.2029273,18,Public
+6373,South at Turf Valley Resort & Conference Center,Ellicott City,Maryland,2700 Turf Valley Rd,21042,-76.8840036,39.2963062,18,Resort
+6374,North at Turf Valley Resort & Conference Center,Ellicott City,Maryland,2700 Turf Valley Rd,21042,-76.8840036,39.2963062,18,Resort
+6375,East at Turf Valley Resort & Conference Center,Ellicott City,Maryland,2700 Turf Valley Rd,21042,-76.8840036,39.2963062,18,Resort
+6377,River Downs Golfers' Club,Finksburg,Maryland,1900 River Downs Dr,21048,-76.8813124,39.52129559999999,18,Semi-Private
+7675,Albert Lea Golf Club,Albert Lea,Minnesota,1701 Country Club Rd,56007,-93.390658,43.6705862,18,Semi-Private
+7676,Green Lea Golf Course,Albert Lea,Minnesota,101 E Richway Dr,56007,-93.3681987,43.66433259999999,18,Public
+7702,Valley View Golf Club,Belle Plaine,Minnesota,23795 Laredo Ave,56011,-93.75272299999999,44.602688,18,Semi-Private
+7754,Clarks Grove Golf Course,Clarks Grove,Minnesota,Old Hwy 65,56016,-93.322453,43.7643441,9,Semi-Private
+7824,Minniowa Golf Club,Elmore,Minnesota,N Hwy 169,56027,-94.08814319999999,43.5049463,9,Semi-Private
+7828,Arrowhead Country Club,Emmons,Minnesota,Route 1 Arrowhead Rd,56029,-93.4756169,43.51393239999999,9,Public
+7834,Rose Lake Golf Club,Fairmont,Minnesota,Rural Route 2,56031,-94.46108319999999,43.65217750000001,18,Semi-Private
+7835,Interlaken Golf Club,Fairmont,Minnesota,277 Amber Lake Dr,56031,-94.4676392,43.60836399999999,18,Semi-Private
+7836,Rolling Green Fairways,Fairmont,Minnesota,1422 Oak Beach Dr,56031,-94.4639443,43.6350345,9,Public
+7852,Oakview Golf Club,Freeborn,Minnesota,County Rd 8,56032,-93.5641078,43.76579,9,Semi-Private
+7881,Holiday Park Golf Course,Hayward,Minnesota,Route 3,56043,-93.2440944,43.650514,9,Public
+7901,Prairie Ridge Golf Course,Janesville,Minnesota,2000 N Main St,56048,-93.70928280000001,44.1276579,9,Public
+7920,Le Sueur Country Club,Le Sueur,Minnesota,Rural Route 1,56058,-93.9113634,44.4598517,18,Semi-Private
+7932,Madelia Golf Course,Madelia,Minnesota,116 W Main St,56062,-94.4188921,44.0506194,9,Public
+7936,Par d Executive at Terrace View Golf Course,Mankato,Minnesota,Hwy 22 S,56001,-93.94919999999999,44.1635237,9,Public
+7937,Mankato Golf Club,Mankato,Minnesota,Golf Club Rd,56002,-93.9776687,44.1920623,18,Private
+7938,Minneopa Golf Club,Mankato,Minnesota,Route 9 S 169 &amp; 160,56001,-93.9674371,44.1223003,9,Public
+7939,Regulation at Terrace View Golf Course,Mankato,Minnesota,Hwy 22 S,56001,-93.94919999999999,44.1635237,9,Public
+7968,Montgomery Golf Club,Montgomery,Minnesota,900 Rogers Dr,56069,-93.576607,44.449988,18,Semi-Private
+7986,Creek's Bend Golf Course,New Prague,Minnesota,26826 Langford Ave,56071,-93.50618899999999,44.5610717,18,Public
+7987,New Prague Golf Club,New Prague,Minnesota,400 Lexington Ave S,56071,-93.567965,44.5403499,18,Public
+7988,Riverview Golf Course,New Richland,Minnesota,Route 2,56072,-93.4918842,43.8944047,9,Public
+7989,New Ulm Country Club,New Ulm,Minnesota,1 Golf Dr,56073,-94.4587665,44.289183,18,Semi-Private
+8001,North Links Golf Course,North Mankato,Minnesota,RFD 2,56003,-94.033845,44.1732996,18,Public
+8077,St. James Country Club,Saint James,Minnesota,Hwy 60 E,56081,-94.62038969999999,43.9681735,18,Semi-Private
+8088,Shoreland Country Club,Saint Peter,Minnesota,Lake Emily County Rd 21,56082,-93.93255119999999,44.3104662,18,Semi-Private
+8089,Farmers Golf & Health Club,Sanborn,Minnesota,County Rd 15,56083,-95.1350003,44.2096903,9,Public
+8100,Sleepy Eye Golf Club,Sleepy Eye,Minnesota,Hwy 14 W,56085,-94.7263889,44.2980556,9,Semi-Private
+8102,Springfield Golf Club,Springfield,Minnesota,S O'Connell Ave,56087,-94.9776504,44.2379296,9,Semi-Private
+8130,Waseca Lakeside Golf Club,Waseca,Minnesota,37160 Clear Lake Dr,56093,-93.4814648,44.09894999999999,18,Semi-Private
+8135,Wells Golf Club,Wells,Minnesota,1St Ave SW,56097,-93.7268886,43.7410101,9,Public
+8146,Riverside Town & Country Club,Winnebago,Minnesota,36259 150th St,56098,-94.1432955,43.7085915,9,Semi-Private
