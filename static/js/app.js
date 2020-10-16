@@ -4,8 +4,8 @@ console.log("app.js");
 
 // Creating map object
 var myMap = L.map("map", {
-  center: [39.8333333, -98.585522],
-  zoom: 5
+  center: [46.392410, -94.636230],
+  zoom: 7
 });
 console.log("Created map object.");
 
