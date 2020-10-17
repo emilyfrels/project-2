@@ -25,9 +25,11 @@ console.log("Created map object.");
 
 // create overlays object to add to layers
 var overlays = {
-  "Public vs. Private": layers.PUBLIC_PRIVATE,
+  "Public": layers.PUBLIC,
+  "Private": layers.PRIVATE,
   "Holes": layers.HOLES
 };
+
 
 // create control for layers and add overlay layers to map
 L.control.layers(null, overlays).addTo(myMap);
@@ -74,5 +76,6 @@ d3.csv("/results/course_subset.csv").then(function(addressData) {
   }
 
 });
+
 
 
