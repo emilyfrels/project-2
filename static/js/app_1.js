@@ -73,19 +73,21 @@ var myDoughnutChart = new Chart(ctx, {
 var trace = {
     type: 'parcoords',
     line: {
-      color: ['blue','red']
+      color: 'red'
     },
     
     dimensions: [{
       range: [60, 80],
       //constraintrange: [1, 2],
       label: 'Par',
-      values: [72,68]
+      values: [72,68],
+      tickvals: [60,65,70,75,80]
+      
     }, {    
       range: [100,150],
       label: 'Slope',
-      values: [110,125],
-      tickvals: [110,115,120,125]
+      values: [110,120],
+      tickvals: [100,110,120,130,140,150]
     }, {
       range: [5000, 7000],
       label: 'Yards',
@@ -95,12 +97,13 @@ var trace = {
     }, {
       range: [60, 80],
       label: 'Middle USGA',
-      values: [70,69]
+      values: [70,69],
+      tickvals: [60,65,70,75,80]
     }]
   };
 
   layout = {
-    paper_bgcolor: "rgba(0,0,0,0)",
+    paper_bgcolor: "rgba(0,0,0,0)", //to create transparent background
   };
   
   var data = [trace]
