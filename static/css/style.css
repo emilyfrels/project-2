@@ -2,9 +2,9 @@ p {
     text-align: center;
 }
 
-body {
+/* body {
     background-color: green;
-}
+} */
 
 /* The footer is positioned at the bottom of the page */
 #footer {
@@ -27,4 +27,12 @@ html {
  display:flex;
  flex-direction:column-reverse;
  min-height:400px;
+}
+
+#map {
+  position: relative;
+  border: 1px solid black;
+  border-radius: 8px;
+  height: 900px;  /* or as desired */
+  width: 100%;  /* This means "100% of the width of its container", the .col-md-8 */
 }

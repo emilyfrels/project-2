@@ -2,12 +2,49 @@
 console.log("Project 2 - Jeanine, Jeff, & Emily");
 console.log("app.js");
 
+
+
+// initialize LayerGroups
+var layers = {
+  PUBLIC: new L.LayerGroup(),
+  PRIVATE: new L.LayerGroup(),
+  HOLES: new L.LayerGroup()
+};
+
 // Creating map object
 var myMap = L.map("map", {
   center: [46.392410, -94.636230],
-  zoom: 7
+  zoom: 6.5,
+  layers: [
+    layers.PUBLIC,
+    layers.PRIVATE,
+    layers.HOLES
+  ]
 });
 console.log("Created map object.");
+
+// create overlays object to add to layers
+var overlays = {
+  "Public vs. Private": layers.PUBLIC_PRIVATE,
+  "Holes": layers.HOLES
+};
+
+// create control for layers and add overlay layers to map
+L.control.layers(null, overlays).addTo(myMap);
+
+// create legend to display info
+var info = L.control({
+  position: "topright"
+});
+
+// create a legend
+info.onAdd = function() {
+  var div = L.DomUtil.create("div", "legend");
+  return div;
+}
+
+// add legend to map
+info.addTo(myMap);
 
 // Adding tile layer
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
