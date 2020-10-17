@@ -26,7 +26,7 @@ base.prepare(engine, reflect=True)
 
 # Choose the table we wish to use
 # Need to update the database name once determine
-table = base.classes.{database_name}}
+table = base.classes.{database_name}
 
 #############################################################
 #                       FLASK SETUP                        #
