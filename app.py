@@ -46,9 +46,11 @@ def home():
     return webpage
 
 #Define route
-@app.route("")
-def to_be_named():
+@app.route("/course")
+def course():
 
+    webpage = render_template("course.html")
+    return webpage
 
 
 
