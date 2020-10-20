@@ -102,11 +102,10 @@ function addMarkers() {
         marker.addTo(myMap);
         
         // add popup to selected marker
-        marker.bindPopup("<h6>" + courseData.course + "</h6> <hr> <p><strong>Address: </strong></br>" + courseData.street + "<br>" + courseData.city + ", " + courseData.state + " " + courseData.zip_code + "</p><br><p><strong>Access: </strong>" + courseData.public_private + "<p>")
+        marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "<p>")
         .addTo(myMap);
     })
 }
-
 
 
 // call functions
