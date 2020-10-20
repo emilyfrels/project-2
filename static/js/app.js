@@ -30,6 +30,7 @@ var overlays = {
   "Public": layers.PUBLIC
 }
 
+
 // create control for layers and add overlay layers to map
 L.control.layers(null, overlays).addTo(myMap);
 
@@ -80,4 +81,6 @@ d3.csv("/results/course_subset.csv").then(function(addressData) {
   }
 
 });
+
+
 
