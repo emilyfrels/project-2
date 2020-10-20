@@ -100,9 +100,8 @@ function addMarkers() {
         }
 
         marker.addTo(myMap);
-
         
-
+        // add popup to selected marker
         marker.bindPopup("<h6>" + courseData.course + "</h6> <hr> <p><strong>Address: </strong></br>" + courseData.street + "<br>" + courseData.city + ", " + courseData.state + " " + courseData.zip_code + "</p><br><p><strong>Access: </strong>" + courseData.public_private + "<p>")
         .addTo(myMap);
     })
