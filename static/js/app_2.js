@@ -105,7 +105,6 @@ function addMarkers() {
         marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "<p>")
         .addTo(myMap);
 
-
         // add legend
         var legend = L.control({
             position: 'topright'
@@ -117,6 +116,7 @@ function addMarkers() {
         }
 
         legend.addTo(myMap);
+
     })
 }
 
