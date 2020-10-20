@@ -2,6 +2,10 @@
 console.log("Project 2 - Jeanine, Jeff, & Emily");
 console.log("app.js");
 
+// initialize data and map variables
+var data, myMap;
+
+// create initMap function
 
 
 // initialize LayerGroups
@@ -16,18 +20,15 @@ var myMap = L.map("map", {
   center: [46.392410, -94.636230],
   zoom: 6.5,
   layers: [
-    layers.PUBLIC,
-    layers.PRIVATE,
-    layers.HOLES
+    layers.PUBLIC
   ]
 });
 console.log("Created map object.");
 
 // create overlays object to add to layers
 var overlays = {
-  "Public vs. Private": layers.PUBLIC_PRIVATE,
-  "Holes": layers.HOLES
-};
+  "Public": layers.PUBLIC
+}
 
 // create control for layers and add overlay layers to map
 L.control.layers(null, overlays).addTo(myMap);
@@ -46,6 +47,7 @@ info.onAdd = function() {
 // add legend to map
 info.addTo(myMap);
 
+
 // Adding tile layer
 L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
   attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
@@ -59,6 +61,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 console.log("Added tile layer");
 
 var coordinates = []
+var public = []
 
 // read in course_subset.csv file
 d3.csv("/results/course_subset.csv").then(function(addressData) {
@@ -67,12 +70,14 @@ d3.csv("/results/course_subset.csv").then(function(addressData) {
     // console.log(location.lat);
     // console.log(location.lng);
     coordinates.push([location.lat, location.lng]);
-    console.log(coordinates);
+    // console.log(coordinates);
+    console.log(location.public_private);
+
     L.marker(coordinates[i])
     .bindPopup("<h6>" + location.course + "</h6> <hr> <p><strong>Address: </strong></br>" + location.street + "<br>" + location.city + ", " + location.state + " " + location.zip_code + "</p>")
     .addTo(myMap);
+
   }
 
 });
-
 
