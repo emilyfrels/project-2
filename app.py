@@ -26,7 +26,7 @@ base.prepare(engine, reflect=True)
 
 # Choose the table we wish to use
 # Need to update the database name once determine
-table = base.classes.{database_name}
+table = base.classes.golfdetails
 
 #############################################################
 #                       FLASK SETUP                        #
@@ -45,10 +45,12 @@ def home():
     webpage = render_template("index.html")
     return webpage
 
-#Define route
-@app.route("")
-def to_be_named():
+#Define course route
+@app.route("/course")
+def course():
 
+    webpage = render_template("course.html")
+    return webpage
 
 
 
