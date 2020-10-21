@@ -1,38 +1,40 @@
 p {
-    text-align: center;
+    text-align: left;
 }
 
-/* body {
-    background-color: green;
-} */
 
-/* The footer is positioned at the bottom of the page */
-#footer {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    min-height: 100px;
-    background: #4e5d6c;
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  min-height: 100px;
+  text-align: center;
   }
 
-  /* set map, body, and html to 100% of the screen size */
-#map,
+
 body,
 html {
   height: 100%;
 }
 
-#container {
- display:flex;
- flex-direction:column-reverse;
- min-height:400px;
-}
+/* #container {
+ /* display:flex; */
+ /* flex-direction:column-reverse; */
+ /* min-height:400px; */
+/* } */
 
 #map {
   position: relative;
   border: 1px solid black;
   border-radius: 8px;
-  height: 900px;  /* or as desired */
-  width: 100%;  /* This means "100% of the width of its container", the .col-md-8 */
+  height: 1000px;  
+  width: 100%;  
+}
+
+#doughnut {
+  height: 100%;
+  width: 600px;;
+  align-content: center;
+
 }
