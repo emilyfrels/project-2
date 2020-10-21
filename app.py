@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 #import dependencies
 from flask import Flask
 from flask import render_template 
@@ -8,7 +11,9 @@ from flask import jsonify
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, func,  inspect, distinct
+from sqlalchemy.types import Integer, Text, String, DateTime
+from config import ckey, username, password
 
 #############################################################
 #                      DATABASE SETUP                       #
@@ -16,17 +21,46 @@ from sqlalchemy import create_engine
 
 
 
+#Setting up connection to SQL-Lite and Base Connections
+#This work is based on testing in Jupyter Notebook from Same Assignment
+engine = create_engine(f'postgresql://{username}:{password}@localhost:5432/Golf')
+Base = automap_base()
+Base.prepare(engine, reflect=True)
+#creating object for measurement and station
+golf_details = Base.classes.golf_details
 
-connection_string = f'postgresql://{username}:{password}@localhost:5432/{database_name}'
+session = Session(engine)
+inspector = inspect(engine)
 
-# Connect to the database
-engine = create_engine(connection_string)
-base = automap_base()
-base.prepare(engine, reflect=True)
+##loading column names
+#headings = []
+columns_df = []
+columns = inspector.get_columns('golf_details')
+for c in columns:
+    #print(c['name'], c["type"])
+    #headings.append(f"golf_details.{c['name']}")
+    columns_df.append( c['name'])
 
-# Choose the table we wish to use
-# Need to update the database name once determine
-table = base.classes.golfdetails
+sel = [ golf_details.course_id,golf_details.course,golf_details.city,golf_details.state,
+      golf_details.street,golf_details.zip_code,golf_details.lng,golf_details.lat,
+      golf_details.hole,golf_details.public_private,golf_details.golf_season,
+      golf_details.beg_mnth,golf_details.end_mnth,
+      golf_details.championship_par, golf_details.championship_yards,golf_details.championship_slope,golf_details.championship_usga,
+      golf_details.middle_par,golf_details.middle_yards, golf_details.middle_slope,golf_details.middle_usga,
+      golf_details.forward_par, golf_details.forward_yards, golf_details.forward_slope,golf_details.forward_usga]#pulling only date and precipitation.
+golf_data = session.query(*sel).all() 
+
+##putting data into dataframe
+golf_df = pd.DataFrame(columns = columns_df)
+print(len(golf_data))
+for i in range(0, len(golf_data)):
+    record = golf_data[i]
+    temp = []
+    for j in range(0,len(columns_df)):
+        temp.append(record[j])
+    golf_df.loc[i]=temp
+    ##print(golf_df)
+
 
 #############################################################
 #                       FLASK SETUP                        #
