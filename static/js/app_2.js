@@ -110,6 +110,15 @@ function addMarkers() {
         marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "</br><strong>Rental Cart Available: </strong>" + c.rental_cart_available + "</br><strong>Rental Clubs Available: </strong>" + c.rental_club +"<p>")
         .addTo(myMap);
 
+        // show popup on mouseover
+        marker.on('mouseover', function(event) {
+            marker.openPopup();
+        });
+
+        marker.on('mouseout', function(event) {
+            marker.closePopup();
+        });
+
         //add legend
         var legend = L.control({position: 'topright'});
 
