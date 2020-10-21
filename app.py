@@ -45,7 +45,9 @@ def home():
     webpage = render_template("index.html")
     return webpage
 
+
 #Define course route
+
 @app.route("/course")
 def course():
 
