@@ -25,7 +25,28 @@ console.log(championshipYards);
 // Code below generates a doughnut plot to visualize golf season
 // Setting up initial variables for demonstration.  these will need to be replaced with data from Flask
 var months = ["Jan", "Feb", "Mar", "Apr","May", "Jun", "July", "Aug", "Sept", "Oct", "Nov", "Dec"];
-var openClose = [true, false, false, true, true, true, true, true, true, true, false, false]; //true is open, false is close
+
+//setting open and close month and performing logic to create array of months
+openMonth = 4;
+closeMonth = 9;
+var openClose = [false, false, false, false, false, false, false, false, false, false, false, false];
+for (i=0;i<12;i++) {
+  if ((closeMonth-openMonth)<0) {
+    if ((i+1 >= openMonth) || (i+1 <= closeMonth)) { // || is same as or, && same as and
+      openClose[i] = true;
+    } 
+  };
+  if ((closeMonth-openMonth)>=0) {
+    if ((i+1 >= openMonth) && (i+1<=closeMonth)) {
+      openClose[i] = true;
+    } 
+  };
+
+  }
+console.log(openClose);
+
+
+
 var fraction = [1,1,1,1,1,1,1,1,1,1,1,1];//all months have equal size in plot
 var colorBar = openClose.map(setColor);
 
