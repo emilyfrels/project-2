@@ -31,7 +31,7 @@ function initMap() {
 function getCourseData() {
 
 
-    d3.csv("/results/course_subset.csv").then(function(data) {
+    d3.csv("/results/course_subset2.csv").then(function(data) {
         courseData = data;
         addMarkers();
     });
@@ -39,6 +39,8 @@ function getCourseData() {
 
 // create function to add markers
 function addMarkers() {
+
+
     courseData.forEach(function(c) {
         var marker = L.circleMarker([+c.lat, +c.lng]);
         var public = c.public_private === 'Public';
@@ -46,6 +48,7 @@ function addMarkers() {
         var semiPrivate = c.public_private === 'Semi-Private';
         var resort = c.public_private === 'Resort';
         var military = c.public_private === 'Military';
+
 
         if(public) {
             marker.setStyle({
@@ -108,19 +111,50 @@ function addMarkers() {
         .addTo(myMap);
 
         // add legend
-        var legend = L.control({
-            position: 'topright'
-        });
+        // var legend = L.control({
+        //     position: 'right'
+        // });
 
-        legend.onAdd = function() {
-            var div = L.DomUtil.create('div', 'legend');
-            return div;
-        }
+        // legend.onAdd = function() {
+        //     var div = L.DomUtil.create('div', 'legend');
+        //     return div;
+        // }
 
-        legend.addTo(myMap);
+        // legend.addTo(myMap);
 
     })
 }
+
+
+
+// function showCourseData(courseData) {
+
+//     console.log(`showCourseData(${courseData})`);
+
+//     // call for golf course data
+//     d3.csv("/results/course_subset2.csv").then((data)  => {
+        
+//         // variable to find data
+//         var golfCourse = data.golfCourse;
+
+//         // filter to find data for specific course
+//         var resultArray = golfCourse.filter(gc => gc.course == courseData);
+
+//         // variable to return first result
+//         var result = resultArray[0];
+
+//         // define where to display golf course results and clear existing results when new course is selected
+//         var golfInfo = d3.select("#golf-info")
+//         golfInfo.html("");
+
+//         // iterate through results to find keys and values
+//         Object.entries(result).forEach(([key, value]) => {
+//             var textToShow = `${key}: ${value}`;
+//             console.log(textToShow);
+//             golfInfo.append("h6").text(textToShow);
+//         });
+
+// });
 
 
 // call functions
