@@ -1,3 +1,26 @@
+//loading data into system
+d3.csv("../results/course_subset2.csv").then(function(courseData) {
+  for (var i=0; i < courseData.length; i++) {
+    var course = courseData[i];
+    console.log(course);
+    courseSelect = "6390";
+    if (course.course_id == courseSelect) {
+      courseHole = parseInt(course.hole);
+      forwardYards = parseInt(course.forward_yards);
+      forwardSlope = parseInt(course.forward_slope);
+      middleYards = parseInt(course.middle_yards);
+      middleSlope = parseInt(course.middle_slope);
+      championshipYards = parseInt(course.championship_yards);
+      championshipSlope = parseInt(course.championship_slope);
+      courseName = course.course
+    }
+ 
+    
+  }
+
+console.log(championshipYards);
+
+
 //******************************************************************************************************************************** */
 // Code below generates a doughnut plot to visualize golf season
 // Setting up initial variables for demonstration.  these will need to be replaced with data from Flask
@@ -70,39 +93,73 @@ var myDoughnutChart = new Chart(ctx, {
 
 //******************************************************************************************************************************** */
 //Generic code below for radar plot 
+
+switch (true) {
+  case courseHole < 15:
+    yardageTick = [1000,2000,3000,4000,5000];
+    yardageRange = [1000,5000];
+    break;
+  case courseHole < 20:
+    yardageTick = [5000,6000,7000,8000,9000];
+    yardageRange = [5000,9000];
+    break;
+  default:
+    yardageTick = [7000,8000,9000,10000,11000];
+    yardageRange = [7000,11000];
+}
+
 var trace = {
     type: 'parcoords',
     line: {
-      color: ['blue','red']
+      color: 'red'
     },
     
     dimensions: [{
-      range: [60, 80],
+      range: yardageRange,
       //constraintrange: [1, 2],
-      label: 'Par',
-      values: [72,68]
+      label: 'Forward<br>Yards',
+      values: [forwardYards],
+      tickvals: yardageTick
+      
     }, {    
-      range: [100,150],
-      label: 'Slope',
-      values: [110,125],
-      tickvals: [110,115,120,125]
+      range: [100,170],
+      label: 'Forward<br>Slope',
+      values: [forwardSlope],
+      tickvals: [100,110,120,130,140,150,160,170]
     }, {
-      range: [5000, 7000],
-      label: 'Yards',
-      values: [5500,6548],
-      tickvals: [5000,5500,6000,6500,7000],
+      range: yardageRange,
+      label: 'Middle<br>Yards',
+      values: [middleYards],
+      tickvals: yardageTick,
       
     }, {
-      range: [60, 80],
-      label: 'Middle USGA',
-      values: [70,69]
-    }]
+      range: [100,170],
+      label: 'Middle<br>Slope',
+      values: [middleSlope],
+      tickvals: [100,110,120,130,140,150,160,170]
+    },
+    {
+      range: yardageRange,
+      label: 'Champion<br>Yards',
+      values: [championshipYards],
+      tickvals: yardageTick,
+    },
+    {
+      range: [100,170],
+      label: 'Champion<br>Slope',
+      values: [championshipSlope],
+      tickvals: [100,110,120,130,140,150,160,170]
+    },
+  ]
   };
 
   layout = {
-    paper_bgcolor: "rgba(0,0,0,0)",
+    title: {text:courseName},
+    paper_bgcolor: "rgba(0,0,0,0)" //to create transparent background
   };
   
   var data = [trace]
   
   Plotly.newPlot('radar', data, layout);
+
+});
