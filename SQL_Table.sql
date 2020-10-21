@@ -1,5 +1,5 @@
 create Table golf_details (
-	course_id INT,
+	course_id INT ,
 	course VARCHAR(50),
 	city VARCHAR(50),
 	state VARCHAR(20),
@@ -23,7 +23,8 @@ create Table golf_details (
 	forward_par VARCHAR(6),
 	forward_yards VARCHAR(6),
 	forward_slope VARCHAR(6),
-	forward_usga VARCHAR(6)
+	forward_usga VARCHAR(6),
+	primary key (course_id)
 
 );
 
