@@ -25,7 +25,7 @@ html {
 /* } */
 
 #map {
-  position: relative;
+  position: fixed;
   border: 1px solid black;
   border-radius: 8px;
   height: 1000px;  

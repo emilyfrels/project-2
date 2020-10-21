@@ -29,7 +29,9 @@ function initMap() {
 
 // create function to read in course data
 function getCourseData() {
-    d3.csv("/results/course_subset2.csv").then(function(data) {
+
+
+    d3.csv("/results/course_subset.csv").then(function(data) {
         courseData = data;
         addMarkers();
     });
