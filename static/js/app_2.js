@@ -9,8 +9,8 @@ var myMap;
 // create function to initialize the map
 function initMap() {
     myMap = L.map("map", {
-        center: [46.392410, -94.636230],
-        zoom: 6.5,
+        center: [41.800719, -89.627245], // center of Mpls [46.392410, -94.636230]
+        zoom: 4.8,
       });
     console.log("Created map object.");
 
@@ -31,7 +31,7 @@ function initMap() {
 function getCourseData() {
 
 
-    d3.csv("/results/course_subset2.csv").then(function(data) {
+    d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
         courseData = data;
         addMarkers();
     });
@@ -52,7 +52,7 @@ function addMarkers() {
 
         if(public) {
             marker.setStyle({
-                radius: 8,
+                radius: 5,
                 fillColor: '#7FFF00',
                 fillOpacity: 1,
                 color: '#000000',
@@ -61,7 +61,7 @@ function addMarkers() {
 
         else if(private) {
             marker.setStyle({
-                radius: 8,
+                radius: 5,
                 fillColor: '#DC143C',
                 fillOpacity: 1,
                 color: '#000000',
@@ -70,7 +70,7 @@ function addMarkers() {
 
         else if(semiPrivate) {
             marker.setStyle({
-                radius: 8,
+                radius: 5,
                 fillColor: '#5F9EA0',
                 fillOpacity: 1,
                 color: '#000000',
@@ -79,7 +79,7 @@ function addMarkers() {
 
         else if(resort) {
             marker.setStyle({
-                radius: 8,
+                radius: 5,
                 fillColor: '#00FFFF',
                 fillOpacity: 1,
                 color: '#000000',
@@ -88,7 +88,7 @@ function addMarkers() {
 
         else if(military) {
             marker.setStyle({
-                radius: 8,
+                radius: 5,
                 fillColor: '#000000',
                 fillOpacity: 1,
                 color: '#000000',
@@ -97,7 +97,7 @@ function addMarkers() {
         
         else{
         marker.setStyle({
-            radius: 8,
+            radius: 5,
             fillColor: '#F8F8FF',
             color: '#000000',
             fillOpacity: 1
@@ -107,20 +107,24 @@ function addMarkers() {
         marker.addTo(myMap);
         
         // add popup to selected marker
-        marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "<p>")
+        marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "</br><strong>Rental Cart Available: </strong>" + c.rental_cart_available + "</br><strong>Rental Clubs Available: </strong>" + c.rental_club +"<p>")
         .addTo(myMap);
 
-        // add legend
-        // var legend = L.control({
-        //     position: 'right'
-        // });
+        //add legend
+        var legend = L.control({position: 'topright'});
 
-        // legend.onAdd = function() {
-        //     var div = L.DomUtil.create('div', 'legend');
-        //     return div;
-        // }
+        legend.onAdd = function(myMap) {
+            var div = L.DomUtil.create('div', 'info legend');
+            div.innerHTML += "<h4>Access</h4>";
+            div.innerHTML += '<span>Public</span></br>';
+            div.innerHTML += '<span>Private</span></br>';
+            div.innerHTML += '<span>Semi-Private</span></br>';
+            div.innerHTML += '<span>Resort</span></br>';
+            div.innerHTML += '<span>Military</span></br>';
+            return div;
+        }
 
-        // legend.addTo(myMap);
+        legend.addTo(myMap);
 
     })
 }
