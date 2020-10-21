@@ -38,3 +38,21 @@ html {
   width: 600px;;
   align-content: center;
 }
+
+.legend {
+  padding: 6px;
+  background: white;
+  line-height: 10px;
+  box-shadow: 0 0 15px;
+  font: 14px Helvetica, Verdana, sans-serif;
+}
+
+.legend h4 {
+  text-align: venter;
+  font-size: 18px;
+}
+
+.legend span {
+  position: relative;
+  bottom: 5px;
+}
