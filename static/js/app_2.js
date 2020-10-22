@@ -4,28 +4,108 @@ console.log("app_2.js");
 // create variable for course data and map
 var courseData;
 var myMap;
+var lightmap;
 
 
 // create function to initialize the map
 function initMap() {
-    myMap = L.map("map", {
-        center: [41.800719, -89.627245], // center of Mpls [46.392410, -94.636230]
-        zoom: 4.8,
-      });
-    console.log("Created map object.");
 
-    // create tile layer
-    L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+    // create tile layer that is background of map
+    lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
         attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
         tileSize: 512,
         maxZoom: 18,
         zoomOffset: -1,
         id: "mapbox/streets-v11",
         accessToken: API_KEY
-    }).addTo(myMap);
-    
+    });
+
+
+    // initialize layer groups
+    var layers = {
+        PUBLIC: new L.LayerGroup(),
+        PRIVATE: new L.LayerGroup(),
+        SEMIPRIVATE: new L.LayerGroup(),
+        RESORT: new L.LayerGroup(),
+        MILITARY: new L.LayerGroup()
+    };
+    console.log("Initiated layer groups");
+
+
+    // create map with layers
+    myMap = L.map("map", {
+        center: [41.800719, -89.627245], // center of Mpls [46.392410, -94.636230]
+        zoom: 4.8,
+        layers: [
+            layers.PUBLIC,
+            layers.PRIVATE,
+            layers.SEMIPRIVATE,
+            layers.RESORT,
+            layers.MILITARY
+        ]
+      });
+    console.log("Created map object.");
+
+    lightmap.addTo(myMap);
     console.log("Added tile layer");
+
+    
+    // create overlays object to add to the layer control
+    var overlays = {
+        "Public": layers.PUBLIC,
+        "Private": layers.PRIVATE,
+        "Semi-Private": layers.SEMIPRIVATE,
+        "Resort": layers.RESORT,
+        "Military": layers.MILITARY
+    };
+
+    // create control for layers
+    L.control.layers(null, overlays).addTo(myMap);
+
+
+    // create legend to display indo
+    var info = L.control({
+        position: "bottomright"
+    });
+
+    
+    // when layer control is added, insert div with class of legend
+    info.onAdd = function() {
+        var div = L.DomUtil.create("div", "legend");
+            div.innerHTML += "<h3>Access</h3>";
+            console.log(div);
+            div.innerHTML += "<span class='public'>Public</span></br>";
+            div.innerHTML += "<span class='private'>Private</span></br>";
+            div.innerHTML += "<span class='semiPrivate'>Semi-Private</span></br>";
+            div.innerHTML += "<span class='resort'>Resort</span></br>";
+            div.innerHTML += "<span class='military'>Military</span></br>";
+        return div;
+    };
+
+
+    // add info legend to map
+    info.addTo(myMap);
+
+
+    //
+
+    
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // create function to read in course data
 function getCourseData() {
@@ -36,6 +116,8 @@ function getCourseData() {
         addMarkers();
     });
 }
+
+
 
 // create function to add markers
 function addMarkers() {
@@ -119,21 +201,22 @@ function addMarkers() {
             marker.closePopup();
         });
 
-        //add legend
-        var legend = L.control({position: 'topright'});
+        // //add legend
+        // var legend = L.control({position: 'topright'});
 
-        legend.onAdd = function(myMap) {
-            var div = L.DomUtil.create('div', 'info legend');
-            div.innerHTML += "<h4>Access</h4>";
-            div.innerHTML += '<span>Public</span></br>';
-            div.innerHTML += '<span>Private</span></br>';
-            div.innerHTML += '<span>Semi-Private</span></br>';
-            div.innerHTML += '<span>Resort</span></br>';
-            div.innerHTML += '<span>Military</span></br>';
-            return div;
-        }
+        // legend.onAdd = function(myMap) {
+        //     var div = L.DomUtil.create('div', 'info legend');
+        //     div.innerHTML += "<h4>Access</h4>";
+        //     console.log(div);
+        //     div.innerHTML += '<span>Public</span></br>';
+        //     div.innerHTML += '<span>Private</span></br>';
+        //     div.innerHTML += '<span>Semi-Private</span></br>';
+        //     div.innerHTML += '<span>Resort</span></br>';
+        //     div.innerHTML += '<span>Military</span></br>';
+        //     return div;
+        // }
 
-        legend.addTo(myMap);
+        // legend.addTo(myMap);
 
     })
 }
