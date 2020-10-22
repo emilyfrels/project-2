@@ -83,8 +83,11 @@ function initMap() {
     };
 
 
+
+
     // add info legend to map
     info.addTo(myMap);
+
 
 
     //
@@ -201,25 +204,10 @@ function addMarkers() {
             marker.closePopup();
         });
 
-        // //add legend
-        // var legend = L.control({position: 'topright'});
-
-        // legend.onAdd = function(myMap) {
-        //     var div = L.DomUtil.create('div', 'info legend');
-        //     div.innerHTML += "<h4>Access</h4>";
-        //     console.log(div);
-        //     div.innerHTML += '<span>Public</span></br>';
-        //     div.innerHTML += '<span>Private</span></br>';
-        //     div.innerHTML += '<span>Semi-Private</span></br>';
-        //     div.innerHTML += '<span>Resort</span></br>';
-        //     div.innerHTML += '<span>Military</span></br>';
-        //     return div;
-        // }
-
-        // legend.addTo(myMap);
 
     })
 }
+
 
 
 
