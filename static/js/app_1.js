@@ -10,7 +10,7 @@ console.log(courseData);
 for (var i=0; i < courseData.length; i++) {
     var course = courseData[i];
     //console.log(course);
-    courseSelect = 6474;
+    courseSelect = 6466;
     if (course.course_id == courseSelect) {
       console.log(course);
       var courseHole = parseInt(course.hole);
@@ -21,6 +21,8 @@ for (var i=0; i < courseData.length; i++) {
       var championshipYards = parseInt(course.championship_yards);
       var championshipSlope = parseInt(course.championship_slope);
       var courseName = course.course
+      var openMonth = parseInt(course.beg_mnth);
+      var closeMonth = parseInt(course.end_mnth);
     }
  
     
@@ -38,8 +40,8 @@ for (var i=0; i < courseData.length; i++) {
 var months = ["Jan", "Feb", "Mar", "Apr","May", "Jun", "July", "Aug", "Sept", "Oct", "Nov", "Dec"];
 
 //setting open and close month and performing logic to create array of months
-openMonth = 4;
-closeMonth = 9;
+// openMonth = 4;
+// closeMonth = 9;
 var openClose = [false, false, false, false, false, false, false, false, false, false, false, false];
 for (i=0;i<12;i++) {
   if ((closeMonth-openMonth)<0) {
