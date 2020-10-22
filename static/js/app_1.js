@@ -2,15 +2,17 @@
 // console.log("golf data imported");
 // console.log(golf);
 
-var courseData = golf;
+var courseData = (golf);
 console.log(courseData);
 //d3.csv("./results/course_subset2.csv").then(function(courseData) {
-  
+// console.log(`length of course data ${courseData.length}`)
+// console.log(`first element in courseData ${courseData[3]}`)
 for (var i=0; i < courseData.length; i++) {
     var course = courseData[i];
     //console.log(course);
-    courseSelect = "6390";
+    courseSelect = 6474;
     if (course.course_id == courseSelect) {
+      console.log(course);
       var courseHole = parseInt(course.hole);
       var forwardYards = parseInt(course.forward_yards);
       var forwardSlope = parseInt(course.forward_slope);
@@ -22,14 +24,14 @@ for (var i=0; i < courseData.length; i++) {
     }
  
     
-  }
+}
 
 //console.log(courseData); // data is an array of objects
 
 
 
-console.log("golf data imported");
-console.log(courseData);
+//console.log("golf data imported");
+//console.log(courseData);
 //******************************************************************************************************************************** */
 // Code below generates a doughnut plot to visualize golf season
 // Setting up initial variables for demonstration.  these will need to be replaced with data from Flask

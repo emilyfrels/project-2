@@ -2,7 +2,7 @@
 console.log("app_2.js");
 
 // create variable for course data and map
-var courseData;
+//var courseData;
 var myMap;
 var lightmap;
 
@@ -114,10 +114,10 @@ function initMap() {
 function getCourseData() {
 
 
-    d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
-        courseData = data;
+    // d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
+        courseData = golf;
         addMarkers();
-    });
+    // });
 }
 
 
