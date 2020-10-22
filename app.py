@@ -5,6 +5,7 @@ import pandas as pd
 from flask import Flask
 from flask import render_template 
 from flask import jsonify
+from flask import json
 
 
 # Import the functions we need from SQL Alchemy
@@ -61,6 +62,9 @@ for i in range(0, len(golf_data)):
     golf_df.loc[i]=temp
     ##print(golf_df)
 
+golf_dict = golf_df.to_dict(orient = 'records')
+print(golf_dict)
+
 
 #############################################################
 #                       FLASK SETUP                        #
@@ -75,8 +79,8 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 #Define what to do when a user hits the index route
 @app.route("/")
 def home():
-
-    webpage = render_template("index.html")
+    golf_json = jsonify(golf_dict)
+    webpage = render_template("index.html", golf = json.dumps(golf_df.to_dict(orient = 'records')))
     return webpage
 
 
