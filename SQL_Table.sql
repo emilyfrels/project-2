@@ -1,6 +1,6 @@
 create Table golf_details (
 	course_id INT ,
-	course VARCHAR(50),
+	course VARCHAR(100),
 	city VARCHAR(50),
 	state VARCHAR(20),
 	street VARCHAR(50),
