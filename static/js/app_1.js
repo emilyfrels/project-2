@@ -1,26 +1,35 @@
 //loading data into system
-d3.csv("../results/course_subset2.csv").then(function(courseData) {
-  for (var i=0; i < courseData.length; i++) {
+// console.log("golf data imported");
+// console.log(golf);
+
+var courseData = golf;
+console.log(courseData);
+//d3.csv("./results/course_subset2.csv").then(function(courseData) {
+  
+for (var i=0; i < courseData.length; i++) {
     var course = courseData[i];
-    console.log(course);
+    //console.log(course);
     courseSelect = "6390";
     if (course.course_id == courseSelect) {
-      courseHole = parseInt(course.hole);
-      forwardYards = parseInt(course.forward_yards);
-      forwardSlope = parseInt(course.forward_slope);
-      middleYards = parseInt(course.middle_yards);
-      middleSlope = parseInt(course.middle_slope);
-      championshipYards = parseInt(course.championship_yards);
-      championshipSlope = parseInt(course.championship_slope);
-      courseName = course.course
+      var courseHole = parseInt(course.hole);
+      var forwardYards = parseInt(course.forward_yards);
+      var forwardSlope = parseInt(course.forward_slope);
+      var middleYards = parseInt(course.middle_yards);
+      var middleSlope = parseInt(course.middle_slope);
+      var championshipYards = parseInt(course.championship_yards);
+      var championshipSlope = parseInt(course.championship_slope);
+      var courseName = course.course
     }
  
     
   }
 
-console.log(championshipYards);
+//console.log(courseData); // data is an array of objects
 
 
+
+console.log("golf data imported");
+console.log(courseData);
 //******************************************************************************************************************************** */
 // Code below generates a doughnut plot to visualize golf season
 // Setting up initial variables for demonstration.  these will need to be replaced with data from Flask
@@ -183,4 +192,4 @@ var trace = {
   
   Plotly.newPlot('radar', data, layout);
 
-});
+//});
