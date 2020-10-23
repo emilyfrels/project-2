@@ -50,6 +50,8 @@ function mapCreate(courseData) {
         lightmap.addTo(myMap);
         console.log("Added tile layer");
 
+
+    
         
         // create overlays object to add to the layer control
         var overlays = {
@@ -85,15 +87,10 @@ function mapCreate(courseData) {
 
 
 
-
         // add info legend to map
         info.addTo(myMap);
 
-
-
-        //
-
-        
+   
 
 
     }
@@ -192,18 +189,20 @@ function mapCreate(courseData) {
 
             marker.addTo(myMap);
             
-            // add popup to selected marker
-            marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "</br><strong>Rental Cart Available: </strong>" + c.rental_cart_available + "</br><strong>Rental Clubs Available: </strong>" + c.rental_club +"<p>")
-            .addTo(myMap);
+        
+        // add popup to selected marker
+        marker.bindPopup("<h6>" + c.course + "</h6> <hr> <p><strong>Address: </strong></br>" + c.street + "<br>" + c.city + ", " + c.state + " " + c.zip_code + "<br><strong>Phone: </strong>" + c.phone + "</p><p><strong>Access: </strong>" + c.public_private + "</br><strong>Holes: </strong>" + c.hole + "</br><strong>Rental Cart Available: </strong>" + c.rental_cart_available + "</br><strong>Rental Clubs Available: </strong>" + c.rental_club +"<br><strong>Golf Season: </strong>" + c.golf_season + "<br><strong>Range: </strong>" + c.range + "<br><strong>Pro in House: </strong>" + c.pro_in_House + "<br><strong>Architect: </strong>" + c.architect + "<p>")
+        .addTo(myMap);
 
-            // show popup on mouseover
-            marker.on('mouseover', function(event) {
-                marker.openPopup();
-            });
+        // show popup on mouseover
+        marker.on('mouseover', function(event) {
+            marker.openPopup();
+            console.log(c.course_id);
+        });
 
-            marker.on('mouseout', function(event) {
-                marker.closePopup();
-            });
+        marker.on('mouseout', function(event) {
+            marker.closePopup();
+        });
 
 
         })

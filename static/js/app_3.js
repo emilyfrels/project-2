@@ -13,8 +13,12 @@ console.log("tbody");
 d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
     golfData = data;
     console.log(golfData);
+    console.log(golfData[[0]])
+
+    golfData.splice(["course_id"]);
 
     golfData.forEach(function(courseData) {
+        
 
         var row = tbody.append("tr");
 
@@ -26,6 +30,9 @@ d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
         });
     });
 });
+
+
+
 
 // // add zip code box to form
 // var zipCode = d3.select("li").append("label").text("Enter a Zip Code");
