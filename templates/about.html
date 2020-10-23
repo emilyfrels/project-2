@@ -21,14 +21,23 @@
 
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../static/css/style.css">
-  
+
+  <script>
+    var golf = '{{golf|safe}}'
+    console.log(golf)
+  </script>
+
+
 </head>
+
+
+
 
 <body>
 
   <!-- navbar -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="indesx.html">Mississippi River Golf Adventure</a>
+    <a class="navbar-brand" href="index.html">Mississippi River Golf Adventure</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -48,37 +57,31 @@
     </div>
   </nav>
 <br><br>
-    <div class="row">
-      <div class="col-md-8" id="map"></div>
-      <!-- <div class="col-md-1"></div> -->
-      <div class="col-md-3 justify-content-center">
-        <div class="chart-container">
-          <center><canvas class="my-4 w-100 chartjs-render-monitor" id="doughnut"></canvas></center>
-          <h3>
-            <center>Golf Season for Chosen Course</center>
-          </h3>
-
-        </div>
-        <div class="chart-container" style="display: block; width: 500px; height: 250px;">
-          <div id="radar">
-          </div>
-          <h3><center>Golf Course Parameters</center></h3>
-        </div>
+  <div class="row">
+      <div class="col-md-3">
+        <iframe src="https://giphy.com/embed/fxOkhf5sUiK5ST3gWC" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SportsManias-fxOkhf5sUiK5ST3gWC">via GIPHY</a></p>
       </div>
-    </div>
+      <div class="col-md-7">
+        <h2>Grab your clubs and let's go!</h2> 
+        <br>
+        <p>Just as Tom Sawyer and Huckelberry Finn did, take a trip down the Mighty Mississippi River! Except on your journey, take a stop along one of the many golf courses along the river. </p><br><br>
+        <h3>About the Map:</h3>
+        <br>
+        <p>We chose the states along the Mississippi River to plot our golf course data. Within this map, you may view courses by access: private, public, semi-private, resort, and military. Mouse over each location for additional details or click on a marker to see the open season and slope details!</p>
+      </div>
+      <div class="col-md-2"></div>
+  </div>
+
+    
 
 
-    </div>
-
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>
 
-  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.7/d3.min.js"></script>
 
 
   <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -101,7 +104,6 @@
   <!-- <script type="text/javascript" src="../static/js/app.js"></script> -->
   <script type="text/javascript" src="../static/js/app_1.js"></script>
   <script type="text/javascript" src="../static/js/app_2.js"></script>
-
 </body>
 <footer class="footer">
   <span class="bottom"> University of Minnesota Boot Camp 2020</span>
