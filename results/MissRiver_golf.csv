@@ -15,7 +15,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 643,Centennial Valley Golf Course,Conway,Arkansas,1600 Centennial Club Dr,72032,-92.50138659999999,35.1020098,18,Private,year round,1,12,72,7103,131,73.40,72,6226,125,69.90,72,4605,112,67.10
 648,Chamberlyne Country Club,Danville,Arkansas,Hwy 27 Intersection 154,72833,-93.3934017,35.0539983,18,Private,year round,1,12,72,7047,125,72.90,72,6638,121,70.60,72,6229,116,68.30
 649,Bay Ridge Boat & Golf Club,Dardanelle,Arkansas,Bay Ridge Rd,72834,-93.2075334,35.2556793,18,Semi-Private,year round,1,12,72,6289,123,70.10,72,5802,118,67.50,72,4827,118,67.90
-650,DeQueen Country Club,De Queen,Arkansas,Route 3 Hwy 70-71,71832,-78.8608646,35.9857961,9,Private,year round,1,12,36,3172,120,34.40,36,3067,118,33.90,36,2410,110,32.60
+650,DeQueen Country Club,De Queen,Arkansas,Route 3 Hwy 70-71,71832,-91.8318334,35.20105,9,Private,year round,1,12,36,3172,120,34.40,36,3067,118,33.90,36,2410,110,32.60
 652,Diamond Hills Country Club,Diamond City,Arkansas,Hwy 7 S,72630,-92.9201119,36.4645075,18,Public,year round,1,12,69,6311,111,69.70,69,6017,109,68.30,72,5491,110,71.10
 653,El Dorado Golf & Country Club,El Dorado,Arkansas,101 Shady Side Dr,71730,-92.6609713,33.2392704,18,Private,year round,1,12,71,6449,116,70.20,71,6143,114,68.90,73,5427,110,69.80
 654,Mountain Ranch Golf Club at Fairfield Bay,Fairfield Bay,Arkansas,820 Lost Creek Pkwy,72088,-92.28827199999999,35.6112397,18,Resort,year round,1,12,72,6780,140,72.80,72,6280,135,70.60,72,5325,133,71.40
@@ -57,14 +57,14 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 714,North Hills Country Club,Little Rock,Arkansas,7400 Hwy 107,72120,-92.23068289999999,34.8218437,18,Private,year round,1,12,71,6438,132,71.50,71,6048,127,69.60,72,5201,129,71.80
 715,Regulation at Pleasant Valley Country Club,Little Rock,Arkansas,1 Pleasant Valley Dr,72212,-92.40868800000001,34.777107,18,Private,year round,1,12,72,7060,134,73.80,72,6368,128,70.70,74,5544,129,72.80
 720,Lakeview Golf & Country Club,Mabelvale,Arkansas,8500 Castle Valley Rd,72103,-92.3716262,34.6365123,18,Public,year round,1,12,71,5787,100,65.90,71,5526,100,65.90,71,4768,121,72.50
-723,Magnolia Country Club,Magnolia,Arkansas,1711 Hwy 79 S,71753,-93.22097029999999,33.256519,18,Private,year round,1,12,72,6752,123,71.00,72,6378,115,66.90,72,5422,118,70.10
+723,Magnolia Country Club,Magnolia,Arkansas,1711 Hwy 79 S,71753,-93.239334,33.2670725,18,Private,year round,1,12,72,6752,123,71.00,72,6378,115,66.90,72,5422,118,70.10
 727,Marion Lakes Golf & Athletic Club,Marion,Arkansas,303 Club Circle,72364,-90.2047577,35.1957319,18,Private,year round,1,12,72,6700,130,73.00,72,6091,123,69.70,72,4386,116,68.70
 729,"Country Club of Arkansas, The",Maumelle,Arkansas,2 Country Club Ln,72113,-92.39772699999999,34.842518,18,Semi-Private,year round,1,12,72,6458,128,71.60,72,5946,123,69.30,72,4857,114,64.70
 730,Maumelle Country Club,Maumelle,Arkansas,100 Club Manor Dr,72113,-92.4130079,34.8431141,18,Private,year round,1,12,72,7414,132,75.40,72,7151,130,74.20,72,5454,125,71.60
 736,Twin Lakes Golf Club,Mountain Home,Arkansas,70 Elk Way,72653,-92.3557781,36.3525447,18,Semi-Private,year round,1,12,70,5910,117,69.40,70,5669,115,68.00,70,5018,109,64.70
 741,Newport Country Club,Newport,Arkansas,703 Walker Dr,72112,-91.269229,35.599046,18,Private,year round,1,12,70,5769,99,66.20,70,5169,96,64.90,70,4349,100,66.60
 745,Championship at Burns Park Golf Course,North Little Rock,Arkansas,Burns Park,72118,-92.3099177,34.7976957,18,Public,year round,1,12,71,6352,116,69.70,71,5830,112,67.70,71,5034,120,70.50
-747,Stone Links G.C.,North Little Rock,Arkansas,110 Hwy 391No,72117,-92.2376798,34.8202776,18,Public,year round,1,12,72,7035,119,72.40,72,6699,117,71.20,72,5118,120,70.30
+747,Stone Links G.C.,North Little Rock,Arkansas,110 Hwy 391No,72117,-92.12136000000001,34.747544,18,Public,year round,1,12,72,7035,119,72.40,72,6699,117,71.20,72,5118,120,70.30
 753,Harbor Oaks Golf Club,Pine Bluff,Arkansas,1 Harbor Oaks Dr,71601,-91.9869293,34.2525214,18,Public,year round,1,12,72,7010,125,72.70,72,6503,121,70.40,72,5249,122,70.20
 755,Pine Bluff Country Club,Pine Bluff,Arkansas,1100 Country Club Ln,71603,-92.0133196,34.1834795,18,Private,year round,1,12,71,6649,120,71.60,71,6303,117,70.00,71,5250,117,70.30
 756,Rosswood Country Club,Pine Bluff,Arkansas,7619 Rosswood Rd,71603,-92.011453,34.146038,18,Private,year round,1,12,72,6908,118,72.00,72,6600,116,70.60,73,5292,116,70.30
@@ -75,7 +75,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 768,Dawn Hill Golf & Racquet Club,Siloam Springs,Arkansas,Dawn Hill Rd,72761,-94.5406235,36.2070048,18,Resort,year round,1,12,72,6852,114,71.30,72,6522,111,69.80,73,5330,110,69.10
 769,Siloam Springs Country Club,Siloam Springs,Arkansas,801 N Country Club Rd,72761,-94.52248929999999,36.1917498,9,Semi-Private,year round,1,12,35,2927,118,33.40,35,2802,117,33.00,37,2452,112,31.40
 773,Springdale Country Club,Springdale,Arkansas,4705 S Thompson,72764,-94.1441924,36.1417872,18,Private,year round,1,12,72,6673,119,72.10,72,6168,114,69.80,72,5062,105,69.40
-776,South Haven Golf Club,Texarkana,Arkansas,Route 10,71854,-94.037922,33.471001,18,Public,year round,1,12,71,6227,123,69.30,71,5872,122,69.20,71,4951,117,69.80
+776,South Haven Golf Club,Texarkana,Arkansas,Route 10,71854,-94.0141426,33.4444053,18,Public,year round,1,12,71,6227,123,69.30,71,5872,122,69.20,71,4951,117,69.80
 783,Meadowbrook Country Club,West Memphis,Arkansas,1250 W Broadway,72301,-90.21097189999999,35.1436246,18,Private,year round,1,12,71,6522,115,70.60,71,5906,112,69.30,71,5327,113,69.60
 3962,Oak Meadows Golf Course,Addison,Illinois,900 N Wood Dale Rd,60101,-87.98280319999999,41.9466239,18,Public,Open: 4/01 Closed: 12/01,4,11,71,6718,126,72.10,71,6376,122,70.60,73,5954,119,68.40
 3966,Golf Club of Illinois,Algonquin,Illinois,1575 Edgewood Rd,60102,-88.3177429,42.15721240000001,18,Public,Open: 3/01 Closed: 11/30,3,11,71,6958,130,73.10,71,6511,124,71.10,71,4870,111,67.80
@@ -357,7 +357,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 4513,Quincy Country Club,Quincy,Illinois,24th & State St,62301,-122.4184682,37.7522505,18,Private,year round,1,12,70,6445,116,70.60,70,6149,113,69.20,73,5503,117,70.90
 4514,Spring Lake Country Club,Quincy,Illinois,Rural Route 2 N 12th St,62301,-91.39650429999999,39.9318393,18,Private,Open: 3/01 Closed: 11/30,3,11,72,6443,112,70.20,72,6028,110,68.50,74,5407,115,70.40
 4515,Eighteen at Westview Golf Course,Quincy,Illinois,S 36th St,62301,-91.35854599999999,39.9141655,18,Public,year round,1,12,71,6400,116,70.10,71,6000,112,68.40,71,5331,114,70.20
-4517,Willow Pond Golf Course,Rantoul,Illinois,808 Golf Course Rd,61866,-88.1318944,40.2978451,18,Public,Open: 3/01 Closed: 11/15,3,11,72,6826,115,71.80,72,6555,112,70.70,72,5553,114,71.90
+4517,Willow Pond Golf Course,Rantoul,Illinois,808 Golf Course Rd,61866,-88.134682,40.296874,18,Public,Open: 3/01 Closed: 11/15,3,11,72,6826,115,71.80,72,6555,112,70.70,72,5553,114,71.90
 4522,Urban Hills Country Club,Richton Park,Illinois,23520 Crawford Ave,60471,-87.7113869,41.4597852,18,Semi-Private,year round,1,12,71,6650,114,71.10,71,6266,111,69.10,71,5266,110,69.10
 4524,Joe Louis Golf Club,Riverdale,Illinois,13100 S Hallstead,60827,-87.6419647,41.65636190000001,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6869,123,71.70,72,6391,117,69.70,72,5228,115,68.60
 4525,Oak Park Country Club,River Grove,Illinois,2001Thatcher Rd,60171,-87.82728999999999,41.9176135,18,Private,Open: 3/01 Closed: 11/01,3,10,72,6757,132,72.70,72,6464,129,71.40,72,5988,134,74.90
@@ -514,7 +514,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 5424,Timberline Golf Course,Peosta,Iowa,19804 E Pleasant Grove Rd,52068,-90.87580659999999,42.3894023,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6545,119,71.40,72,6144,116,70.80,73,5318,113,73.50
 5426,Copper Creek Golf Course,Pleasant Hill,Iowa,4815 Copper Creek Dr,50317,-93.52055879999999,41.6048668,18,Public,Open: 3/01 Closed: 10/31,3,10,71,6338,119,70.40,71,6008,114,68.50,71,4790,109,66.60
 5427,Davenport Country Club,Pleasant Valley,Iowa,25500 Valley Dr,52767,-90.4090997,41.5813914,18,Private,Open: 4/01 Closed: 11/01,4,10,71,6468,130,72.20,71,6162,127,70.80,72,5009,122,71.00
-5433,Red Oak Country Club,Red Oak,Iowa,Old Hwy 34 E of City,51566,-95.2258111,41.0099407,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,72,6231,122,70.30,72,5754,117,68.20,72,5057,111,69.20
+5433,Red Oak Country Club,Red Oak,Iowa,Old Hwy 34 E of City,51566,-95.2213359,41.0259221,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,72,6231,122,70.30,72,5754,117,68.20,72,5057,111,69.20
 5446,Sanborn Golf & Country Club,Sanborn,Iowa,Miller Park Dr,51248,-95.66602069999999,43.1786279,9,Public,Open: 4/01 Closed: 11/01,4,10,36,3123,112,36.20,36,3025,110,34.80,36,2728,114,35.80
 5452,Wildcat Golf Course,Shellsburg,Iowa,100 Wildcat Trl,52332,-91.8770618,42.0882709,9,Public,year round,1,12,35,3012,116,34.30,35,2865,114,33.80,35,2238,109,34.80
 5455,Fremont County Recreation Area,Sidney,Iowa,Route 1,51652,-95.64749590000001,40.7483337,9,Public,Open: 4/01 Closed: 11/01,4,10,35,3099,118,34.90,35,3002,116,34.30,37,2700,112,34.40
@@ -550,8 +550,8 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 5771,Doe Valley Golf Club,Brandenburg,Kentucky,1 Doe Valley Dr,40108,-86.11938070000001,37.9704652,18,Semi-Private,Open: 2/01 Closed: 12/31,2,12,71,6471,119,69.80,71,6196,116,68.30,72,5519,118,70.30
 5775,Traditions Golf Club,Burlington,Kentucky,2035 Williams Rd,41005,-84.7488584,39.09182089999999,18,Private,year round,1,12,72,7103,138,74.40,72,6773,135,72.60,72,5793,130,73.50
 5778,Pendleton Country Club,Butler,Kentucky,Hwy 27,41040,-84.35245840000002,38.7920447,18,Private,year round,1,12,72,6522,120,70.80,72,6116,115,68.40,73,4966,113,68.20
-5779,Arrowhead Golf Club,Cadiz,Kentucky,14 Arrowhead Blvd,42211,-87.9658274,36.8455682,18,Semi-Private,year round,1,12,72,6551,129,71.70,72,6084,124,69.60,72,5020,119,69.10
-5780,Boots Randolph Golf Course,Cadiz,Kentucky,US Hwy 68 & Hwy 1489,42211,-83.95840690000001,38.4538791,18,Resort,year round,1,12,72,6791,131,72.70,72,6448,127,70.60,72,5191,121,70.20
+5779,Arrowhead Golf Club,Cadiz,Kentucky,14 Arrowhead Blvd,42211,-87.8128796,36.859296,18,Semi-Private,year round,1,12,72,6551,129,71.70,72,6084,124,69.60,72,5020,119,69.10
+5780,Boots Randolph Golf Course,Cadiz,Kentucky,US Hwy 68 & Hwy 1489,42211,-84.5873203,37.9947651,18,Resort,year round,1,12,72,6791,131,72.70,72,6448,127,70.60,72,5191,121,70.20
 5781,Flag Springs Golf Course,California,Kentucky,46 Smith Rd,41007,-84.25606780000001,38.8873539,18,Public,year round,1,12,71,6137,111,68.30,71,5836,109,67.20,71,4634,104,66.00
 5782,Hickory Sticks Golf Club,California,Kentucky,165 B Painter Rd,41007,-84.296908,38.95018,18,Public,year round,1,12,71,6118,122,69.40,71,5751,118,67.80,71,4634,109,63.00
 5783,Calvert City Golf & Country Club,Calvert City,Kentucky,199 Country Club Ln,42029,-88.3299514,37.0204844,18,Semi-Private,year round,1,12,72,6762,111,70.30,72,6507,108,69.10,72,5416,109,69.30
@@ -706,10 +706,10 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 6062,Spanish Trail Golf Club,Cade,Louisiana,1655 Old Spanish Trl,70519,-91.89509799999999,30.0781167,18,Semi-Private,year round,1,12,71,6042,118,69.90,71,5815,114,69.50,71,5120,113,69.10
 6063,Pine Hills Country Club,Calhoun,Louisiana,395 Britton Rd,71225,-92.3104886,32.5194916,18,Private,year round,1,12,72,6836,130,72.60,72,6534,127,71.10,72,5230,117,71.00
 6064,Covington Country Club,Covington,Louisiana,200 Country Club Dr,70433,-90.1042508,30.4188328,18,Private,year round,1,12,71,6487,118,69.90,71,5882,111,67.10,71,5300,117,68.40
-6065,Tchefuncta Country Club,Covington,Louisiana,2 Country Club Park,70433,-90.12991939999999,30.42901969999999,18,Private,year round,1,12,72,6453,130,71.20,72,6093,125,69.30,72,5451,118,70.50
+6065,Tchefuncta Country Club,Covington,Louisiana,2 Country Club Park,70433,-90.13151429999999,30.427656,18,Private,year round,1,12,72,6453,130,71.20,72,6093,125,69.30,72,5451,118,70.50
 6069,Ormond Country Club,Destrehan,Louisiana,10 Villere Dr,70047,-90.3734745,29.9715845,18,Private,year round,1,12,72,6716,124,72.80,72,6304,123,70.80,72,5322,118,71.50
-6076,Emerald Hills Golf Resort,Florien,Louisiana,Hwy 171 S,71429,-93.5190365,31.3752779,18,Resort,year round,1,12,72,6548,125,71.00,72,6307,120,69.00,74,5432,114,69.40
-6077,Warrior Hills Golf Course,Fort Polk,Louisiana,Paterson Dr Building 323,71459,-93.2219164,31.0436081,18,Military,year round,1,12,72,6555,129,71.00,72,6235,127,69.00,72,5041,127,68.40
+6076,Emerald Hills Golf Resort,Florien,Louisiana,Hwy 171 S,71429,-93.45759319999999,31.4438057,18,Resort,year round,1,12,72,6548,125,71.00,72,6307,120,69.00,74,5432,114,69.40
+6077,Warrior Hills Golf Course,Fort Polk,Louisiana,Paterson Dr Building 323,71459,-93.21341919999999,31.0400455,18,Military,year round,1,12,72,6555,129,71.00,72,6235,127,69.00,72,5041,127,68.40
 6080,Gemstone Plantation Country Club,Franklinton,Louisiana,266 GemStone Dr,70438,-90.22109119999999,30.8324621,18,Semi-Private,Open: 3/01 Closed: 11/01,3,10,72,7033,128,72.50,72,6552,126,69.90,72,5327,120,69.30
 6083,Pelican Point Golf Club,Gonzales,Louisiana,6300 Championship Ct,70737,-90.9299089,30.1651285,18,Semi-Private,year round,1,12,72,7102,131,74.90,72,6549,126,72.20,72,4949,118,69.50
 6085,Crooked Hollow Golf Club,Greenwood,Louisiana,8667 Elysian Fields Rd,71033,-94.03409789999999,32.4051592,9,Semi-Private,year round,1,12,36,3237,124,35.00,36,3152,118,35.00,36,2679,123,35.50
@@ -875,7 +875,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 7900,Loon Lake Public Golf Course,Jackson,Minnesota,Route 3,56143,-94.9886022,43.6207915,9,Public,Open: 4/01 Closed: 11/01,4,10,36,3092,117,34.60,36,2991,115,34.10,36,2514,110,34.00
 7901,Prairie Ridge Golf Course,Janesville,Minnesota,2000 N Main St,56048,-93.70928280000001,44.1276579,9,Public,Open: 4/01 Closed: 11/01,4,10,36,3370,131,36.50,36,2949,123,34.60,36,2631,121,35.80
 7904,Kimball Golf Club,Kimball,Minnesota,11823 County Rd 150,55353,-94.2967896,45.2953554,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,72,6652,124,72.00,72,6389,122,70.70,72,5323,120,70.80
-7906,Lake Pepin Golf Course,Lake City,Minnesota,Rural Route 4,55041,-92.2666914,44.4492982,9,Semi-Private,Open: 5/01 Closed: 11/30,5,11,36,3379,126,36.00,36,3131,122,34.90,36,2698,115,35.40
+7906,Lake Pepin Golf Course,Lake City,Minnesota,Rural Route 4,55041,-92.266612,44.4493572,9,Semi-Private,Open: 5/01 Closed: 11/30,5,11,36,3379,126,36.00,36,3131,122,34.90,36,2698,115,35.40
 7908,Blue/White at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042,-92.8696966,44.9779394,18,Private,Open: 4/01 Closed: 11/01,4,10,72,6855,127,72.10,72,6471,124,70.60,72,5580,127,71.60
 7909,White/Red at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042,-92.8696966,44.9779394,18,Private,Open: 4/01 Closed: 11/01,4,10,72,6690,128,71.90,72,6466,125,70.90,72,5486,124,71.40
 7911,Red/Blue at Tartan Park Golf Course,Lake Elmo,Minnesota,11455 20th St No,55042,-92.8696966,44.9779394,18,Private,Open: 4/01 Closed: 11/01,4,10,72,6781,125,72.00,72,6423,121,70.30,72,5582,123,71.60
@@ -964,7 +964,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 8051,Red Wing Country Club,Red Wing,Minnesota,1311 W 6th St,55066,-92.54741399999999,44.5583675,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,71,6169,129,70.90,71,5892,126,69.70,72,4831,117,69.80
 8052,Redwood Falls Golf Club,Redwood Falls,Minnesota,101 E Oak St,56283,-95.1217918,44.5498787,9,Semi-Private,Open: 4/01 Closed: 10/31,4,10,36,3223,132,36.20,36,3075,129,35.50,36,2734,122,36.50
 8053,Stoney Creek Golf Course,Renville,Minnesota,820th Ave,56284,-95.2195105,44.7745752,9,Public,Open: 4/01 Closed: 11/01,4,10,36,3378,133,36.50,36,3266,130,35.70,36,2742,122,36.00
-8054,Oak Hill Golf Club,Rice,Minnesota,9000 Hwy 10 NW,56367,-94.187658,45.7040823,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6534,120,70.80,72,6035,119,68.60,72,5006,118,68.30
+8054,Oak Hill Golf Club,Rice,Minnesota,9000 Hwy 10 NW,56367,-94.17053519999999,45.6988092,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6534,120,70.80,72,6035,119,68.60,72,5006,118,68.30
 8055,Oak Summit Golf Course,Rochester,Minnesota,2751 County Rd 16 SW,55902,-92.501921,43.920616,18,Public,Open: 4/01 Closed: 11/30,4,11,71,6518,121,71.30,71,6128,117,69.50,71,5159,115,69.10
 8056,Meadow Lakes Golf Club,Rochester,Minnesota,70 45th Ave SW,55902,-92.52605199999999,44.018787,18,Public,year round,1,12,71,6287,112,69.20,71,5946,109,68.10,71,4855,104,67.10
 8058,Maple Valley Golf & Country Club,Rochester,Minnesota,8600 Maple Valley Rd SE,55904,-92.37577999999999,43.895938,18,Public,Open: 4/01 Closed: 11/01,4,10,71,6270,121,70.50,71,5990,118,69.10,71,5330,120,71.10
@@ -1049,12 +1049,12 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 8211,Greenwood Country Club,Greenwood,Mississippi,Hwy 82 E,38930,-89.7949415,33.4717707,18,Private,year round,1,12,72,6296,116,69.80,72,6103,113,69.10,74,5422,115,69.90
 8212,Grenada Country Club,Grenada,Mississippi,Country Club Rd,38901,-89.79578430000001,33.7564031,18,Private,year round,1,12,71,6375,116,70.10,71,6033,110,68.20,73,4922,114,67.20
 8214,Great Southern,Gulfport,Mississippi,2000 Beach Dr,39507,-89.00954469999999,30.386601,18,Semi-Private,year round,1,12,71,6214,124,70.40,71,6007,122,68.50,73,5403,122,71.80
-8215,Pine Bayou Golf Course,Gulfport,Mississippi,Building 36 NCBC,39501,-89.09373339999999,30.4179419,18,Military,year round,1,12,72,6561,123,71.00,72,6219,115,69.50,72,5286,106,66.70
+8215,Pine Bayou Golf Course,Gulfport,Mississippi,Building 36 NCBC,39501,-89.0304659,30.43298,18,Military,year round,1,12,72,6561,123,71.00,72,6219,115,69.50,72,5286,106,66.70
 8217,Windance Country Club,Gulfport,Mississippi,19385 Champion Cir,39503,-89.16356789999999,30.4604129,18,Semi-Private,year round,1,12,72,6660,129,73.10,72,6112,124,70.70,72,5208,120,70.10
 8219,Canebrake Golf Club,Hattiesburg,Mississippi,One Cane Dr,39402,-89.466537,31.32947029999999,18,Semi-Private,year round,1,12,71,7003,130,73.30,71,6553,125,71.10,71,5129,117,69.50
 8220,Creekside/Valley at Timberton Golf Club,Hattiesburg,Mississippi,22 Clubhouse Rd,39401,-89.3279618,31.2671159,18,Semi-Private,year round,1,12,72,7003,135,73.40,72,6436,132,70.50,72,5439,129,69.70
 8221,Lakeview/Creekside at Timberton Golf Club,Hattiesburg,Mississippi,22 Clubhouse Rd,39401,-89.3279618,31.2671159,18,Semi-Private,year round,1,12,72,6740,133,73.10,72,6245,130,70.90,72,5430,126,68.60
-8222,USM's Van Hook Golf Course,Hattiesburg,Mississippi,One Golf Course Rd,39402,-89.3278656,31.2672023,18,Public,year round,1,12,72,6429,117,72.20,72,6079,114,68.30,73,4903,110,67.40
+8222,USM's Van Hook Golf Course,Hattiesburg,Mississippi,One Golf Course Rd,39402,-89.35987899999999,31.34866,18,Public,year round,1,12,72,6429,117,72.20,72,6079,114,68.30,73,4903,110,67.40
 8223,Valley/Lakeview at Timberton Golf Club,Hattiesburg,Mississippi,22 Clubhouse Rd,39401,-89.3279618,31.2671159,18,Semi-Private,year round,1,12,72,6753,131,72.70,72,6351,131,71.30,72,5487,127,69.50
 8224,Hernando Hills Country Club,Hernando,Mississippi,1000 Bradley Dr,38632,-89.97616099999999,34.851923,18,Private,year round,1,12,72,6084,130,69.60,72,5627,126,67.60,72,4655,117,67.70
 8225,Kirkwood National Golf Club,Holly Springs,Mississippi,785 Hwy 4 W,38635,-89.48568209999999,34.7142724,18,Semi-Private,year round,1,12,72,7129,135,73.60,72,6639,131,72.50,72,4898,116,68.20
@@ -1085,8 +1085,8 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 8280,"Oaks Golf Club, The",Pass Christian,Mississippi,7119 Menge Ave,39571,-89.24438839999999,30.38939959999999,18,Public,year round,1,12,72,6885,131,72.50,72,6330,121,69.60,72,4691,107,66.40
 8281,Pass Christian Isles Golf Club,Pass Christian,Mississippi,150 Country Club Dr,39571,-89.2803519,30.325169,18,Semi-Private,year round,1,12,72,6456,124,71.30,72,6037,121,69.50,72,5396,120,71.60
 8282,Pearl Municipal Golf Course,Pearl,Mississippi,1001 Center City Dr,39208,-90.1042094,32.2719069,18,Public,year round,1,12,70,5947,122,68.90,70,5391,115,66.30,70,4441,104,63.90
-8284,Azaleas at Dancing Rabbit Golf Club,Philadelphia,Mississippi,One Choctaw Trl,39350,-89.20554229999999,32.7720911,18,Resort,year round,1,12,72,7128,135,74.40,72,6537,130,72.10,72,4909,115,68.60
-8285,Oaks at Dancing Rabbit Golf Club,Philadelphia,Mississippi,One Choctaw Trl,39350,-89.2109663,32.7971894,18,Resort,year round,1,12,72,7076,139,74.60,72,6641,136,71.90,72,5097,123,69.00
+8284,Azaleas at Dancing Rabbit Golf Club,Philadelphia,Mississippi,One Choctaw Trl,39350,-89.2127436,32.7735835,18,Resort,year round,1,12,72,7128,135,74.40,72,6537,130,72.10,72,4909,115,68.60
+8285,Oaks at Dancing Rabbit Golf Club,Philadelphia,Mississippi,One Choctaw Trl,39350,-89.2127436,32.7735835,18,Resort,year round,1,12,72,7076,139,74.60,72,6641,136,71.90,72,5097,123,69.00
 8286,Philadelphia Country Club,Philadelphia,Mississippi,Golf Course Rd,39350,-89.086907,32.7643442,18,Private,year round,1,12,72,6416,125,71.60,72,6076,120,69.60,72,5035,119,69.60
 8287,Millbrook Country Club,Picayune,Mississippi,Hwy 11 No,39466,-89.67288119999999,30.5375871,18,Semi-Private,year round,1,12,72,6452,130,71.00,72,6062,126,69.30,72,4917,115,68.70
 8288,Pontotoc Country Club,Pontotoc,Mississippi,Hwy 6,38863,-88.99343999999999,34.2892136,18,Semi-Private,year round,1,12,72,6420,130,70.90,72,6230,128,70.00,72,5618,118,67.60
@@ -1189,7 +1189,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 8484,Lebanon Country Club,Lebanon,Missouri,W Hwy 64,65536,-92.66384710000001,37.6805566,18,Semi-Private,year round,1,12,72,6435,119,70.40,72,5955,115,68.10,72,5174,111,69.70
 8488,Lakewood Oaks Golf Club,Lees Summit,Missouri,651 NE St Andrews Cir,64064,-94.35953169999999,39.007565,18,Private,Open: 3/01 Closed: 10/31,3,10,71,6300,128,71.70,71,5820,124,69.00,72,5164,121,70.60
 8490,Claycrest Golf Club,Liberty,Missouri,925 N Lightburne St,64068,-94.41648939999999,39.2578969,18,Semi-Private,year round,1,12,72,6476,117,70.50,72,5885,111,66.50,72,5375,111,69.20
-8491,Liberty Hills Country Club,Liberty,Missouri,Corner of H Hwy & Stockdale Rd,64068,-92.3574761,38.3059279,18,Private,Open: 4/01 Closed: 10/31,4,10,71,6340,122,70.10,71,5854,116,65.90,72,5077,115,67.90
+8491,Liberty Hills Country Club,Liberty,Missouri,Corner of H Hwy & Stockdale Rd,64068,-122.2088549,47.8090412,18,Private,Open: 4/01 Closed: 10/31,4,10,71,6340,122,70.10,71,5854,116,65.90,72,5077,115,67.90
 8493,Bay View Golf Course,Linn Creek,Missouri,Rural Route 2,65052,-92.71157319999999,38.0380899,9,Public,year round,1,12,70,2747,126,34.40,70,2614,114,32.30,70,1975,105,31.00
 8500,Marshfield Country Club,Marshfield,Missouri,NE Hubble Dr,65706,-92.91400019999999,37.3443157,18,Semi-Private,Open: 3/15 Closed: 10/31,3,10,70,5938,108,69.20,70,5456,102,66.40,70,4609,94,62.50
 8501,Crystal Springs Quarry Golf Club,Maryland Heights,Missouri,12163 Prichard Farm Rd,63043,-90.46526,38.7341407,9,Public,year round,1,12,36,3281,127,35.90,36,3036,124,34.70,36,2549,107,34.50
@@ -1465,7 +1465,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 15274,Antigo-Bass Lake Country Club,Deerbrook,Wisconsin,W 10650 Bass Lake Rd,54424,-89.1826267,45.3550506,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,71,6166,122,69.80,71,5913,120,68.60,71,5301,120,70.20
 15276,Delbrook Golf Club,Delavan,Wisconsin,700 S 2nd St,53115,-88.64964719999999,42.6235947,18,Public,Open: 4/15 Closed: 10/15,4,10,72,6519,123,70.80,72,6315,121,69.90,72,5599,121,71.30
 15277,Lake Lawn Resort,Delavan,Wisconsin,Hwy 50,53115,-88.6392072,42.6330124,18,Resort,Open: 3/15 Closed: 11/15,3,11,70,6201,124,70.00,70,5849,120,68.40,70,5054,116,69.40
-15278,Twin Oaks Country Club,Denmark,Wisconsin,4871 County Hwy R,54208,-87.8748092,44.4066581,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6468,116,69.60,72,6088,112,67.90,72,5214,103,68.30
+15278,Twin Oaks Country Club,Denmark,Wisconsin,4871 County Hwy R,54208,-87.87425499999999,44.405379,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6468,116,69.60,72,6088,112,67.90,72,5214,103,68.30
 15281,Hilly Haven Golf Course,De Pere,Wisconsin,5911 County Rd Hwy PP,54115,-88.0492153,44.35146899999999,18,Public,Open: 3/01 Closed: 11/01,3,10,70,6021,114,68.30,70,5799,112,67.30,71,5331,117,69.90
 15283,Mystery Hills at Mystery Hills Golf Club,De Pere,Wisconsin,3149 Dickinson Rd,54115,-87.996178,44.425663,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6254,120,70.10,72,6034,118,68.90,72,5569,114,67.00
 15286,Kettle Moraine Golf Club,Dousman,Wisconsin,4299 Hwy 67,53118,-88.4749463,42.9653503,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6406,118,70.30,72,6123,116,69.00,72,5203,116,69.50
@@ -1523,7 +1523,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 15390,Red Pine at Brighton Dale Links,Kansasville,Wisconsin,830 248th Ave,53139,-88.11061629999999,42.6513533,9,Public,Open: 4/01 Closed: 11/01,4,10,36,3505,132,72.80,36,3355,129,71.40,38,2851,134,75.40
 15391,Blue Spruce at Brighton Dale Links,Kansasville,Wisconsin,830 248th Ave,53139,-88.11061629999999,42.6513533,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6687,129,72.00,72,6382,126,70.60,72,5628,125,72.10
 15392,Irish Waters Golf Club,Kaukauna,Wisconsin,N4265 Murphy Rd,54130,-88.32440799999999,44.3922669,18,Public,Open: 3/01 Closed: 11/30,3,11,71,6043,114,68.90,71,5772,111,67.70,71,5142,112,69.30
-15394,Fox Valley Golf Club,Kaukauna,Wisconsin,City Hwy UU,54130,-88.2742633,44.3568197,18,Private,Open: 4/01 Closed: 11/01,4,10,73,6582,123,71.00,73,6292,120,69.70,72,5624,120,71.80
+15394,Fox Valley Golf Club,Kaukauna,Wisconsin,City Hwy UU,54130,-88.27205029999999,44.2780432,18,Private,Open: 4/01 Closed: 11/01,4,10,73,6582,123,71.00,73,6292,120,69.70,72,5624,120,71.80
 15396,Kenosha Country Club,Kenosha,Wisconsin,500 13th Ave,53140,-87.8292821,42.6576059,18,Private,Open: 4/01 Closed: 11/01,4,10,70,6479,132,72.10,70,6277,130,71.10,74,5705,132,73.70
 15405,River at Blackwolf Run Golf Course,Kohler,Wisconsin,1111 W Riverside Dr,53044,-87.77918269999999,43.7314975,18,Resort,Open: 4/01 Closed: 11/01,4,10,72,6991,151,74.90,72,6607,146,73.20,72,5115,128,70.70
 15406,Meadow Valleys at Blackwolf Run Golf Course,Kohler,Wisconsin,1111 W Riverside Dr,53044,-87.77918269999999,43.7314975,18,Resort,Open: 4/01 Closed: 11/01,4,10,72,7142,143,74.70,72,6735,138,73.00,72,5065,125,69.50
@@ -1603,7 +1603,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 15530,Lac La Belle Golf Club,Oconomowoc,Wisconsin,6996 Pennsylvania Ave,53066,-88.51880299999999,43.1470583,18,Private,Open: 4/01 Closed: 11/01,4,10,71,6540,128,71.90,71,6244,125,70.50,71,5100,121,70.50
 15531,Oconomowoc Golf Club,Oconomowoc,Wisconsin,5261 Brown St,53066,-88.46336289999999,43.1150007,18,Private,Open: 4/01 Closed: 12/31,4,12,70,6482,124,71.70,70,6291,123,71.00,73,5793,125,73.80
 15532,Old Highlander Golf Club,Oconomowoc,Wisconsin,1350 Royale Mile Rd,53066,-88.47550749999999,43.0884791,18,Public,Open: 4/15 Closed: 11/01,4,10,72,6458,118,70.50,72,6268,116,69.60,71,5735,119,72.40
-15533,Paganica Golf Course,Oconomowoc,Wisconsin,3850 N Silver Lake Rd,53066,-88.487422,43.081619,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6576,116,70.70,71,6335,113,69.60,72,5663,116,71.50
+15533,Paganica Golf Course,Oconomowoc,Wisconsin,3850 N Silver Lake Rd,53066,-88.4955784,43.0888281,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6576,116,70.70,71,6335,113,69.60,72,5663,116,71.50
 15538,La Crosse Country Club,Onalaska,Wisconsin,300 Marcou Rd,54650,-91.1768508,43.8844117,18,Private,Open: 4/01 Closed: 11/01,4,10,72,7181,134,74.80,72,6714,128,72.70,72,5418,122,71.40
 15539,Cedar Creek Country Club,Onalaska,Wisconsin,2600 Cedar Creek Ln,54650,-91.22961699999999,43.91983390000001,18,Private,Open: 4/01 Closed: 11/01,4,10,71,6751,132,72.60,71,6296,127,70.50,71,5240,118,70.20
 15541,Brown County Golf Course,Oneida,Wisconsin,897 Riverdale Dr,54155,-88.1495231,44.5263703,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6729,133,72.00,72,6382,127,70.20,73,5814,127,72.80
@@ -1639,9 +1639,9 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 15602,Hawthorne Hills Golf Course,Saukville,Wisconsin,4720 County Rd I,53080,-87.9785404,43.4487855,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6657,119,70.80,72,6246,115,68.90,72,5352,114,69.40
 15604,Wausau Country Club,Schofield,Wisconsin,304 Country Club Rd,54476,-89.623296,44.905338,18,Private,Open: 4/01 Closed: 11/01,4,10,71,6307,125,70.00,71,6069,118,68.50,71,5133,118,71.00
 15605,Crystal Springs Golf Course,Seymour,Wisconsin,French Rd,54165,-88.3513692,44.4333036,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,72,6596,116,70.70,72,6236,113,69.10,73,5497,124,74.60
-15607,Berms/River Woods at Sheboygan Town & Country Golf Club,Sheboygan,Wisconsin,W 1945 County Hwy J,53083,-89.4226383,44.7048131,18,Public,Open: 4/01 Closed: 11/30,4,11,72,6222,112,69.60,71,5449,115,66.00,71,5059,117,68.60
-15608,Pigeon Run/Berms at Sheboygan Town & Country Golf Club,Sheboygan,Wisconsin,W 1945 County Hwy J,53083,-89.4226383,44.7048131,18,Public,Open: 4/01 Closed: 11/30,4,11,71,5990,117,68.10,71,5561,113,66.10,71,4974,112,67.90
-15609,Pigeon Run/River Woods at Sheboygan Town & Country Golf Club,Sheboygan,Wisconsin,W 1945 County Hwy J,53083,-89.4226383,44.7048131,18,Public,Open: 4/01 Closed: 11/30,4,11,71,5914,119,68.30,70,5410,114,65.90,70,4849,113,67.50
+15607,Berms/River Woods at Sheboygan Town & Country Golf Club,Sheboygan,Wisconsin,W 1945 County Hwy J,53083,-87.78836729999999,43.7901842,18,Public,Open: 4/01 Closed: 11/30,4,11,72,6222,112,69.60,71,5449,115,66.00,71,5059,117,68.60
+15608,Pigeon Run/Berms at Sheboygan Town & Country Golf Club,Sheboygan,Wisconsin,W 1945 County Hwy J,53083,-87.78836729999999,43.7901842,18,Public,Open: 4/01 Closed: 11/30,4,11,71,5990,117,68.10,71,5561,113,66.10,71,4974,112,67.90
+15609,Pigeon Run/River Woods at Sheboygan Town & Country Golf Club,Sheboygan,Wisconsin,W 1945 County Hwy J,53083,-87.78836729999999,43.7901842,18,Public,Open: 4/01 Closed: 11/30,4,11,71,5914,119,68.30,70,5410,114,65.90,70,4849,113,67.50
 15610,Pine Hills Country Club,Sheboygan,Wisconsin,4914 Superior Ave,53083,-87.7714555,43.7612062,18,Private,Open: 4/01 Closed: 11/01,4,10,71,6348,131,71.50,71,6054,127,71.00,72,5183,127,70.80
 15612,Whistling Straits Country Club,Sheboygan,Wisconsin,N 8501 County LS,53083,-87.7351084,43.8509493,18,Public,Open: 4/01 Closed: 10/01,4,9,72,7288,151,76.70,72,6869,144,74.20,72,5381,132,72.20
 15614,High Cliff Golf Course,Sherwood,Wisconsin,W5055 Golf Course Rd,54169,-88.2894464,44.1722594,18,Public,Open: 4/01 Closed: 11/01,4,10,71,6207,116,67.30,71,5986,113,66.20,71,4791,103,62.10
@@ -1676,7 +1676,7 @@ course_id,course,city,state,street,zip_code,lng,lat,hole,public_private,golf_sea
 15656,University Ridge Golf Course,Verona,Wisconsin,7120 County Trunk Pd,53593,-89.5511327,43.0170161,18,Public,Open: 4/01 Closed: 11/01,4,10,72,6888,142,73.20,72,6429,139,71.20,72,5005,121,68.90
 15657,Viroqua Country Club,Viroqua,Wisconsin,Hwy 14 S,54665,-90.88933929999999,43.5569308,18,Semi-Private,year round,1,12,71,6291,123,68.60,71,5850,121,67.50,73,5150,120,69.50
 15659,Rivermoor Country Club,Waterford,Wisconsin,30802 Waterford Dr,53185,-88.22483199999999,42.7743719,18,Semi-Private,Open: 4/01 Closed: 11/01,4,10,70,6255,124,70.20,70,6055,122,69.30,75,5728,126,73.10
-15660,Windwood Country Club,Watertown,Wisconsin,W 5710 County Hwy CW,53098,-88.6725868,43.1968562,18,Semi-Private,Open: 4/01 Closed: 10/31,4,10,72,6189,122,69.80,72,5901,119,68.40,72,5059,117,69.10
+15660,Windwood Country Club,Watertown,Wisconsin,W 5710 County Hwy CW,53098,-88.6700079,43.2006299,18,Semi-Private,Open: 4/01 Closed: 10/31,4,10,72,6189,122,69.80,72,5901,119,68.40,72,5059,117,69.10
 15662,Merrill Hills Country Club,Waukesha,Wisconsin,W 270 S 3425 Merrill Hills Rd,53189,-88.2837361,42.987095,18,Private,Open: 4/01 Closed: 11/01,4,10,72,6728,131,72.30,72,6483,129,71.20,73,5888,132,74.10
 15664,Meadows of Six Mile Creek,Waunakee,Wisconsin,800 N Century Ave,53597,-89.46172759999999,43.1985623,18,Public,Open: 4/01 Closed: 10/31,4,10,72,6919,125,73.00,72,6469,120,71.00,72,5269,116,70.00
 15665,Foxfire Golf Club,Waupaca,Wisconsin,215 Foxfire Dr,54981,-89.1309083,44.3485169,18,Semi-Private,Open: 4/01 Closed: 10/31,4,10,70,6528,124,70.90,70,6074,120,69.20,70,5022,115,69.40
