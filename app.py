@@ -48,7 +48,11 @@ sel = [ golf_details.course_id,golf_details.course,golf_details.city,golf_detail
       golf_details.beg_mnth,golf_details.end_mnth,
       golf_details.championship_par, golf_details.championship_yards,golf_details.championship_slope,golf_details.championship_usga,
       golf_details.middle_par,golf_details.middle_yards, golf_details.middle_slope,golf_details.middle_usga,
-      golf_details.forward_par, golf_details.forward_yards, golf_details.forward_slope,golf_details.forward_usga]#pulling only date and precipitation.
+      golf_details.forward_par, golf_details.forward_yards, golf_details.forward_slope,golf_details.forward_usga,
+      golf_details.phone, golf_details.architect, golf_details.year_built, golf_details.guest_policy,
+      golf_details.credit_card, golf_details.range, golf_details.rental_club, golf_details.pro_in_house,
+      golf_details.metal_spikes_okay, golf_details.weekday, golf_details.weekend, golf_details.tee_time_welcomed,
+      golf_details.rental_cart_available]#pulling only date and precipitation.
 golf_data = session.query(*sel).all() 
 
 ##putting data into dataframe
