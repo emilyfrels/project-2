@@ -1,5 +1,6 @@
 function mapCreate(courseData) {
-// console.log because we can
+
+    // console.log because we can
     console.log("app_2.js");
 
     // create variable for course data and map
@@ -92,31 +93,18 @@ function mapCreate(courseData) {
 
 
         //
-
-        
+    
 
 
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     // create function to read in course data
-    function getCourseData() {
+    function getCourseData(courseData) {
 
 
         // d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
-            courseSet = courseData;
+            data = courseData;
             addMarkers();
         // });
     }
@@ -198,6 +186,8 @@ function mapCreate(courseData) {
 
             // show popup on mouseover
             marker.on('mouseover', function(event) {
+                console.log(c.course_id);
+                plotCreate(courseData, c.course_id)
                 marker.openPopup();
             });
 
@@ -211,38 +201,7 @@ function mapCreate(courseData) {
 
 
 
+    initMap();
+    getCourseData(courseData);
 
-// function showCourseData(courseData) {
-
-//     console.log(`showCourseData(${courseData})`);
-
-//     // call for golf course data
-//     d3.csv("/results/course_subset2.csv").then((data)  => {
-        
-//         // variable to find data
-//         var golfCourse = data.golfCourse;
-
-//         // filter to find data for specific course
-//         var resultArray = golfCourse.filter(gc => gc.course == courseData);
-
-//         // variable to return first result
-//         var result = resultArray[0];
-
-//         // define where to display golf course results and clear existing results when new course is selected
-//         var golfInfo = d3.select("#golf-info")
-//         golfInfo.html("");
-
-//         // iterate through results to find keys and values
-//         Object.entries(result).forEach(([key, value]) => {
-//             var textToShow = `${key}: ${value}`;
-//             console.log(textToShow);
-//             golfInfo.append("h6").text(textToShow);
-//         });
-
-// });
-
-
-// call functions
-initMap();
-getCourseData();
 };

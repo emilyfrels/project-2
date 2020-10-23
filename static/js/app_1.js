@@ -10,11 +10,12 @@
 // };
 
 d3.json("/test").then(function(courseData) {
-    plotCreate(courseData);
+    courseSelect = 643;
+    plotCreate(courseData, courseSelect);
     mapCreate(courseData);
 });  
 
-function plotCreate(courseData) {
+function plotCreate(courseData, courseSelect) {
   //courseData = getData();
   console.log(courseData);
   //d3.csv("./results/course_subset2.csv").then(function(courseData) {
@@ -23,7 +24,7 @@ function plotCreate(courseData) {
   for (var i=0; i < courseData.length; i++) {
       var course = courseData[i];
       //console.log(course);
-      courseSelect = 643;
+      console.log(courseSelect);
       if (course.course_id == courseSelect) {
         console.log(course);
         var courseHole = parseInt(course.hole);
@@ -41,10 +42,7 @@ function plotCreate(courseData) {
       
   }
 
-  //console.log(courseData); // data is an array of objects
-
-  //console.log("golf data imported");
-  //console.log(courseData);
+  
   //******************************************************************************************************************************** */
   // Code below generates a doughnut plot to visualize golf season
   // Setting up initial variables for demonstration.  these will need to be replaced with data from Flask
@@ -144,12 +142,12 @@ function plotCreate(courseData) {
       yardageRange = [1000,5000];
       break;
     case courseHole < 20:
-      yardageTick = [5000,6000,7000,8000,9000];
-      yardageRange = [5000,9000];
+      yardageTick = [4000,5000,6000,7000,8000];
+      yardageRange = [4000,8000];
       break;
     default:
-      yardageTick = [7000,8000,9000,10000,11000];
-      yardageRange = [7000,11000];
+      yardageTick = [5000,6000,7000,8000];
+      yardageRange = [5000,8000];
   }
 
   var trace = {
@@ -166,10 +164,10 @@ function plotCreate(courseData) {
         tickvals: yardageTick
         
       }, {    
-        range: [100,170],
+        range: [70,160],
         label: 'Forward<br>Slope',
         values: [forwardSlope],
-        tickvals: [100,110,120,130,140,150,160,170]
+        tickvals: [70,80,90,100,110,120,130,140,150,160]
       }, {
         range: yardageRange,
         label: 'Middle<br>Yards',
@@ -177,10 +175,10 @@ function plotCreate(courseData) {
         tickvals: yardageTick,
         
       }, {
-        range: [100,170],
+        range: [70,160],
         label: 'Middle<br>Slope',
         values: [middleSlope],
-        tickvals: [100,110,120,130,140,150,160,170]
+        tickvals: [70,80,90,100,110,120,130,140,150,160]
       },
       {
         range: yardageRange,
@@ -189,10 +187,10 @@ function plotCreate(courseData) {
         tickvals: yardageTick,
       },
       {
-        range: [100,170],
+        range: [70,160],
         label: 'Champion<br>Slope',
         values: [championshipSlope],
-        tickvals: [100,110,120,130,140,150,160,170]
+        tickvals: [70,80,90,100,110,120,130,140,150,160]
       },
     ]
     };
