@@ -24,6 +24,12 @@
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="../static/css/style.css">
 
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/images/favicon-16x16.png">
+    <link rel="manifest" href="/static/images/site.webmanifest">
+
 
 
 </head>
@@ -35,7 +41,7 @@
 
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Mississippi River Golf Adventure</a>
+        <a class="navbar-brand" href="index.html">Mississippi River Golf Adventure</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -49,96 +55,94 @@
                     <a class="nav-link" href="search.html">Course Search</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">TBD</a>
+                    <a class="nav-link" href="about.html">About</a>
                 </li>
             </ul>
         </div>
     </nav>
 
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <!-- <img class="golf-info" src="/static/images/golf_image.jpg"> -->
-            </div>
+
+    <br><br><br>
+    <!-- build table for data -->
+
+    <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <aside class="filters">
+                <div class="panel panel-default">
+                    <div class="panel-heading"></div>
+                    <div class="panel-body">
+                        <form id="form">
+                            <div class="form-group">
+                                <ul class="list-group" id="filters">
+                                    <li class="filter list-group-item">
+                                        <label for="course">
+                                            <h4>Search by</h4><br>Course Name<br>Public vs. Private<br>Holes
+                                        </label>
+                                        <input class="form-control" id="coursename" type="text"
+                                            placeholder="North Oaks Golf Club">
+                                    </li>
+                                </ul>
+                            </div>
+                            <button id="filter-btn" type="button" class="btn btn-default">Find Course</button>
+                        </form>
+                    </div>
+                </div>
         </div>
     </div>
-
-
-
-    <!-- build table for data -->
-    <div class="container">
-        <div class="row">
-            <div class="col-md-2">
-                <aside class="filters">
-                    <div class="panel panel-default">
-                        <div class="panel-heading"></div>
-                        <div class="panel-body">
-                            <form id="form">
-                                <div class="form-group">
-                                    <ul class="list-group" id="filters">
-                                        <li class="filter list-group-item">
-                                            <label for="course"><h4>Search by</h4><br>Course Name<br>Public vs. Private<br>Holes</label>
-                                            <input class="form-control" id="coursename" type="text"
-                                                placeholder="North Oaks Golf Club">
-                                        </li>
-                                    </ul>
-                                </div>
-                                <button id="filter-btn" type="button" class="btn btn-default">Find Course</button>
-                            </form>
-                        </div>
-                    </div>
-                </aside>
-            </div>
-            <div class="col-md-10">
-                <div id="table-area" class="">
-                    <table id="golf-table" class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th class="table-head">Course ID</th>
-                                <th class="table-head">Course</th>
-                                <th class="table-head">City</th>
-                                <th class="table-head">State</th>
-                                <th class="table-head">Street</th>
-                                <th class="table-head">Zip</th>
-                                <th class="table-head">Longitude</th>
-                                <th class="table-head">Latitude</th>
-                                <th class="table-head">Holes</th>
-                                <th class="table-head">Public vs. Private</th>
-                                <th class="table-head">Golf Season</th>
-                                <th class="table-head">Beginning Month</th>
-                                <th class="table-head">Ending Month</th>
-                                <th class="table-head">Championship Par</th>
-                                <th class="table-head">Championship Yards</th>
-                                <th class="table-head">Championship Slope</th>
-                                <th class="table-head">Championship USGA</th>
-                                <th class="table-head">Middle Par</th>
-                                <th class="table-head">Middle Yards</th>
-                                <th class="table-head">Middle Slope</th>
-                                <th class="table-head">Middle USGA</th>
-                                <th class="table-head">Forward Par</th>
-                                <th class="table-head">Forward Yards</th>
-                                <th class="table-head">Forward Slope</th>
-                                <th class="table-head">Forward USGA</th>
-                                <th class="table-head">Phone</th>
-                                <th class="table-head">Architect</th>
-                                <th class="table-head">Year Built</th>
-                                <th class="table-head">Guest Policy</th>
-                                <th class="table-head">Credit Card Accepted</th>
-                                <th class="table-head">Range</th>
-                                <th class="table-head">Rental Clubs Available</th>
-                                <th class="table-head">Pro in House</th>
-                                <th class="table-head">Metal Spikes Okay</th>
-                                <th class="table-head">Weekday</th>
-                                <th class="table-head">Weekend</th>
-                                <th class="table-head">Tee Time Welcomed</th>
-                                <th class="table-head">Rental Cart Available</th>
-                            </tr>
-                        </thead>
-                        <tbody></tbody>
-                    </table>
-                </div>
+    </aside>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div id="table-area">
+                <table id="golf-table" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th class="table-head">Course ID</th>
+                            <th class="table-head">Course</th>
+                            <th class="table-head">City</th>
+                            <th class="table-head">State</th>
+                            <th class="table-head">Street</th>
+                            <th class="table-head">Zip</th>
+                            <th class="table-head">Longitude</th>
+                            <th class="table-head">Latitude</th>
+                            <th class="table-head">Holes</th>
+                            <th class="table-head">Public vs. Private</th>
+                            <th class="table-head">Golf Season</th>
+                            <th class="table-head">Beginning Month</th>
+                            <th class="table-head">Ending Month</th>
+                            <th class="table-head">Championship Par</th>
+                            <th class="table-head">Championship Yards</th>
+                            <th class="table-head">Championship Slope</th>
+                            <th class="table-head">Championship USGA</th>
+                            <th class="table-head">Middle Par</th>
+                            <th class="table-head">Middle Yards</th>
+                            <th class="table-head">Middle Slope</th>
+                            <th class="table-head">Middle USGA</th>
+                            <th class="table-head">Forward Par</th>
+                            <th class="table-head">Forward Yards</th>
+                            <th class="table-head">Forward Slope</th>
+                            <th class="table-head">Forward USGA</th>
+                            <th class="table-head">Phone</th>
+                            <th class="table-head">Architect</th>
+                            <th class="table-head">Year Built</th>
+                            <th class="table-head">Guest Policy</th>
+                            <th class="table-head">Credit Card Accepted</th>
+                            <th class="table-head">Range</th>
+                            <th class="table-head">Rental Clubs Available</th>
+                            <th class="table-head">Pro in House</th>
+                            <th class="table-head">Metal Spikes Okay</th>
+                            <th class="table-head">Weekday</th>
+                            <th class="table-head">Weekend</th>
+                            <th class="table-head">Tee Time Welcomed</th>
+                            <th class="table-head">Rental Cart Available</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
             </div>
         </div>
+
     </div>
 
 
