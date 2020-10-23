@@ -183,8 +183,11 @@ function mapCreate(courseData) {
     
             // show popup on mouseover
             marker.on('mouseover', function(event) {
+                plotCreate(c,parseInt(c.course_id));
                 marker.openPopup();
-                console.log(c.course_id);
+                console.log(`course highlighted in app_2 ${c.course_id}`);
+                
+                
             });
     
             marker.on('mouseout', function(event) {

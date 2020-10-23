@@ -94,13 +94,17 @@ def test():
 
 #Define course route
 
-@app.route("/course")
+@app.route("/search")
 def course():
 
-    webpage = render_template("course.html")
+    webpage = render_template("search.html")
     return webpage
 
+@app.route("/about")
+def about():
 
+    webpage = render_template("about.html")
+    return webpage
 
 #run the app
 if __name__ == "__main__":
