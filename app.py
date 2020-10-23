@@ -63,7 +63,8 @@ for i in range(0, len(golf_data)):
     ##print(golf_df)
 
 golf_dict = golf_df.to_dict(orient = 'records')
-print(golf_dict)
+
+
 
 
 #############################################################
@@ -79,10 +80,13 @@ app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
 #Define what to do when a user hits the index route
 @app.route("/")
 def home():
-    golf_json = jsonify(golf_dict)
-    webpage = render_template("index.html", golf = json.dumps(golf_df.to_dict(orient = 'records')))
-    return webpage
 
+    return render_template("index.html") 
+
+@app.route("/test")
+def test():
+    
+    return jsonify(golf_dict)
 
 #Define course route
 
