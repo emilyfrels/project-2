@@ -13,9 +13,20 @@ console.log("tbody");
 d3.csv("/results/MissRiver_golf_details.csv").then(function(data) {
     golfData = data;
     console.log(golfData);
-    console.log(golfData[[0]])
 
-    golfData.splice(["course_id"]);
+    console.log(golfData.columns);
+
+    var columns = golfData.columns;
+    console.log(columns);
+
+    columns = columns.splice(1,38);
+    console.log(columns);
+
+    columns = columns.splice(0,5)
+    console.log(columns);
+
+    console.log(golfData)
+
 
     golfData.forEach(function(courseData) {
         
